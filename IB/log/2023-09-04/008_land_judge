@@ -1,0 +1,49 @@
+2023-09-04 21:25:28.98  [INFO]: Lora initialized
+2023-09-04 21:25:28.112 [INFO]: Pixhawk initialized
+2023-09-04 21:25:28.113 [INFO]: Waiting for drone to connect...
+2023-09-04 21:25:30.256 [INFO]: Drone connected!
+2023-09-04 21:25:30.258 [INFO]: Serial port OK.
+2023-09-04 21:25:32.260 [INFO]: Lora READY
+2023-09-04 21:25:32.261 [INFO]: Waiting for store
+2023-09-04 21:25:32.261 [INFO]: 0 seconds passed
+2023-09-04 21:25:32.561 [INFO]: 0 seconds passed
+2023-09-04 21:25:32.861 [INFO]: 0 seconds passed
+2023-09-04 21:25:33.161 [INFO]: 0 seconds passed
+2023-09-04 21:25:33.461 [INFO]: 1 seconds passed
+2023-09-04 21:25:33.761 [INFO]: 1 seconds passed
+2023-09-04 21:25:34.61  [INFO]: 1 seconds passed
+2023-09-04 21:25:34.361 [INFO]: 2 seconds passed
+2023-09-04 21:25:34.661 [INFO]: 2 seconds passed
+2023-09-04 21:25:34.961 [INFO]: 2 seconds passed
+2023-09-04 21:25:35.261 [INFO]: 3 seconds passed
+2023-09-04 21:25:35.561 [INFO]: 3 seconds passed
+2023-09-04 21:25:35.861 [INFO]: 3 seconds passed
+2023-09-04 21:25:36.161 [INFO]: 3 seconds passed
+2023-09-04 21:25:36.461 [INFO]: 4 seconds passed
+2023-09-04 21:25:36.761 [INFO]: 4 seconds passed
+2023-09-04 21:25:37.61  [INFO]: 4 seconds passed
+2023-09-04 21:25:37.361 [INFO]: 5 seconds passed
+2023-09-04 21:25:37.661 [INFO]: 5 seconds passed
+2023-09-04 21:25:37.961 [INFO]: 5 seconds passed
+2023-09-04 21:25:38.261 [INFO]: 6 seconds passed
+2023-09-04 21:25:38.561 [INFO]: 6 seconds passed
+2023-09-04 21:25:38.861 [INFO]: 6 seconds passed
+2023-09-04 21:25:39.161 [INFO]: 6 seconds passed
+2023-09-04 21:25:39.461 [INFO]: 7 seconds passed
+2023-09-04 21:25:39.761 [INFO]: 7 seconds passed
+2023-09-04 21:25:40.61  [INFO]: 7 seconds passed
+2023-09-04 21:25:40.361 [INFO]: 8 seconds passed
+2023-09-04 21:25:40.661 [INFO]: 8 seconds passed
+2023-09-04 21:25:40.961 [INFO]: 8 seconds passed
+2023-09-04 21:25:41.261 [INFO]: 9 seconds passed
+2023-09-04 21:25:41.561 [INFO]: 9 seconds passed
+2023-09-04 21:25:41.861 [INFO]: 9 seconds passed
+2023-09-04 21:25:42.161 [INFO]: 9 seconds passed
+2023-09-04 21:25:42.461 [INFO]: 10 seconds passed
+2023-09-04 21:25:42.761 [INFO]: 10 seconds passed
+2023-09-04 21:25:43.61  [INFO]: 10 seconds passed
+2023-09-04 21:25:43.261 [INFO]: 10 seconds passed. Wait phase finished
+2023-09-04 21:25:43.262 [INFO]: -------------------- Land judge start --------------------
+2023-09-04 21:25:43.290 [INFO]: Time passed:0
+2023-09-04 21:25:44.67  [INFO]: Can't catch GPS
+2023-09-04 21:25:48.69  [INFO]: lat:error

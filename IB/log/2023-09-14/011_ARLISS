@@ -1,0 +1,182 @@
+2023-09-14 11:28:37.255 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 11:28:37.257 [INFO]: Lora initialized
+2023-09-14 11:28:37.263 [INFO]: Light initialized
+2023-09-14 11:28:37.484 [INFO]: Camera initialized
+2023-09-14 11:28:37.485 [INFO]: Pixhawk initialized
+2023-09-14 11:28:37.486 [INFO]: #################### Ibis initialized ####################
+2023-09-14 11:28:37.486 [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 11:28:37.487 [INFO]: #################### Wait store phase start ####################
+2023-09-14 11:28:37.487 [INFO]: Lora power on
+2023-09-14 11:28:37.489 [INFO]: Serial port OK.
+2023-09-14 11:28:39.492 [INFO]: Lora READY
+2023-09-14 11:28:39.493 [INFO]: Waiting for drone to connect...
+2023-09-14 11:28:41.878 [INFO]: Drone connected!
+2023-09-14 11:28:41.879 [INFO]: Waiting for store
+2023-09-14 11:28:42.382 [INFO]:   0.5| Light Value: 70
+2023-09-14 11:28:42.492 [INFO]: Lidar:
+2023-09-14 11:28:42.884 [INFO]:   1.0| Light Value: 71
+2023-09-14 11:28:43.75  [INFO]: Lidar:
+2023-09-14 11:28:43.387 [INFO]:   1.5| Light Value: 71
+2023-09-14 11:28:43.678 [INFO]: Lidar:
+2023-09-14 11:28:43.889 [INFO]:   2.0| Light Value: 71
+2023-09-14 11:28:44.279 [INFO]: Lidar:
+2023-09-14 11:28:44.392 [INFO]:   2.5| Light Value: 70
+2023-09-14 11:28:44.878 [INFO]: Lidar:
+2023-09-14 11:28:44.894 [INFO]:   3.0| Light Value: 70
+2023-09-14 11:28:45.385 [INFO]: 0 seconds passed. Wait phase finished
+2023-09-14 11:28:45.477 [INFO]: Lidar:
+2023-09-14 11:28:48.390 [INFO]: #################### Wait store phase finished ####################
+2023-09-14 11:28:48.393 [INFO]: #################### Judge phase start ####################
+2023-09-14 11:28:48.437 [INFO]: Uploading mission
+2023-09-14 11:28:49.589 [INFO]: -------------------- Stored judge start --------------------
+2023-09-14 11:28:52.994 [INFO]:   0.4| Light Value: 69, Continuation:True
+2023-09-14 11:28:53.394 [INFO]:   0.8| Light Value: 69, Continuation:True
+2023-09-14 11:28:53.794 [INFO]:   1.2| Light Value: 69, Continuation:True
+2023-09-14 11:28:54.194 [INFO]:   1.6| Light Value: 68, Continuation:True
+2023-09-14 11:28:54.594 [INFO]:   2.0| Light Value: 68, Continuation:True
+2023-09-14 11:28:54.994 [INFO]:   2.4| Light Value: 67, Continuation:True
+2023-09-14 11:28:55.394 [INFO]:   2.8| Light Value: 67, Continuation:True
+2023-09-14 11:28:55.794 [INFO]:   3.2| Light Value: 67, Continuation:True
+2023-09-14 11:28:56.194 [INFO]:   3.6| Light Value: 67, Continuation:True
+2023-09-14 11:28:56.594 [INFO]:   4.0| Light Value: 67, Continuation:True
+2023-09-14 11:28:56.994 [INFO]:   4.4| Light Value: 68, Continuation:True
+2023-09-14 11:28:57.394 [INFO]:   4.8| Light Value: 67, Continuation:True
+2023-09-14 11:28:57.593 [INFO]: -- Light Judge
+2023-09-14 11:29:00.598 [INFO]: -------------------- Stored judge finish --------------------
+2023-09-14 11:29:00.599 [INFO]: -------------------- Released judge start --------------------
+2023-09-14 11:29:04.4   [INFO]:   0.4| Light Value: 66, Continuation:False
+2023-09-14 11:29:04.404 [INFO]:   0.8| Light Value: 66, Continuation:False
+2023-09-14 11:29:04.804 [INFO]:   1.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:05.204 [INFO]:   1.6| Light Value: 64, Continuation:False
+2023-09-14 11:29:05.604 [INFO]:   2.0| Light Value: 64, Continuation:False
+2023-09-14 11:29:06.4   [INFO]:   2.4| Light Value: 63, Continuation:False
+2023-09-14 11:29:06.404 [INFO]:   2.8| Light Value: 64, Continuation:False
+2023-09-14 11:29:06.804 [INFO]:   3.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:07.204 [INFO]:   3.6| Light Value: 65, Continuation:False
+2023-09-14 11:29:07.604 [INFO]:   4.0| Light Value: 65, Continuation:False
+2023-09-14 11:29:08.4   [INFO]:   4.4| Light Value: 65, Continuation:False
+2023-09-14 11:29:08.404 [INFO]:   4.8| Light Value: 65, Continuation:False
+2023-09-14 11:29:08.804 [INFO]:   5.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:09.204 [INFO]:   5.6| Light Value: 66, Continuation:False
+2023-09-14 11:29:09.604 [INFO]:   6.0| Light Value: 66, Continuation:False
+2023-09-14 11:29:10.4   [INFO]:   6.4| Light Value: 65, Continuation:False
+2023-09-14 11:29:10.404 [INFO]:   6.8| Light Value: 65, Continuation:False
+2023-09-14 11:29:10.804 [INFO]:   7.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:11.204 [INFO]:   7.6| Light Value: 64, Continuation:False
+2023-09-14 11:29:11.604 [INFO]:   8.0| Light Value: 64, Continuation:False
+2023-09-14 11:29:12.4   [INFO]:   8.4| Light Value: 64, Continuation:False
+2023-09-14 11:29:12.404 [INFO]:   8.8| Light Value: 64, Continuation:False
+2023-09-14 11:29:12.804 [INFO]:   9.2| Light Value: 64, Continuation:False
+2023-09-14 11:29:13.204 [INFO]:   9.6| Light Value: 65, Continuation:False
+2023-09-14 11:29:13.604 [INFO]:  10.0| Light Value: 65, Continuation:False
+2023-09-14 11:29:14.4   [INFO]:  10.4| Light Value: 64, Continuation:False
+2023-09-14 11:29:14.404 [INFO]:  10.8| Light Value: 64, Continuation:False
+2023-09-14 11:29:14.804 [INFO]:  11.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:15.204 [INFO]:  11.6| Light Value: 65, Continuation:False
+2023-09-14 11:29:15.604 [INFO]:  12.0| Light Value: 65, Continuation:False
+2023-09-14 11:29:16.4   [INFO]:  12.4| Light Value: 65, Continuation:False
+2023-09-14 11:29:16.404 [INFO]:  12.8| Light Value: 65, Continuation:False
+2023-09-14 11:29:16.804 [INFO]:  13.2| Light Value: 65, Continuation:False
+2023-09-14 11:29:17.204 [INFO]:  13.6| Light Value: 64, Continuation:False
+2023-09-14 11:29:17.604 [INFO]:  14.0| Light Value: 64, Continuation:False
+2023-09-14 11:29:18.4   [INFO]:  14.4| Light Value: 65, Continuation:False
+2023-09-14 11:29:18.404 [INFO]:  14.8| Light Value: 65, Continuation:False
+2023-09-14 11:29:18.804 [INFO]:  15.2| Light Value: 64, Continuation:False
+2023-09-14 11:29:19.204 [INFO]:  15.6| Light Value: 64, Continuation:False
+2023-09-14 11:29:19.604 [INFO]:  16.0| Light Value: 64, Continuation:False
+2023-09-14 11:29:20.4   [INFO]:  16.4| Light Value: 64, Continuation:False
+2023-09-14 11:29:20.404 [INFO]:  16.8| Light Value: 64, Continuation:False
+2023-09-14 11:29:20.804 [INFO]:  17.2| Light Value: 63, Continuation:False
+2023-09-14 11:29:21.204 [INFO]:  17.6| Light Value: 63, Continuation:False
+2023-09-14 11:29:21.604 [INFO]:  18.0| Light Value: 63, Continuation:False
+2023-09-14 11:29:22.4   [INFO]:  18.4| Light Value: 63, Continuation:False
+2023-09-14 11:29:22.404 [INFO]:  18.8| Light Value: 63, Continuation:False
+2023-09-14 11:29:22.804 [INFO]:  19.2| Light Value: 63, Continuation:False
+2023-09-14 11:29:23.204 [INFO]:  19.6| Light Value: 63, Continuation:False
+2023-09-14 11:29:23.605 [INFO]:  20.0| Light Value: 63, Continuation:False
+2023-09-14 11:29:24.5   [INFO]:  20.4| Light Value: 62, Continuation:False
+2023-09-14 11:29:24.405 [INFO]:  20.8| Light Value: 61, Continuation:False
+2023-09-14 11:29:24.805 [INFO]:  21.2| Light Value: 62, Continuation:False
+2023-09-14 11:29:25.205 [INFO]:  21.6| Light Value: 62, Continuation:False
+2023-09-14 11:29:25.605 [INFO]:  22.0| Light Value: 62, Continuation:False
+2023-09-14 11:29:26.5   [INFO]:  22.4| Light Value: 62, Continuation:False
+2023-09-14 11:29:26.405 [INFO]:  22.8| Light Value: 62, Continuation:False
+2023-09-14 11:29:26.805 [INFO]:  23.2| Light Value: 62, Continuation:False
+2023-09-14 11:29:27.205 [INFO]:  23.6| Light Value: 62, Continuation:False
+2023-09-14 11:29:27.605 [INFO]:  24.0| Light Value: 63, Continuation:False
+2023-09-14 11:29:28.5   [INFO]:  24.4| Light Value: 63, Continuation:False
+2023-09-14 11:29:28.405 [INFO]:  24.8| Light Value: 63, Continuation:False
+2023-09-14 11:29:28.805 [INFO]:  25.2| Light Value: 63, Continuation:False
+2023-09-14 11:29:29.205 [INFO]:  25.6| Light Value: 63, Continuation:False
+2023-09-14 11:29:29.605 [INFO]:  26.0| Light Value: 63, Continuation:False
+2023-09-14 11:29:30.5   [INFO]:  26.4| Light Value: 63, Continuation:False
+2023-09-14 11:29:30.405 [INFO]:  26.8| Light Value: 63, Continuation:False
+2023-09-14 11:29:30.805 [INFO]:  27.2| Light Value: 63, Continuation:False
+2023-09-14 11:29:31.205 [INFO]:  27.6| Light Value: 63, Continuation:False
+2023-09-14 11:29:31.605 [INFO]:  28.0| Light Value: 63, Continuation:False
+2023-09-14 11:29:32.5   [INFO]:  28.4| Light Value: 62, Continuation:False
+2023-09-14 11:29:32.405 [INFO]:  28.8| Light Value: 63, Continuation:False
+2023-09-14 11:29:32.805 [INFO]:  29.2| Light Value: 62, Continuation:False
+2023-09-14 11:29:33.205 [INFO]:  29.6| Light Value: 62, Continuation:False
+2023-09-14 11:29:33.604 [INFO]: -- Timer Judge
+2023-09-14 11:29:36.608 [INFO]: -------------------- Released judge finish --------------------
+2023-09-14 11:29:39.613 [INFO]: -------------------- Land judge start --------------------
+2023-09-14 11:29:39.719 [INFO]: Position: [latitude_deg: 40.6581044, longitude_deg: -119.3648173, absolute_altitude_m: 1208.2750244140625, relative_altitude_m: 0.0]
+2023-09-14 11:29:42.682 [INFO]: -- Under 15m
+2023-09-14 11:29:42.723 [INFO]: lat:40.6581044
+2023-09-14 11:29:43.685 [INFO]: Time passed:1
+2023-09-14 11:29:43.686 [INFO]: Time passed:1
+2023-09-14 11:29:43.782 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 11:29:44.180 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 11:29:44.483 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 11:29:44.680 [INFO]: -- Lidar Judge
+2023-09-14 11:29:47.685 [INFO]: -------------------- Land judge finish --------------------
+2023-09-14 11:29:47.686 [INFO]: #################### Judge phase finished ####################
+2023-09-14 11:29:47.688 [INFO]: #################### Fuse phase start ####################
+2023-09-14 11:29:47.689 [INFO]: Fuse start
+2023-09-14 11:29:47.690 [INFO]: -- Fusing
+2023-09-14 11:29:51.693 [INFO]: Fused
+2023-09-14 11:29:51.694 [INFO]: #################### Fuse phase finished ####################
+2023-09-14 11:29:51.695 [INFO]: #################### Flying phase start ####################
+2023-09-14 11:29:51.695 [INFO]: Waiting for drone to hold...
+2023-09-14 11:29:51.721 [INFO]: Hold mode!
+2023-09-14 11:29:51.722 [INFO]: Waiting for drone to have a global position estimate...
+2023-09-14 11:29:51.783 [INFO]: gps ng
+2023-09-14 11:29:52.782 [INFO]: gps ng
+2023-09-14 11:29:53.782 [INFO]: gps ng
+2023-09-14 11:29:54.781 [INFO]: gps ng
+2023-09-14 11:29:55.782 [INFO]: gps ng
+2023-09-14 11:29:56.782 [INFO]: gps ng
+2023-09-14 11:29:57.780 [INFO]: gps ng
+2023-09-14 11:29:58.781 [INFO]: gps ng
+2023-09-14 11:29:59.781 [INFO]: gps ng
+2023-09-14 11:30:00.781 [INFO]: gps ng
+2023-09-14 11:30:01.781 [INFO]: gps ok
+2023-09-14 11:30:01.782 [INFO]: Global position estimate OK
+2023-09-14 11:30:01.782 [INFO]: Arming
+2023-09-14 11:30:01.797 [INFO]: Armed!
+2023-09-14 11:30:01.797 [INFO]: Starting mission
+2023-09-14 11:30:01.819 [INFO]: Started mission!
+2023-09-14 11:30:01.835 [INFO]:  mode:None mission progress:None/None lat:None lng:None lidar:Nonem
+2023-09-14 11:30:02.837 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6580967 lng:-119.3648254 lidar:0.009999999776482582m
+2023-09-14 11:30:03.839 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6580965 lng:-119.3648257 lidar:0.009999999776482582m
+2023-09-14 11:30:04.840 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6580963 lng:-119.3648274 lidar:0.029999999329447746m
+2023-09-14 11:30:05.842 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6580965 lng:-119.3648321 lidar:0.2800000011920929m
+2023-09-14 11:30:06.844 [INFO]:  mode:MISSION mission progress:0/1 lat:40.658097399999996 lng:-119.36483469999999 lidar:0.8899999856948853m
+2023-09-14 11:30:07.847 [INFO]:  mode:MISSION mission progress:0/1 lat:40.658097999999995 lng:-119.36483249999999 lidar:1.9499999284744263m
+2023-09-14 11:30:08.848 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581002 lng:-119.3648291 lidar:3.0199999809265137m
+2023-09-14 11:30:09.850 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581021 lng:-119.364826 lidar:3.9099998474121094m
+2023-09-14 11:30:10.853 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581064 lng:-119.3648104 lidar:4.519999980926514m
+2023-09-14 11:30:11.855 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581152 lng:-119.3647785 lidar:4.690000057220459m
+2023-09-14 11:30:12.857 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581158 lng:-119.3647372 lidar:4.5m
+2023-09-14 11:30:13.858 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581374 lng:-119.36468719999999 lidar:4.730000019073486m
+2023-09-14 11:30:14.860 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581293 lng:-119.3646405 lidar:3.759999990463257m
+2023-09-14 11:30:15.862 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6580981 lng:-119.3646062 lidar:3.819999933242798m
+2023-09-14 11:30:16.865 [INFO]:  mode:MISSION mission progress:0/1 lat:40.658100999999995 lng:-119.3645657 lidar:2.6499998569488525m
+2023-09-14 11:30:17.867 [INFO]:  mode:MISSION mission progress:0/1 lat:40.658119299999996 lng:-119.36449409999999 lidar:3.309999942779541m
+2023-09-14 11:30:18.869 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581368 lng:-119.3644267 lidar:4.309999942779541m
+2023-09-14 11:30:19.874 [INFO]:  mode:MISSION mission progress:0/1 lat:40.6581567 lng:-119.36441459999999 lidar:1.6799999475479126m
+2023-09-14 11:30:20.875 [INFO]:  mode:UNKNOWN mission progress:0/1 lat:40.6581561 lng:-119.36442319999999 lidar:0.03999999910593033m
+2023-09-14 11:30:21.877 [INFO]:  mode:UNKNOWN mission progress:0/1 lat:40.6581591 lng:-119.3644231 lidar:0.38999998569488525m
+2023-09-14 11:30:22.879 [INFO]:  mode:UNKNOWN mission progress:0/1 lat:40.6581615 lng:-119.3644047 lidar:0.7899999618530273m
+2023-09-14 11:30:23.882 [INFO]:  mode:UNKNOWN mission progress:0/1 lat:40.6581665 lng:-119.3644065 lidar:0.3799999952316284m

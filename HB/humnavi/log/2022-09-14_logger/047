@@ -1,0 +1,73 @@
+2022-09-14 18:40:51.219 [INFO]: Pixhawk initialized
+2022-09-14 18:40:51.223 [INFO]: Waiting for drone to connect...
+2022-09-14 18:40:52.319 [INFO]: Drone discovered!
+2022-09-14 18:40:52.354 [INFO]: armed:False mode:0.0 satellite: 0.0 abs_alt:0.0 lidar: -1m x:0.0 y:0.0 roll:0.0 pitch:0.0 yaw:0.0 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-14 18:40:52.358 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/000.json already exists
+2022-09-14 18:40:52.359 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/001.json already exists
+2022-09-14 18:40:52.360 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/002.json already exists
+2022-09-14 18:40:52.362 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/003.json already exists
+2022-09-14 18:40:52.364 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/004.json already exists
+2022-09-14 18:40:52.366 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/005.json already exists
+2022-09-14 18:40:52.366 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/006.json already exists
+2022-09-14 18:40:52.368 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/007.json already exists
+2022-09-14 18:40:52.369 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/008.json already exists
+2022-09-14 18:40:52.370 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/009.json already exists
+2022-09-14 18:40:52.370 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/010.json already exists
+2022-09-14 18:40:52.371 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/011.json already exists
+2022-09-14 18:40:52.372 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/012.json already exists
+2022-09-14 18:40:52.373 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/013.json already exists
+2022-09-14 18:40:52.374 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/014.json already exists
+2022-09-14 18:40:52.375 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/015.json already exists
+2022-09-14 18:40:52.377 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/016.json already exists
+2022-09-14 18:40:52.378 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/017.json already exists
+2022-09-14 18:40:52.379 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/018.json already exists
+2022-09-14 18:40:52.380 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/019.json already exists
+2022-09-14 18:40:52.381 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/020.json already exists
+2022-09-14 18:40:52.383 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/021.json already exists
+2022-09-14 18:40:52.384 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/022.json already exists
+2022-09-14 18:40:52.385 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/023.json already exists
+2022-09-14 18:40:52.386 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/024.json already exists
+2022-09-14 18:40:52.387 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/025.json already exists
+2022-09-14 18:40:52.388 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/026.json already exists
+2022-09-14 18:40:52.389 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/027.json already exists
+2022-09-14 18:40:52.390 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/028.json already exists
+2022-09-14 18:40:52.391 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/029.json already exists
+2022-09-14 18:40:52.393 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/030.json already exists
+2022-09-14 18:40:52.394 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/031.json already exists
+2022-09-14 18:40:52.395 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/032.json already exists
+2022-09-14 18:40:52.396 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/033.json already exists
+2022-09-14 18:40:52.397 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/034.json already exists
+2022-09-14 18:40:52.398 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/035.json already exists
+2022-09-14 18:40:52.399 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/036.json already exists
+2022-09-14 18:40:52.402 [INFO]: --Holding
+2022-09-14 18:40:52.446 [INFO]: --Holding
+2022-09-14 18:40:52.482 [INFO]: --Holding
+2022-09-14 18:40:52.512 [INFO]: --Holding
+2022-09-14 18:40:52.535 [INFO]: --Holding
+2022-09-14 18:40:52.573 [INFO]: --Holding
+2022-09-14 18:40:52.602 [INFO]: --Holding
+2022-09-14 18:40:52.637 [INFO]: --Holding
+2022-09-14 18:40:52.658 [INFO]: armed:False mode:0.0 satellite: 13 abs_alt:0.0 lidar: -1m x:0.0009178037871606648 y:-0.01538926176726818 roll:-3.493467330932617 pitch:-0.9013252854347229 yaw:-0.13654977083206177 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-14 18:40:52.675 [INFO]: --Holding
+2022-09-14 18:40:52.700 [INFO]: --Holding
+2022-09-14 18:40:52.728 [INFO]: --Holding
+2022-09-14 18:40:52.769 [INFO]: --Holding
+2022-09-14 18:40:52.804 [INFO]: --Holding
+2022-09-14 18:40:52.833 [INFO]: --Holding
+2022-09-14 18:40:52.872 [INFO]: --Holding
+2022-09-14 18:40:52.905 [INFO]: --Holding
+2022-09-14 18:40:52.938 [INFO]: --Holding
+2022-09-14 18:40:52.961 [INFO]: armed:False mode:0.0 satellite: 13 abs_alt:0.0 lidar: -1m x:0.0012157378951087594 y:-0.014799130149185658 roll:-3.488361358642578 pitch:-0.8834335803985596 yaw:-0.2084047794342041 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-14 18:40:52.970 [INFO]: --Holding
+2022-09-14 18:40:52.998 [INFO]: --Holding
+2022-09-14 18:40:53.24  [INFO]: --Holding
+2022-09-14 18:40:53.61  [INFO]: --Holding
+2022-09-14 18:40:53.100 [INFO]: --Holding
+2022-09-14 18:40:53.127 [INFO]: --Holding
+2022-09-14 18:40:53.166 [INFO]: --Holding
+2022-09-14 18:40:53.203 [INFO]: --Holding
+2022-09-14 18:40:53.230 [INFO]: --Holding
+2022-09-14 18:40:53.255 [INFO]: --Holding
+2022-09-14 18:40:53.264 [INFO]: armed:False mode:0.0 satellite: 13 abs_alt:0.0 lidar: -1m x:0.001472922507673502 y:-0.014570480212569237 roll:-3.474313974380493 pitch:-0.9075935482978821 yaw:-0.27296945452690125 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-14 18:40:53.293 [INFO]: --Holding
+2022-09-14 18:40:53.566 [INFO]: armed:False mode:HOLD satellite: 13 abs_alt:0.0 lidar: -1m x:0.001847039326094091 y:-0.013638126663863659 roll:-3.472161293029785 pitch:-0.9075241684913635 yaw:-0.3302217125892639 is_landed:False is home position ok:0.0 maximum_speed:0.0

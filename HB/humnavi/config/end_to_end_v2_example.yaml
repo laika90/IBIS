@@ -1,0 +1,9 @@
+cds_threshold: 50
+deploy_arm_s: 1
+max_cruise_speed: 12
+limit_down_m_s: 5
+limit_lidar: 8
+arm_goto_s: 1
+mission_name: "matsudo"
+time_limit_goto: 10
+land_time_limit: 15

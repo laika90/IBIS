@@ -1,0 +1,10 @@
+deploy_arm_s: 5
+max_cruise_speed_m_s: 10
+recovery_target_z_m: 5
+max_recovery_speed_m_s: 2
+recovery_time_s: 3
+arm_goto_s: 1
+target_name: "matsudo_target"
+time_limit_goto_s: 20
+land_time_limit_s: 10
+model_ver: 2

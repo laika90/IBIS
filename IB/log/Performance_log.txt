@@ -1,0 +1,30 @@
+000 already exists
+001 already exists
+002 already exists
+003 already exists
+004 already exists
+005 already exists
+006 already exists
+007 already exists
+008 already exists
+009 already exists
+010 already exists
+011 already exists
+012 already exists
+013 already exists
+014 already exists
+015 already exists
+016 already exists
+017 already exists
+2023-09-14 05:11:38.462 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 05:11:38.463 [INFO]: Lora initialized
+2023-09-14 05:11:38.464 [INFO]: Light initialized
+2023-09-14 05:11:38.603 [INFO]: Camera initialized
+2023-09-14 05:11:38.604 [INFO]: Pixhawk initialized
+2023-09-14 05:11:38.604 [INFO]: #################### Ibis initialized ####################
+2023-09-14 05:11:38.605 [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 05:11:38.605 [INFO]: #################### Wait store phase start ####################
+2023-09-14 05:11:38.606 [INFO]: Lora power on
+2023-09-14 05:11:38.607 [INFO]: Serial port OK.
+2023-09-14 05:11:40.610 [INFO]: Lora READY
+2023-09-14 05:11:40.611 [INFO]: Waiting for drone to connect...

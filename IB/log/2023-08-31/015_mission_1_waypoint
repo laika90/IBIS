@@ -1,0 +1,5 @@
+2023-08-31 15:18:03.690 [INFO]: Lora initialized
+2023-08-31 15:18:03.694 [INFO]: Pixhawk initialized
+2023-08-31 15:18:03.695 [INFO]: Waiting for drone to connect...
+2023-08-31 15:18:06.218 [INFO]: Drone connected!
+2023-08-31 15:18:06.246 [INFO]: Uploading mission

@@ -1,0 +1,114 @@
+2023-08-27 14:44:11.284 [INFO]: Lora initialized
+2023-08-27 14:44:11.289 [INFO]: Pixhawk initialized
+2023-08-27 14:44:11.293 [INFO]: Light initialized
+2023-08-27 14:44:11.299 [INFO]: Ibis initialized
+2023-08-27 14:44:11.302 [INFO]: Waiting for drone to connect...
+2023-08-27 14:44:13.408 [INFO]: Drone connected!
+2023-08-27 14:44:13.464 [INFO]: Uploading mission
+2023-08-27 14:44:14.524 [INFO]: ################## stored judge start ####################
+2023-08-27 14:44:14.928 [INFO]:   0.4| 光センサ:417, 継続:False
+2023-08-27 14:44:15.328 [INFO]:   0.8| 光センサ:421, 継続:False
+2023-08-27 14:44:15.728 [INFO]:   1.2| 光センサ:423, 継続:False
+2023-08-27 14:44:16.130 [INFO]:   1.6| 光センサ:423, 継続:False
+2023-08-27 14:44:16.530 [INFO]:   2.0| 光センサ:423, 継続:False
+2023-08-27 14:44:16.930 [INFO]:   2.4| 光センサ:424, 継続:False
+2023-08-27 14:44:17.330 [INFO]:   2.8| 光センサ:423, 継続:False
+2023-08-27 14:44:17.730 [INFO]:   3.2| 光センサ:407, 継続:False
+2023-08-27 14:44:17.736 [INFO]:   0.0| 光センサ:411, 継続:True
+2023-08-27 14:44:18.291 [INFO]:   0.4| 光センサ:351, 継続:True
+2023-08-27 14:44:18.691 [INFO]:   0.8| 光センサ:370, 継続:True
+2023-08-27 14:44:19.94  [INFO]:   1.2| 光センサ:238, 継続:True
+2023-08-27 14:44:19.494 [INFO]:   1.6| 光センサ:192, 継続:True
+2023-08-27 14:44:19.894 [INFO]:   2.0| 光センサ:177, 継続:True
+2023-08-27 14:44:20.298 [INFO]:   2.4| 光センサ:191, 継続:True
+2023-08-27 14:44:20.696 [INFO]:   2.8| 光センサ:213, 継続:True
+2023-08-27 14:44:21.97  [INFO]:   3.2| 光センサ:245, 継続:True
+2023-08-27 14:44:21.497 [INFO]:   3.6| 光センサ:247, 継続:True
+2023-08-27 14:44:21.897 [INFO]:   4.0| 光センサ:245, 継続:True
+2023-08-27 14:44:22.297 [INFO]:   4.4| 光センサ:226, 継続:True
+2023-08-27 14:44:22.697 [INFO]:   4.8| 光センサ:210, 継続:True
+2023-08-27 14:44:22.890 [INFO]: -- Light Judge
+2023-08-27 14:44:22.893 [INFO]: #################### stored judge finish ###################
+2023-08-27 14:44:22.897 [INFO]: ################### released judge start ###################
+2023-08-27 14:44:23.307 [INFO]:   0.4| 光センサ:137, 継続:False
+2023-08-27 14:44:23.707 [INFO]:   0.8| 光センサ:384, 継続:False
+2023-08-27 14:44:23.797 [INFO]:   0.0| 光センサ:400, 継続:True
+2023-08-27 14:44:24.208 [INFO]:   0.4| 光センサ:328, 継続:False
+2023-08-27 14:44:24.608 [INFO]:   0.8| 光センサ:387, 継続:False
+2023-08-27 14:44:24.621 [INFO]:   0.0| 光センサ:401, 継続:True
+2023-08-27 14:44:25.21  [INFO]:   0.4| 光センサ:476, 継続:True
+2023-08-27 14:44:25.421 [INFO]:   0.8| 光センサ:485, 継続:True
+2023-08-27 14:44:25.821 [INFO]:   1.2| 光センサ:480, 継続:True
+2023-08-27 14:44:26.227 [INFO]:   1.6| 光センサ:478, 継続:True
+2023-08-27 14:44:26.627 [INFO]:   2.0| 光センサ:481, 継続:True
+2023-08-27 14:44:27.27  [INFO]:   2.4| 光センサ:480, 継続:True
+2023-08-27 14:44:27.427 [INFO]:   2.8| 光センサ:480, 継続:True
+2023-08-27 14:44:27.827 [INFO]:   3.2| 光センサ:481, 継続:True
+2023-08-27 14:44:28.228 [INFO]:   3.6| 光センサ:480, 継続:True
+2023-08-27 14:44:28.627 [INFO]:   4.0| 光センサ:480, 継続:True
+2023-08-27 14:44:29.27  [INFO]:   4.4| 光センサ:479, 継続:True
+2023-08-27 14:44:29.427 [INFO]:   4.8| 光センサ:479, 継続:True
+2023-08-27 14:44:29.621 [INFO]: -- Light Judge
+2023-08-27 14:44:29.625 [INFO]: ##################### released judge finish #####################
+2023-08-27 14:44:29.629 [INFO]: Lora power on
+2023-08-27 14:44:29.635 [INFO]: Serial port OK.
+2023-08-27 14:44:31.642 [INFO]: Lora READY
+2023-08-27 14:44:31.648 [INFO]: ################ Land judge start ################
+2023-08-27 14:44:32.467 [INFO]: Can't catch GPS
+2023-08-27 14:44:35.469 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:35.487 [INFO]: lat:error
+2023-08-27 14:44:36.286 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:37.112 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:37.938 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:38.496 [INFO]: lng:error
+2023-08-27 14:44:38.754 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:39.572 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:40.390 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:41.206 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:41.502 [INFO]: alt:error
+2023-08-27 14:44:42.30  [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:42.319 [INFO]: Can't catch GPS
+2023-08-27 14:44:42.852 [INFO]: Too high or distance sensor might have some error
+2023-08-27 14:44:42.857 [INFO]: -- Timer Judge
+2023-08-27 14:44:42.862 [INFO]: ################ Land judge finish ###############
+2023-08-27 14:44:45.331 [INFO]: lat:error
+2023-08-27 14:44:48.337 [INFO]: lng:error
+2023-08-27 14:44:51.343 [INFO]: alt:error
+2023-08-27 14:44:52.158 [INFO]: Can't catch GPS
+2023-08-27 14:44:55.168 [INFO]: lat:error
+2023-08-27 14:44:58.178 [INFO]: lng:error
+2023-08-27 14:45:01.185 [INFO]: alt:error
+2023-08-27 14:45:02.7   [INFO]: Can't catch GPS
+2023-08-27 14:45:05.20  [INFO]: lat:error
+2023-08-27 14:45:08.32  [INFO]: lng:error
+2023-08-27 14:45:11.40  [INFO]: alt:error
+2023-08-27 14:45:11.861 [INFO]: Can't catch GPS
+2023-08-27 14:45:14.871 [INFO]: lat:error
+2023-08-27 14:45:17.882 [INFO]: lng:error
+2023-08-27 14:45:20.894 [INFO]: alt:error
+2023-08-27 14:45:21.710 [INFO]: Can't catch GPS
+2023-08-27 14:45:24.719 [INFO]: lat:error
+2023-08-27 14:45:27.729 [INFO]: lng:error
+2023-08-27 14:45:30.737 [INFO]: alt:error
+2023-08-27 14:45:31.553 [INFO]: Can't catch GPS
+2023-08-27 14:45:34.560 [INFO]: lat:error
+2023-08-27 14:45:37.569 [INFO]: lng:error
+2023-08-27 14:45:40.578 [INFO]: alt:error
+2023-08-27 14:45:41.398 [INFO]: Can't catch GPS
+2023-08-27 14:45:44.407 [INFO]: lat:error
+2023-08-27 14:45:47.416 [INFO]: lng:error
+2023-08-27 14:45:50.424 [INFO]: alt:error
+2023-08-27 14:45:51.241 [INFO]: Can't catch GPS
+2023-08-27 14:45:54.252 [INFO]: lat:error
+2023-08-27 14:45:57.259 [INFO]: lng:error
+2023-08-27 14:46:00.268 [INFO]: alt:error
+2023-08-27 14:46:01.87  [INFO]: Can't catch GPS
+2023-08-27 14:46:04.102 [INFO]: lat:error
+2023-08-27 14:46:07.109 [INFO]: lng:error
+2023-08-27 14:46:10.119 [INFO]: alt:error
+2023-08-27 14:46:10.935 [INFO]: Can't catch GPS
+2023-08-27 14:46:13.945 [INFO]: lat:error
+2023-08-27 14:46:16.954 [INFO]: lng:error
+2023-08-27 14:46:19.964 [INFO]: alt:error
+2023-08-27 14:46:20.781 [INFO]: Can't catch GPS
+2023-08-27 14:46:23.791 [INFO]: lat:error

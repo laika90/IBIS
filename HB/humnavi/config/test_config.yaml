@@ -1,0 +1,20 @@
+drone: "usb"
+lora: True
+light: True
+camera: False
+cds_threshold: 200
+deploy_arm_s: 15
+arm_takeoff_s: 1
+takeoff_altitude: 12
+takeoff_goto_s: 10
+cur_recovery_speed_m_s: 5
+max_cruise_speed_m_s: 12
+recovery_tan: 0.3
+recovery_time_s: 5
+hold_time_s: 3
+target_name: "test_target"
+time_limit_goto_s: 30
+land_alt_m: 1
+final_goto_duration_s: 10
+goto_end_threshold_m: 5
+

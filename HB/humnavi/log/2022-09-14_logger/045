@@ -1,0 +1,382 @@
+2022-09-14 18:29:51.691 [INFO]: Pixhawk initialized
+2022-09-14 18:29:51.694 [INFO]: initialized!
+2022-09-14 18:29:51.697 [INFO]: Waiting for drone to connect...
+2022-09-14 18:29:51.791 [INFO]: Drone discovered!
+2022-09-14 18:29:51.793 [INFO]: set maximum speed to:12
+2022-09-14 18:29:51.843 [INFO]: drone connected!
+2022-09-14 18:29:51.845 [INFO]: --Holding
+2022-09-14 18:29:51.876 [INFO]: armed:False mode:0.0 satellite: 0.0 abs_alt:0.0 lidar: -1m x:0.0 y:0.0 roll:0.0 pitch:0.0 yaw:0.0 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:51.878 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/000.json already exists
+2022-09-14 18:29:51.878 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/001.json already exists
+2022-09-14 18:29:51.879 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/002.json already exists
+2022-09-14 18:29:51.881 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/003.json already exists
+2022-09-14 18:29:51.882 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/004.json already exists
+2022-09-14 18:29:51.883 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/005.json already exists
+2022-09-14 18:29:51.884 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/006.json already exists
+2022-09-14 18:29:51.885 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/007.json already exists
+2022-09-14 18:29:51.887 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/008.json already exists
+2022-09-14 18:29:51.888 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/009.json already exists
+2022-09-14 18:29:51.889 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/010.json already exists
+2022-09-14 18:29:51.891 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/011.json already exists
+2022-09-14 18:29:51.892 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/012.json already exists
+2022-09-14 18:29:51.893 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/013.json already exists
+2022-09-14 18:29:51.894 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/014.json already exists
+2022-09-14 18:29:51.894 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/015.json already exists
+2022-09-14 18:29:51.895 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/016.json already exists
+2022-09-14 18:29:51.896 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/017.json already exists
+2022-09-14 18:29:51.896 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/018.json already exists
+2022-09-14 18:29:51.897 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/019.json already exists
+2022-09-14 18:29:51.898 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/020.json already exists
+2022-09-14 18:29:51.899 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/021.json already exists
+2022-09-14 18:29:51.900 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/022.json already exists
+2022-09-14 18:29:51.901 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/023.json already exists
+2022-09-14 18:29:51.901 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/024.json already exists
+2022-09-14 18:29:51.902 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/025.json already exists
+2022-09-14 18:29:51.903 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/026.json already exists
+2022-09-14 18:29:51.903 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/027.json already exists
+2022-09-14 18:29:51.904 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/028.json already exists
+2022-09-14 18:29:51.905 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/029.json already exists
+2022-09-14 18:29:51.905 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/030.json already exists
+2022-09-14 18:29:51.906 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/031.json already exists
+2022-09-14 18:29:51.907 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/032.json already exists
+2022-09-14 18:29:51.907 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/033.json already exists
+2022-09-14 18:29:51.909 [INFO]: /home/hum-bird/humnavi/log/2022-09-14/034.json already exists
+2022-09-14 18:29:51.914 [INFO]: --Holding
+2022-09-14 18:29:51.937 [INFO]: --Holding
+2022-09-14 18:29:51.952 [INFO]: --Holding
+2022-09-14 18:29:51.977 [INFO]: --Holding
+2022-09-14 18:29:51.991 [INFO]: --Holding
+2022-09-14 18:29:52.16  [INFO]: --Holding
+2022-09-14 18:29:52.31  [INFO]: --Holding
+2022-09-14 18:29:52.58  [INFO]: --Holding
+2022-09-14 18:29:52.71  [INFO]: --Holding
+2022-09-14 18:29:52.97  [INFO]: --Holding
+2022-09-14 18:29:52.115 [INFO]: --Holding
+2022-09-14 18:29:52.137 [INFO]: --Holding
+2022-09-14 18:29:52.152 [INFO]: --Holding
+2022-09-14 18:29:52.177 [INFO]: --Holding
+2022-09-14 18:29:52.179 [INFO]: armed:False mode:0.0 satellite: 11 abs_alt:1207.8031005859375 lidar: -1m x:50.515342712402344 y:18.343660354614258 roll:175.6064453125 pitch:14.756643295288086 yaw:-168.26318359375 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:52.191 [INFO]: --Holding
+2022-09-14 18:29:52.206 [INFO]: --Holding
+2022-09-14 18:29:52.231 [INFO]: --Holding
+2022-09-14 18:29:52.244 [INFO]: --Holding
+2022-09-14 18:29:52.270 [INFO]: --Holding
+2022-09-14 18:29:52.282 [INFO]: --Holding
+2022-09-14 18:29:52.296 [INFO]: --Holding
+2022-09-14 18:29:52.324 [INFO]: --Holding
+2022-09-14 18:29:52.348 [INFO]: --Holding
+2022-09-14 18:29:52.374 [INFO]: --Holding
+2022-09-14 18:29:52.386 [INFO]: --Holding
+2022-09-14 18:29:52.412 [INFO]: --Holding
+2022-09-14 18:29:52.427 [INFO]: --Holding
+2022-09-14 18:29:52.453 [INFO]: --Holding
+2022-09-14 18:29:52.467 [INFO]: --Holding
+2022-09-14 18:29:52.481 [INFO]: --Holding
+2022-09-14 18:29:52.483 [INFO]: armed:False mode:0.0 satellite: 10 abs_alt:1207.818115234375 lidar: -1m x:50.40657424926758 y:18.267942428588867 roll:175.579833984375 pitch:14.830892562866211 yaw:-168.3537139892578 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:52.506 [INFO]: --Holding
+2022-09-14 18:29:52.526 [INFO]: --Holding
+2022-09-14 18:29:52.537 [INFO]: --Holding
+2022-09-14 18:29:52.552 [INFO]: --Holding
+2022-09-14 18:29:52.581 [INFO]: --Holding
+2022-09-14 18:29:52.604 [INFO]: --Holding
+2022-09-14 18:29:52.618 [INFO]: --Holding
+2022-09-14 18:29:52.633 [INFO]: --Holding
+2022-09-14 18:29:52.657 [INFO]: --Holding
+2022-09-14 18:29:52.671 [INFO]: --Holding
+2022-09-14 18:29:52.696 [INFO]: --Holding
+2022-09-14 18:29:52.711 [INFO]: --Holding
+2022-09-14 18:29:52.737 [INFO]: --Holding
+2022-09-14 18:29:52.785 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8291015625 lidar: -1m x:50.319942474365234 y:18.182376861572266 roll:175.13739013671875 pitch:15.397953987121582 yaw:-168.47164916992188 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:53.87  [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.840087890625 lidar: -1m x:50.24590301513672 y:18.097387313842773 roll:175.07151794433594 pitch:16.044967651367188 yaw:-168.58604431152344 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:53.390 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.85107421875 lidar: -1m x:50.179656982421875 y:18.01628875732422 roll:174.9188232421875 pitch:16.220483779907227 yaw:-168.33245849609375 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:53.693 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.864013671875 lidar: -1m x:50.1333122253418 y:17.94044303894043 roll:174.74234008789062 pitch:17.228031158447266 yaw:-168.37696838378906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:53.995 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.87109375 lidar: -1m x:50.12911605834961 y:17.889781951904297 roll:174.75250244140625 pitch:17.304113388061523 yaw:-168.02987670898438 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:54.298 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.882080078125 lidar: -1m x:50.16916275024414 y:17.830005645751953 roll:174.37660217285156 pitch:18.925634384155273 yaw:-168.33273315429688 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:54.605 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.89208984375 lidar: -1m x:50.27540969848633 y:17.775163650512695 roll:174.1614990234375 pitch:20.52683448791504 yaw:-168.3719482421875 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:54.907 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8990478515625 lidar: -1m x:50.40949630737305 y:17.715890884399414 roll:174.15576171875 pitch:20.654800415039062 yaw:-168.56039428710938 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:55.209 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8961181640625 lidar: -1m x:50.5446891784668 y:17.68115234375 roll:173.93678283691406 pitch:21.08881187438965 yaw:-168.73768615722656 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:55.511 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8861083984375 lidar: -1m x:50.63020706176758 y:17.649147033691406 roll:173.63746643066406 pitch:22.405752182006836 yaw:-168.65476989746094 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:55.814 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8690185546875 lidar: -1m x:50.703617095947266 y:17.632741928100586 roll:173.67933654785156 pitch:23.111412048339844 yaw:-168.68930053710938 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:56.117 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.8660888671875 lidar: -1m x:50.74174880981445 y:17.60869789123535 roll:173.3929443359375 pitch:32.795509338378906 yaw:-169.66531372070312 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:56.420 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1207.9200439453125 lidar: -1m x:50.76298522949219 y:17.598587036132812 roll:150.73609924316406 pitch:73.10969543457031 yaw:165.64308166503906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:56.722 [INFO]: armed:False mode:HOLD satellite: 10 abs_alt:1208.0020751953125 lidar: -1m x:50.773555755615234 y:17.61978530883789 roll:11.982136726379395 pitch:54.845218658447266 yaw:29.75798225402832 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:57.24  [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.027099609375 lidar: -1m x:50.729652404785156 y:17.651369094848633 roll:25.311710357666016 pitch:36.28376388549805 yaw:36.159263610839844 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:57.327 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.051025390625 lidar: -1m x:50.708221435546875 y:17.633071899414062 roll:18.332509994506836 pitch:22.538259506225586 yaw:30.883901596069336 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:57.629 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.0631103515625 lidar: -1m x:50.69365310668945 y:17.64487075805664 roll:12.197694778442383 pitch:23.4517765045166 yaw:31.440988540649414 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:57.930 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.072021484375 lidar: -1m x:50.66725540161133 y:17.678422927856445 roll:19.805442810058594 pitch:33.41090393066406 yaw:39.421592712402344 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:58.61  [INFO]: arms opened!
+2022-09-14 18:29:58.232 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.0770263671875 lidar: -1m x:50.69779586791992 y:17.752033233642578 roll:15.030272483825684 pitch:12.56650447845459 yaw:34.63197708129883 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:58.534 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.052001953125 lidar: -1m x:50.69951629638672 y:17.80146026611328 roll:19.023296356201172 pitch:-4.43502950668335 yaw:29.154964447021484 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:58.836 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.0390625 lidar: -1m x:50.720664978027344 y:17.82342529296875 roll:19.171892166137695 pitch:0.35199493169784546 yaw:33.079227447509766 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:59.138 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1208.0111083984375 lidar: -1m x:50.76837158203125 y:17.82051658630371 roll:8.9730863571167 pitch:-0.49952074885368347 yaw:31.56685447692871 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:59.441 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.9591064453125 lidar: -1m x:50.79958724975586 y:17.933382034301758 roll:2.170377254486084 pitch:-3.9171316623687744 yaw:29.155317306518555 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:29:59.747 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.9530029296875 lidar: -1m x:50.80729675292969 y:17.98271942138672 roll:1.84111750125885 pitch:-6.8684844970703125 yaw:24.835073471069336 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:00.51  [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.927001953125 lidar: -1m x:50.769371032714844 y:18.05521583557129 roll:-0.7242251634597778 pitch:-4.2126970291137695 yaw:23.88311767578125 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:00.354 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.905029296875 lidar: -1m x:50.74678039550781 y:18.100736618041992 roll:-3.0370354652404785 pitch:-3.7567434310913086 yaw:24.198274612426758 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:00.657 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.8890380859375 lidar: -1m x:50.71553421020508 y:18.115642547607422 roll:-3.9154880046844482 pitch:-3.583380937576294 yaw:24.29596519470215 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:00.960 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.881103515625 lidar: -1m x:50.66990661621094 y:18.082754135131836 roll:0.925305962562561 pitch:-0.14563840627670288 yaw:19.932559967041016 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:01.264 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.864013671875 lidar: -1m x:50.645835876464844 y:18.065326690673828 roll:-3.003275156021118 pitch:-4.734598636627197 yaw:19.238574981689453 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:01.566 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.85107421875 lidar: -1m x:50.626644134521484 y:18.058181762695312 roll:-3.039166212081909 pitch:-6.081764221191406 yaw:19.22971534729004 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:01.868 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.8460693359375 lidar: -1m x:50.59940719604492 y:18.066274642944336 roll:-3.117926597595215 pitch:-6.065562725067139 yaw:19.22236442565918 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:02.170 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.85302734375 lidar: -1m x:50.59029769897461 y:18.075279235839844 roll:-2.503070831298828 pitch:1.5319390296936035 yaw:16.82120704650879 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:02.472 [INFO]: armed:False mode:HOLD satellite: 11 abs_alt:1207.8341064453125 lidar: -1m x:50.56062698364258 y:18.05940818786621 roll:-3.9848098754882812 pitch:-2.12137770652771 yaw:16.73016929626465 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:02.773 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.822021484375 lidar: -1m x:50.5172004699707 y:18.040285110473633 roll:-4.331656455993652 pitch:-2.0689845085144043 yaw:16.602033615112305 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:03.75  [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.80908203125 lidar: -1m x:50.49357986450195 y:18.022140502929688 roll:-4.356245517730713 pitch:-2.0691497325897217 yaw:16.573326110839844 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:03.377 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.8060302734375 lidar: -1m x:50.467430114746094 y:18.000534057617188 roll:-4.353466033935547 pitch:-2.094879627227783 yaw:16.570322036743164 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:03.680 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.8040771484375 lidar: -1m x:50.44550323486328 y:17.978364944458008 roll:-4.411255836486816 pitch:-2.097278594970703 yaw:16.569786071777344 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:03.982 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.7900390625 lidar: -1m x:50.42162322998047 y:17.960203170776367 roll:-4.458494186401367 pitch:-2.089168071746826 yaw:16.56113052368164 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:04.285 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.7620849609375 lidar: -1m x:50.38533401489258 y:17.93735694885254 roll:-4.466139793395996 pitch:-2.0759835243225098 yaw:16.54644012451172 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:04.587 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.7330322265625 lidar: -1m x:50.34616470336914 y:17.906387329101562 roll:-4.487250804901123 pitch:-2.0520663261413574 yaw:16.537097930908203 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:04.888 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.7100830078125 lidar: -1m x:50.30320358276367 y:17.876907348632812 roll:-4.50132942199707 pitch:-2.0553207397460938 yaw:16.534807205200195 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:05.190 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.6900634765625 lidar: -1m x:50.25824737548828 y:17.851627349853516 roll:-4.51065731048584 pitch:-2.0607430934906006 yaw:16.535614013671875 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:05.491 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.6571044921875 lidar: -1m x:50.21739959716797 y:17.82402229309082 roll:-4.548738479614258 pitch:-2.0404632091522217 yaw:16.534299850463867 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:05.792 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.633056640625 lidar: -1m x:50.17878723144531 y:17.796146392822266 roll:-4.5446953773498535 pitch:-2.0412373542785645 yaw:16.517736434936523 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:06.94  [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.6170654296875 lidar: -1m x:50.13791275024414 y:17.776968002319336 roll:-4.529921054840088 pitch:-2.0598981380462646 yaw:16.502988815307617 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:06.397 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.60400390625 lidar: -1m x:50.09246826171875 y:17.752927780151367 roll:-4.54080867767334 pitch:-2.048603057861328 yaw:16.494243621826172 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:06.698 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5880126953125 lidar: -1m x:50.0616455078125 y:17.72562026977539 roll:-4.552384376525879 pitch:-2.0319571495056152 yaw:16.500150680541992 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:07.0   [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5740966796875 lidar: -1m x:50.031864166259766 y:17.703977584838867 roll:-4.539732933044434 pitch:-2.039268732070923 yaw:16.501895904541016 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:07.304 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.571044921875 lidar: -1m x:50.01270294189453 y:17.681821823120117 roll:-4.55358362197876 pitch:-2.0415568351745605 yaw:16.495954513549805 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:07.606 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.571044921875 lidar: -1m x:49.996864318847656 y:17.661165237426758 roll:-4.557961940765381 pitch:-2.0543441772460938 yaw:16.48317527770996 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:07.908 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572998046875 lidar: -1m x:49.980552673339844 y:17.642921447753906 roll:-4.561615467071533 pitch:-2.0370070934295654 yaw:16.47295379638672 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:08.211 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572021484375 lidar: -1m x:49.969547271728516 y:17.627723693847656 roll:-4.5586090087890625 pitch:-2.026064872741699 yaw:16.476701736450195 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:08.513 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572998046875 lidar: -1m x:49.95969009399414 y:17.61552619934082 roll:-4.563491344451904 pitch:-2.0299363136291504 yaw:16.48744010925293 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:08.815 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.571044921875 lidar: -1m x:49.96049880981445 y:17.605600357055664 roll:-4.570583820343018 pitch:-2.0356390476226807 yaw:16.481231689453125 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:09.118 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.571044921875 lidar: -1m x:49.96514892578125 y:17.593481063842773 roll:-4.575926780700684 pitch:-2.014086961746216 yaw:16.471540451049805 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:09.422 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572998046875 lidar: -1m x:49.976966857910156 y:17.579551696777344 roll:-4.578913688659668 pitch:-2.018602132797241 yaw:16.4676570892334 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:09.726 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5770263671875 lidar: -1m x:49.99026107788086 y:17.575843811035156 roll:-4.578176021575928 pitch:-2.0205373764038086 yaw:16.466054916381836 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:10.28  [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5770263671875 lidar: -1m x:50.0009765625 y:17.57271957397461 roll:-4.588127136230469 pitch:-2.015721321105957 yaw:16.47340202331543 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:10.331 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572021484375 lidar: -1m x:50.01459884643555 y:17.572101593017578 roll:-4.592236518859863 pitch:-2.0086922645568848 yaw:16.47415542602539 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:10.633 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.572021484375 lidar: -1m x:50.0369987487793 y:17.57256317138672 roll:-4.585605144500732 pitch:-2.000580072402954 yaw:16.468555450439453 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:10.937 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.569091796875 lidar: -1m x:50.0533561706543 y:17.572866439819336 roll:-4.568647861480713 pitch:-2.0094096660614014 yaw:16.462886810302734 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:11.240 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5650634765625 lidar: -1m x:50.072181701660156 y:17.575685501098633 roll:-4.566431045532227 pitch:-2.0186655521392822 yaw:16.460311889648438 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:11.542 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.55908203125 lidar: -1m x:50.08423614501953 y:17.5767765045166 roll:-4.577622413635254 pitch:-2.000028133392334 yaw:16.47406768798828 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:11.845 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5531005859375 lidar: -1m x:50.099632263183594 y:17.58209800720215 roll:-4.56884241104126 pitch:-1.9826067686080933 yaw:16.485803604125977 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:12.147 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5469970703125 lidar: -1m x:50.11099624633789 y:17.58512306213379 roll:-4.579747676849365 pitch:-1.9624651670455933 yaw:16.48105812072754 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:12.449 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.541015625 lidar: -1m x:50.127193450927734 y:17.588239669799805 roll:-4.575863838195801 pitch:-1.9793657064437866 yaw:16.477622985839844 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:12.754 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5330810546875 lidar: -1m x:50.14216613769531 y:17.59414291381836 roll:-4.584705352783203 pitch:-1.9665733575820923 yaw:16.471309661865234 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:13.55  [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5230712890625 lidar: -1m x:50.157440185546875 y:17.59821891784668 roll:-4.582931041717529 pitch:-1.9383856058120728 yaw:16.484888076782227 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:13.64  [INFO]: --Arming
+2022-09-14 18:30:13.358 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.5140380859375 lidar: -1m x:50.171287536621094 y:17.600610733032227 roll:-4.838133335113525 pitch:-2.235908269882202 yaw:16.5015869140625 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:13.668 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1207.509033203125 lidar: -1m x:50.19213104248047 y:17.60608673095703 roll:-4.769710063934326 pitch:-2.334213972091675 yaw:17.417980194091797 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:13.971 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1207.51611328125 lidar: -1m x:50.20634078979492 y:17.614715576171875 roll:-4.885398864746094 pitch:-2.4494805335998535 yaw:19.650705337524414 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:14.94  [INFO]: --Taking off
+2022-09-14 18:30:14.119 [INFO]: --Taking off
+2022-09-14 18:30:14.137 [INFO]: --Taking off
+2022-09-14 18:30:14.159 [INFO]: --Taking off
+2022-09-14 18:30:14.182 [INFO]: --Taking off
+2022-09-14 18:30:14.193 [INFO]: --Taking off
+2022-09-14 18:30:14.213 [INFO]: --Taking off
+2022-09-14 18:30:14.229 [INFO]: --Taking off
+2022-09-14 18:30:14.248 [INFO]: --Taking off
+2022-09-14 18:30:14.268 [INFO]: --Taking off
+2022-09-14 18:30:14.273 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1207.5330810546875 lidar: -1m x:50.21940994262695 y:17.626253128051758 roll:-4.903080463409424 pitch:-2.0231940746307373 yaw:23.35589599609375 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:14.294 [INFO]: --Taking off
+2022-09-14 18:30:14.313 [INFO]: --Taking off
+2022-09-14 18:30:14.324 [INFO]: --Taking off
+2022-09-14 18:30:14.335 [INFO]: --Taking off
+2022-09-14 18:30:14.346 [INFO]: --Taking off
+2022-09-14 18:30:14.358 [INFO]: --Taking off
+2022-09-14 18:30:14.380 [INFO]: --Taking off
+2022-09-14 18:30:14.401 [INFO]: --Taking off
+2022-09-14 18:30:14.423 [INFO]: --Taking off
+2022-09-14 18:30:14.434 [INFO]: --Taking off
+2022-09-14 18:30:14.445 [INFO]: --Taking off
+2022-09-14 18:30:14.458 [INFO]: --Taking off
+2022-09-14 18:30:14.479 [INFO]: --Taking off
+2022-09-14 18:30:14.491 [INFO]: --Taking off
+2022-09-14 18:30:14.513 [INFO]: --Taking off
+2022-09-14 18:30:14.536 [INFO]: --Taking off
+2022-09-14 18:30:14.556 [INFO]: --Taking off
+2022-09-14 18:30:14.568 [INFO]: --Taking off
+2022-09-14 18:30:14.575 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1207.589111328125 lidar: -1m x:50.222129821777344 y:17.631284713745117 roll:-4.4620680809021 pitch:-1.8173582553863525 yaw:26.284687042236328 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:14.581 [INFO]: --Taking off
+2022-09-14 18:30:14.592 [INFO]: --Taking off
+2022-09-14 18:30:14.612 [INFO]: --Taking off
+2022-09-14 18:30:14.635 [INFO]: --Taking off
+2022-09-14 18:30:14.655 [INFO]: --Taking off
+2022-09-14 18:30:14.683 [INFO]: --Taking off
+2022-09-14 18:30:14.699 [INFO]: --Taking off
+2022-09-14 18:30:14.715 [INFO]: --Taking off
+2022-09-14 18:30:14.734 [INFO]: --Taking off
+2022-09-14 18:30:14.748 [INFO]: --Taking off
+2022-09-14 18:30:14.877 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1207.9920654296875 lidar: -1m x:50.211490631103516 y:17.64613151550293 roll:-2.352372407913208 pitch:-2.0279669761657715 yaw:27.523012161254883 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:15.179 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1208.5430908203125 lidar: -1m x:50.21666717529297 y:17.664060592651367 roll:0.16314992308616638 pitch:-2.236003875732422 yaw:27.99032211303711 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:15.481 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1208.93310546875 lidar: -1m x:50.22202682495117 y:17.686328887939453 roll:1.2052009105682373 pitch:-1.2662715911865234 yaw:26.876941680908203 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:15.782 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1209.1510009765625 lidar: -1m x:50.2342529296875 y:17.716476440429688 roll:-0.12770333886146545 pitch:-1.6773185729980469 yaw:25.811782836914062 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:16.84  [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1209.35205078125 lidar: -1m x:50.25026321411133 y:17.79052734375 roll:-1.8534289598464966 pitch:-0.8271294236183167 yaw:24.123279571533203 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:16.385 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1209.6051025390625 lidar: -1m x:50.26795196533203 y:17.86774444580078 roll:-3.2156083583831787 pitch:-0.6474634408950806 yaw:23.319435119628906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:16.687 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1209.9810791015625 lidar: -1m x:50.277610778808594 y:17.91155242919922 roll:-3.251380205154419 pitch:-1.281429409980774 yaw:23.616722106933594 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:16.991 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1210.4691162109375 lidar: -1m x:50.26713562011719 y:17.967592239379883 roll:-4.044353485107422 pitch:-0.9622729420661926 yaw:24.393938064575195 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:17.293 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1211.132080078125 lidar: -1m x:50.258026123046875 y:18.05025291442871 roll:-4.868248462677002 pitch:-0.10430257767438889 yaw:25.00460433959961 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:17.595 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1211.64208984375 lidar: -1m x:50.24976348876953 y:18.158077239990234 roll:-6.359536647796631 pitch:0.3070266544818878 yaw:21.738420486450195 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:17.897 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1211.9000244140625 lidar: -1m x:50.22451400756836 y:18.301280975341797 roll:-7.992072105407715 pitch:-0.11230219155550003 yaw:19.996681213378906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:18.199 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.0550537109375 lidar: -1m x:50.23444366455078 y:18.433441162109375 roll:-8.389335632324219 pitch:0.7972369194030762 yaw:21.86916160583496 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:18.501 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.1571044921875 lidar: -1m x:50.24951171875 y:18.542022705078125 roll:-7.96151065826416 pitch:1.9941082000732422 yaw:23.496864318847656 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:18.803 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.468017578125 lidar: -1m x:50.28336715698242 y:18.598894119262695 roll:-8.096824645996094 pitch:2.2544994354248047 yaw:25.261886596679688 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:19.105 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.8680419921875 lidar: -1m x:50.31109619140625 y:18.602615356445312 roll:-7.817226409912109 pitch:3.336460590362549 yaw:26.725629806518555 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:19.407 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.162109375 lidar: -1m x:50.33481979370117 y:18.58785057067871 roll:-8.558167457580566 pitch:4.073121070861816 yaw:26.987356185913086 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:19.710 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.43701171875 lidar: -1m x:50.33226013183594 y:18.5602970123291 roll:-8.831724166870117 pitch:4.231573104858398 yaw:26.245838165283203 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:20.16  [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.693115234375 lidar: -1m x:50.32526397705078 y:18.508615493774414 roll:-8.040266990661621 pitch:2.7406325340270996 yaw:23.34520149230957 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:20.318 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.89111328125 lidar: -1m x:50.334659576416016 y:18.430538177490234 roll:-7.502026557922363 pitch:2.0496184825897217 yaw:22.29138946533203 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:20.620 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.069091796875 lidar: -1m x:50.319366455078125 y:18.369365692138672 roll:-7.435437202453613 pitch:2.0274479389190674 yaw:21.93271255493164 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:20.924 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.24609375 lidar: -1m x:50.2928581237793 y:18.30533218383789 roll:-6.944214820861816 pitch:1.2941480875015259 yaw:22.252790451049805 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:21.227 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.4010009765625 lidar: -1m x:50.27182388305664 y:18.239089965820312 roll:-7.374290943145752 pitch:0.8225475549697876 yaw:22.534971237182617 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:21.528 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.51611328125 lidar: -1m x:50.25773620605469 y:18.179807662963867 roll:-7.372672080993652 pitch:0.8961632251739502 yaw:23.165279388427734 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:21.831 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.528076171875 lidar: -1m x:50.20857620239258 y:18.11882781982422 roll:-6.896114826202393 pitch:0.19040459394454956 yaw:24.442209243774414 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:22.133 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.4200439453125 lidar: -1m x:50.184383392333984 y:18.064266204833984 roll:-7.061652183532715 pitch:0.25556403398513794 yaw:24.308385848999023 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:22.435 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.2540283203125 lidar: -1m x:50.19451904296875 y:18.010988235473633 roll:-6.237226486206055 pitch:0.3766731023788452 yaw:24.646211624145508 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:22.738 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.110107421875 lidar: -1m x:50.21257781982422 y:17.958667755126953 roll:-5.9231743812561035 pitch:0.6660313010215759 yaw:23.101579666137695 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:23.39  [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1214.06005859375 lidar: -1m x:50.25541305541992 y:17.908842086791992 roll:-5.911792278289795 pitch:0.8219285011291504 yaw:21.147274017333984 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:23.341 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.9541015625 lidar: -1m x:50.296958923339844 y:17.869827270507812 roll:-5.556084632873535 pitch:1.3640164136886597 yaw:20.117822647094727 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:23.642 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.7840576171875 lidar: -1m x:50.36259460449219 y:17.84977149963379 roll:-6.706013202667236 pitch:1.3750653266906738 yaw:20.57445526123047 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:23.944 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.4600830078125 lidar: -1m x:50.39728546142578 y:17.844024658203125 roll:-6.943498611450195 pitch:1.1176178455352783 yaw:21.12388801574707 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:24.247 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1213.0740966796875 lidar: -1m x:50.467220306396484 y:17.807401657104492 roll:-6.072074890136719 pitch:2.235795259475708 yaw:22.911245346069336 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:24.550 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.68603515625 lidar: -1m x:50.50968551635742 y:17.789653778076172 roll:-5.659200191497803 pitch:2.606435775756836 yaw:24.329364776611328 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:24.771 [INFO]: recovery_target_abs_alt: 1227.771054791252m
+2022-09-14 18:30:24.775 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.771054791252 yaw:0
+2022-09-14 18:30:24.802 [INFO]: recovering from freefall...
+2022-09-14 18:30:24.851 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1212.26611328125 lidar: -1m x:50.51881408691406 y:17.790435791015625 roll:-6.242513656616211 pitch:1.8078958988189697 yaw:24.77065658569336 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:24.906 [INFO]: recovery_target_abs_alt: 1227.627988385002m
+2022-09-14 18:30:24.908 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.627988385002 yaw:0
+2022-09-14 18:30:24.936 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.39  [INFO]: recovery_target_abs_alt: 1227.485764975941m
+2022-09-14 18:30:25.41  [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.485764975941 yaw:0
+2022-09-14 18:30:25.75  [INFO]: recovering from freefall...
+2022-09-14 18:30:25.153 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1211.8570556640625 lidar: -1m x:50.483177185058594 y:17.767261505126953 roll:-8.571183204650879 pitch:5.598913192749023 yaw:12.50899887084961 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:25.178 [INFO]: recovery_target_abs_alt: 1227.2297277421512m
+2022-09-14 18:30:25.180 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.2297277421512 yaw:0
+2022-09-14 18:30:25.206 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.310 [INFO]: recovery_target_abs_alt: 1227.1176335757486m
+2022-09-14 18:30:25.311 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.1176335757486 yaw:0
+2022-09-14 18:30:25.339 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.442 [INFO]: recovery_target_abs_alt: 1226.9981920372354m
+2022-09-14 18:30:25.443 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.9981920372354 yaw:0
+2022-09-14 18:30:25.455 [INFO]: armed:True mode:TAKEOFF satellite: 12 abs_alt:1211.528076171875 lidar: -1m x:50.38120651245117 y:17.74544906616211 roll:-7.714142322540283 pitch:6.314023494720459 yaw:-0.834730327129364 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:25.471 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.575 [INFO]: recovery_target_abs_alt: 1226.9088229688255m
+2022-09-14 18:30:25.575 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.9088229688255 yaw:0
+2022-09-14 18:30:25.596 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.699 [INFO]: recovery_target_abs_alt: 1226.96599567123m
+2022-09-14 18:30:25.700 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.96599567123 yaw:0
+2022-09-14 18:30:25.732 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.757 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1211.549072265625 lidar: -1m x:50.17232131958008 y:17.72528648376465 roll:-10.568052291870117 pitch:8.256155967712402 yaw:-1.1094787120819092 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:25.837 [INFO]: recovery_target_abs_alt: 1227.030484896553m
+2022-09-14 18:30:25.838 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.030484896553 yaw:0
+2022-09-14 18:30:25.855 [INFO]: recovering from freefall...
+2022-09-14 18:30:25.959 [INFO]: recovery_target_abs_alt: 1227.0931227299147m
+2022-09-14 18:30:25.961 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.0931227299147 yaw:0
+2022-09-14 18:30:25.977 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.61  [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1211.81005859375 lidar: -1m x:49.84880065917969 y:17.709796905517578 roll:-11.391881942749023 pitch:13.850580215454102 yaw:-0.9551566243171692 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:26.81  [INFO]: recovery_target_abs_alt: 1227.1816266691849m
+2022-09-14 18:30:26.82  [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.1816266691849 yaw:0
+2022-09-14 18:30:26.99  [INFO]: recovering from freefall...
+2022-09-14 18:30:26.203 [INFO]: recovery_target_abs_alt: 1227.2809939617593m
+2022-09-14 18:30:26.204 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.2809939617593 yaw:0
+2022-09-14 18:30:26.226 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.333 [INFO]: recovery_target_abs_alt: 1227.400041450384m
+2022-09-14 18:30:26.334 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.400041450384 yaw:0
+2022-09-14 18:30:26.349 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.365 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1212.2730712890625 lidar: -1m x:49.309722900390625 y:17.690881729125977 roll:-30.202709197998047 pitch:42.823760986328125 yaw:79.16065979003906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:26.453 [INFO]: recovery_target_abs_alt: 1227.4228453774447m
+2022-09-14 18:30:26.455 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.4228453774447 yaw:0
+2022-09-14 18:30:26.478 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.582 [INFO]: recovery_target_abs_alt: 1227.3203043067945m
+2022-09-14 18:30:26.583 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.3203043067945 yaw:0
+2022-09-14 18:30:26.598 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.669 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1212.2239990234375 lidar: -1m x:48.977760314941406 y:17.533458709716797 roll:-5.9951982498168945 pitch:49.34771728515625 yaw:118.78009796142578 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:26.702 [INFO]: recovery_target_abs_alt: 1227.2640168220778m
+2022-09-14 18:30:26.703 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.2640168220778 yaw:0
+2022-09-14 18:30:26.719 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.825 [INFO]: recovery_target_abs_alt: 1227.1920537930046m
+2022-09-14 18:30:26.826 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.1920537930046 yaw:0
+2022-09-14 18:30:26.843 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.947 [INFO]: recovery_target_abs_alt: 1227.1008489854833m
+2022-09-14 18:30:26.949 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1227.1008489854833 yaw:0
+2022-09-14 18:30:26.971 [INFO]: recovering from freefall...
+2022-09-14 18:30:26.974 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1211.9830322265625 lidar: -1m x:48.85375213623047 y:17.62049674987793 roll:0.7057074308395386 pitch:34.660945892333984 yaw:111.56234741210938 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:27.75  [INFO]: recovery_target_abs_alt: 1226.889838070014m
+2022-09-14 18:30:27.77  [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.889838070014 yaw:0
+2022-09-14 18:30:27.100 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.204 [INFO]: recovery_target_abs_alt: 1226.7696265073193m
+2022-09-14 18:30:27.205 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.7696265073193 yaw:0
+2022-09-14 18:30:27.236 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.278 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1211.6361083984375 lidar: -1m x:48.84494400024414 y:17.641096115112305 roll:1.5522481203079224 pitch:43.6775016784668 yaw:109.90890502929688 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:27.342 [INFO]: recovery_target_abs_alt: 1226.6478048537952m
+2022-09-14 18:30:27.343 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.6478048537952 yaw:0
+2022-09-14 18:30:27.360 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.465 [INFO]: recovery_target_abs_alt: 1226.4047425418123m
+2022-09-14 18:30:27.467 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.4047425418123 yaw:0
+2022-09-14 18:30:27.479 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.580 [INFO]: armed:True mode:HOLD satellite: 12 abs_alt:1211.2401123046875 lidar: -1m x:48.921173095703125 y:17.677152633666992 roll:0.32808834314346313 pitch:42.406654357910156 yaw:107.54412078857422 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:27.585 [INFO]: recovery_target_abs_alt: 1226.2770982647207m
+2022-09-14 18:30:27.586 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.2770982647207 yaw:0
+2022-09-14 18:30:27.605 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.710 [INFO]: recovery_target_abs_alt: 1226.1634965407152m
+2022-09-14 18:30:27.713 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.1634965407152 yaw:0
+2022-09-14 18:30:27.739 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.845 [INFO]: recovery_target_abs_alt: 1226.0720796059904m
+2022-09-14 18:30:27.846 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1226.0720796059904 yaw:0
+2022-09-14 18:30:27.872 [INFO]: recovering from freefall...
+2022-09-14 18:30:27.882 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1210.903076171875 lidar: -1m x:49.02978515625 y:17.68462562561035 roll:-0.049060601741075516 pitch:42.571044921875 yaw:106.68257904052734 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:27.977 [INFO]: recovery_target_abs_alt: 1225.8781391216487m
+2022-09-14 18:30:27.978 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.8781391216487 yaw:0
+2022-09-14 18:30:28.1   [INFO]: recovering from freefall...
+2022-09-14 18:30:28.105 [INFO]: recovery_target_abs_alt: 1225.7816878959297m
+2022-09-14 18:30:28.108 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.7816878959297 yaw:0
+2022-09-14 18:30:28.125 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.185 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1210.6070556640625 lidar: -1m x:49.113319396972656 y:17.67365264892578 roll:-0.2589349150657654 pitch:42.60118865966797 yaw:106.41875457763672 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:28.230 [INFO]: recovery_target_abs_alt: 1225.6980805892197m
+2022-09-14 18:30:28.232 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.6980805892197 yaw:0
+2022-09-14 18:30:28.254 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.360 [INFO]: recovery_target_abs_alt: 1225.6148206475852m
+2022-09-14 18:30:28.362 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.6148206475852 yaw:0
+2022-09-14 18:30:28.390 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.487 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1210.3370361328125 lidar: -1m x:49.185237884521484 y:17.650217056274414 roll:-0.3713095784187317 pitch:42.635799407958984 yaw:106.31690979003906 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:28.496 [INFO]: recovery_target_abs_alt: 1225.4480494308532m
+2022-09-14 18:30:28.497 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.4480494308532 yaw:0
+2022-09-14 18:30:28.519 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.624 [INFO]: recovery_target_abs_alt: 1225.3714950007238m
+2022-09-14 18:30:28.625 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.3714950007238 yaw:0
+2022-09-14 18:30:28.654 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.759 [INFO]: recovery_target_abs_alt: 1225.2981220811032m
+2022-09-14 18:30:28.760 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.2981220811032 yaw:0
+2022-09-14 18:30:28.783 [INFO]: recovering from freefall...
+2022-09-14 18:30:28.790 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1210.1051025390625 lidar: -1m x:49.23202133178711 y:17.630483627319336 roll:-0.46498003602027893 pitch:42.6282844543457 yaw:106.07633972167969 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:28.886 [INFO]: recovery_target_abs_alt: 1225.1556586465033m
+2022-09-14 18:30:28.888 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.1556586465033 yaw:0
+2022-09-14 18:30:28.909 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.12  [INFO]: recovery_target_abs_alt: 1225.0931450613775m
+2022-09-14 18:30:29.14  [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.0931450613775 yaw:0
+2022-09-14 18:30:29.32  [INFO]: recovering from freefall...
+2022-09-14 18:30:29.93  [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.8900146484375 lidar: -1m x:49.258113861083984 y:17.60792350769043 roll:-0.48986947536468506 pitch:42.618614196777344 yaw:105.92522430419922 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:29.136 [INFO]: recovery_target_abs_alt: 1225.0163423747983m
+2022-09-14 18:30:29.137 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1225.0163423747983 yaw:0
+2022-09-14 18:30:29.159 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.262 [INFO]: recovery_target_abs_alt: 1224.9588349880926m
+2022-09-14 18:30:29.264 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1224.9588349880926 yaw:0
+2022-09-14 18:30:29.283 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.387 [INFO]: recovery_target_abs_alt: 1224.8361701233403m
+2022-09-14 18:30:29.388 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1224.8361701233403 yaw:0
+2022-09-14 18:30:29.395 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.7010498046875 lidar: -1m x:49.28682327270508 y:17.599191665649414 roll:-0.5004854202270508 pitch:42.619991302490234 yaw:105.83297729492188 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:29.408 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.511 [INFO]: recovery_target_abs_alt: 1224.7786639505773m
+2022-09-14 18:30:29.512 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1224.7786639505773 yaw:0
+2022-09-14 18:30:29.533 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.637 [INFO]: recovery_target_abs_alt: 1224.7138259507833m
+2022-09-14 18:30:29.638 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1224.7138259507833 yaw:0
+2022-09-14 18:30:29.657 [INFO]: recovering from freefall...
+2022-09-14 18:30:29.698 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.52001953125 lidar: -1m x:49.30620193481445 y:17.58408546447754 roll:-0.4280514717102051 pitch:42.62388610839844 yaw:105.8748550415039 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:29.762 [INFO]: recovery_target_abs_alt: 1224.6568191148458m
+2022-09-14 18:30:29.764 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1224.6568191148458 yaw:0
+2022-09-14 18:30:29.780 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.465087890625 yaw:0
+2022-09-14 18:30:29.909 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.4090576171875 yaw:0
+2022-09-14 18:30:30.0   [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.361083984375 lidar: -1m x:49.316646575927734 y:17.57623863220215 roll:-0.33949145674705505 pitch:42.61153793334961 yaw:105.94100189208984 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:30.36  [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.361083984375 yaw:0
+2022-09-14 18:30:30.161 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.257080078125 yaw:0
+2022-09-14 18:30:30.286 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.2091064453125 yaw:0
+2022-09-14 18:30:30.302 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.2091064453125 lidar: -1m x:49.32867431640625 y:17.570602416992188 roll:-0.2661025822162628 pitch:42.58366394042969 yaw:105.99601745605469 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:30.412 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.156005859375 yaw:0
+2022-09-14 18:30:30.525 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.111083984375 yaw:0
+2022-09-14 18:30:30.605 [INFO]: armed:False mode:HOLD satellite: 12 abs_alt:1209.0660400390625 lidar: -1m x:49.33316421508789 y:17.562164306640625 roll:-0.14046363532543182 pitch:42.58216857910156 yaw:106.12984466552734 is_landed:False is home position ok:0.0 maximum_speed:12
+2022-09-14 18:30:30.654 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1209.0660400390625 yaw:0
+2022-09-14 18:30:30.776 [INFO]: --Go to location to lat: 40.65516359 lng:-119.37344057 alt:1208.9810791015625 yaw:0

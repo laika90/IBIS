@@ -1,0 +1,90 @@
+2023-08-26 20:29:25.133 [INFO]: Lora initialized
+2023-08-26 20:29:25.138 [INFO]: Pixhawk initialized
+2023-08-26 20:29:25.142 [INFO]: Light initialized
+2023-08-26 20:29:25.146 [INFO]: Ibis initialized
+2023-08-26 20:29:25.150 [INFO]: Waiting for drone to connect...
+2023-08-26 20:29:25.719 [INFO]: Drone connected!
+2023-08-26 20:29:25.761 [INFO]: Uploading mission
+2023-08-26 20:29:26.809 [INFO]: ################## stored judge start ####################
+2023-08-26 20:29:27.219 [INFO]:   0.4| 光センサ:  0, 継続:True
+2023-08-26 20:29:27.614 [INFO]:   0.8| 光センサ:  0, 継続:True
+2023-08-26 20:29:28.13  [INFO]:   1.2| 光センサ:  0, 継続:True
+2023-08-26 20:29:28.415 [INFO]:   1.6| 光センサ:  0, 継続:True
+2023-08-26 20:29:28.815 [INFO]:   2.0| 光センサ:  0, 継続:True
+2023-08-26 20:29:29.218 [INFO]:   2.4| 光センサ:  0, 継続:True
+2023-08-26 20:29:29.615 [INFO]:   2.8| 光センサ:  0, 継続:True
+2023-08-26 20:29:30.19  [INFO]:   3.2| 光センサ:  0, 継続:True
+2023-08-26 20:29:30.419 [INFO]:   3.6| 光センサ:  0, 継続:True
+2023-08-26 20:29:30.819 [INFO]:   4.0| 光センサ:  0, 継続:True
+2023-08-26 20:29:31.219 [INFO]:   4.4| 光センサ:  0, 継続:True
+2023-08-26 20:29:31.619 [INFO]:   4.8| 光センサ:  0, 継続:True
+2023-08-26 20:29:31.813 [INFO]: -- Light Judge
+2023-08-26 20:29:31.817 [INFO]: #################### stored judge finish ###################
+2023-08-26 20:29:31.821 [INFO]: ################### released judge start ###################
+2023-08-26 20:29:32.227 [INFO]:   0.4| 光センサ:  0, 継続:False
+2023-08-26 20:29:32.627 [INFO]:   0.8| 光センサ:  0, 継続:False
+2023-08-26 20:29:33.27  [INFO]:   1.2| 光センサ:  0, 継続:False
+2023-08-26 20:29:33.428 [INFO]:   1.6| 光センサ:  0, 継続:False
+2023-08-26 20:29:33.828 [INFO]:   2.0| 光センサ:  0, 継続:False
+2023-08-26 20:29:34.228 [INFO]:   2.4| 光センサ:  0, 継続:False
+2023-08-26 20:29:34.629 [INFO]:   2.8| 光センサ:  0, 継続:False
+2023-08-26 20:29:35.34  [INFO]:   3.2| 光センサ:  0, 継続:False
+2023-08-26 20:29:35.436 [INFO]:   3.6| 光センサ:  0, 継続:False
+2023-08-26 20:29:35.836 [INFO]:   4.0| 光センサ:  0, 継続:False
+2023-08-26 20:29:36.236 [INFO]:   4.4| 光センサ:  0, 継続:False
+2023-08-26 20:29:36.637 [INFO]:   4.8| 光センサ:  0, 継続:False
+2023-08-26 20:29:37.38  [INFO]:   5.2| 光センサ:  0, 継続:False
+2023-08-26 20:29:37.442 [INFO]:   5.6| 光センサ:  0, 継続:False
+2023-08-26 20:29:37.842 [INFO]:   6.0| 光センサ:  0, 継続:False
+2023-08-26 20:29:38.242 [INFO]:   6.4| 光センサ:  0, 継続:False
+2023-08-26 20:29:38.642 [INFO]:   6.8| 光センサ:  0, 継続:False
+2023-08-26 20:29:39.45  [INFO]:   7.2| 光センサ:  0, 継続:False
+2023-08-26 20:29:39.448 [INFO]:   7.6| 光センサ:  0, 継続:False
+2023-08-26 20:29:39.825 [INFO]: -- Timer Judge
+2023-08-26 20:29:39.828 [INFO]: ##################### released judge finish #####################
+2023-08-26 20:29:39.833 [INFO]: Lora power on
+2023-08-26 20:29:39.839 [INFO]: Serial port OK.
+2023-08-26 20:29:41.845 [INFO]: Lora READY
+2023-08-26 20:29:41.851 [INFO]: ################ Land judge start ################
+2023-08-26 20:29:42.667 [INFO]: Can't catch GPS
+2023-08-26 20:29:46.674 [INFO]: lat:error
+2023-08-26 20:29:46.772 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:47.690 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:48.607 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:49.525 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:50.448 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:50.682 [INFO]: lng:error
+2023-08-26 20:29:51.371 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:52.301 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:53.220 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:54.147 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:54.689 [INFO]: alt:error
+2023-08-26 20:29:55.66  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:55.991 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:56.909 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:57.831 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:58.748 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:29:59.665 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:00.585 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:01.508 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:02.430 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:03.351 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:04.272 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:05.195 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:06.120 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:07.47  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:07.969 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:08.890 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:09.808 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:10.726 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:11.643 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:12.560 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:13.484 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:14.414 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:15.337 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:16.258 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:30:16.368 [INFO]: -- Timer Judge
+2023-08-26 20:30:16.372 [INFO]: ################ Land judge finish ###############
+2023-08-26 20:30:16.383 [INFO]: -- Fuse start
+2023-08-26 20:30:16.389 [INFO]: -- Fusing
+2023-08-26 20:30:19.402 [INFO]: -- Fused! Please Fly

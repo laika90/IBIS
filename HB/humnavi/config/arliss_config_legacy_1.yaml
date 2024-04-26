@@ -1,0 +1,19 @@
+drone: "usb"
+lora: True
+cds_threshold: 200
+deploy_arm_s: 3
+arm_takeoff_s: 0.1
+takeoff_goto_s: 0.1
+max_recovery_speed_m_s: 5
+max_cruise_speed_m_s: 12
+recovery_tan: 1
+recovery_time_s: 5
+hold_speed_m_s: 0.5
+hold_time_s: 3
+target_name: "arliss_target"
+time_limit_goto_s: 300
+land_time_limit_s: 60
+model_ver: 2
+humeye: False
+is_camera: True
+

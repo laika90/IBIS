@@ -1,0 +1,132 @@
+2023-09-14 08:45:03.774 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 08:45:03.779 [INFO]: Lora initialized
+2023-09-14 08:45:03.785 [INFO]: Light initialized
+2023-09-14 08:45:04.2   [INFO]: Camera initialized
+2023-09-14 08:45:04.3   [INFO]: Pixhawk initialized
+2023-09-14 08:45:04.4   [INFO]: #################### Ibis initialized ####################
+2023-09-14 08:45:04.4   [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 08:45:04.5   [INFO]: #################### Wait store phase start ####################
+2023-09-14 08:45:04.6   [INFO]: Lora power on
+2023-09-14 08:45:04.7   [INFO]: Serial port OK.
+2023-09-14 08:45:06.10  [INFO]: Lora READY
+2023-09-14 08:45:06.12  [INFO]: Waiting for drone to connect...
+2023-09-14 08:45:08.100 [INFO]: Drone connected!
+2023-09-14 08:45:08.102 [INFO]: Waiting for store
+2023-09-14 08:45:08.605 [INFO]:   0.5| Light Value:808
+2023-09-14 08:45:08.728 [INFO]: Lidar:
+2023-09-14 08:45:09.107 [INFO]:   1.0| Light Value:818
+2023-09-14 08:45:09.313 [INFO]: Lidar:
+2023-09-14 08:45:09.612 [INFO]:   1.5| Light Value:816
+2023-09-14 08:45:09.914 [INFO]: Lidar:
+2023-09-14 08:45:10.114 [INFO]:   2.0| Light Value:806
+2023-09-14 08:45:10.513 [INFO]: Lidar:
+2023-09-14 08:45:10.617 [INFO]:   2.5| Light Value:772
+2023-09-14 08:45:11.114 [INFO]: Lidar:
+2023-09-14 08:45:11.119 [INFO]:   3.0| Light Value:818
+2023-09-14 08:45:11.606 [INFO]: 0 seconds passed. Wait phase finished
+2023-09-14 08:45:14.608 [INFO]: #################### Wait store phase finished ####################
+2023-09-14 08:45:14.609 [INFO]: #################### Judge phase start ####################
+2023-09-14 08:45:14.648 [INFO]: Uploading mission
+2023-09-14 08:45:15.713 [INFO]: -------------------- Stored judge start --------------------
+2023-09-14 08:45:19.118 [INFO]:   0.4| Light Value:829, Continuation:False
+2023-09-14 08:45:19.518 [INFO]:   0.8| Light Value:831, Continuation:False
+2023-09-14 08:45:19.918 [INFO]:   1.2| Light Value:834, Continuation:False
+2023-09-14 08:45:20.318 [INFO]:   1.6| Light Value:824, Continuation:False
+2023-09-14 08:45:20.718 [INFO]:   2.0| Light Value:819, Continuation:False
+2023-09-14 08:45:21.118 [INFO]:   2.4| Light Value:810, Continuation:False
+2023-09-14 08:45:21.518 [INFO]:   2.8| Light Value:807, Continuation:False
+2023-09-14 08:45:21.918 [INFO]:   3.2| Light Value:806, Continuation:False
+2023-09-14 08:45:22.222 [INFO]:   0.0| Light Value:650, Continuation:True
+2023-09-14 08:45:22.622 [INFO]:   0.4| Light Value:483, Continuation:True
+2023-09-14 08:45:23.23  [INFO]:   0.8| Light Value:453, Continuation:True
+2023-09-14 08:45:23.423 [INFO]:   1.2| Light Value:434, Continuation:True
+2023-09-14 08:45:23.823 [INFO]:   1.6| Light Value:403, Continuation:True
+2023-09-14 08:45:24.223 [INFO]:   2.0| Light Value:393, Continuation:True
+2023-09-14 08:45:24.623 [INFO]:   2.4| Light Value:391, Continuation:True
+2023-09-14 08:45:25.23  [INFO]:   2.8| Light Value:393, Continuation:True
+2023-09-14 08:45:25.423 [INFO]:   3.2| Light Value:388, Continuation:True
+2023-09-14 08:45:25.823 [INFO]:   3.6| Light Value:387, Continuation:True
+2023-09-14 08:45:26.223 [INFO]:   4.0| Light Value:389, Continuation:True
+2023-09-14 08:45:26.623 [INFO]:   4.4| Light Value:391, Continuation:True
+2023-09-14 08:45:27.23  [INFO]:   4.8| Light Value:387, Continuation:True
+2023-09-14 08:45:27.222 [INFO]: -- Light Judge
+2023-09-14 08:45:30.225 [INFO]: -------------------- Stored judge finish --------------------
+2023-09-14 08:45:30.226 [INFO]: -------------------- Released judge start --------------------
+2023-09-14 08:45:33.629 [INFO]:   0.4| Light Value:856, Continuation:True
+2023-09-14 08:45:34.29  [INFO]:   0.8| Light Value:856, Continuation:True
+2023-09-14 08:45:34.429 [INFO]:   1.2| Light Value:856, Continuation:True
+2023-09-14 08:45:34.829 [INFO]:   1.6| Light Value:857, Continuation:True
+2023-09-14 08:45:35.229 [INFO]:   2.0| Light Value:857, Continuation:True
+2023-09-14 08:45:35.629 [INFO]:   2.4| Light Value:856, Continuation:True
+2023-09-14 08:45:36.29  [INFO]:   2.8| Light Value:856, Continuation:True
+2023-09-14 08:45:36.429 [INFO]:   3.2| Light Value:856, Continuation:True
+2023-09-14 08:45:36.829 [INFO]:   3.6| Light Value:856, Continuation:True
+2023-09-14 08:45:37.229 [INFO]:   4.0| Light Value:857, Continuation:True
+2023-09-14 08:45:37.629 [INFO]:   4.4| Light Value:857, Continuation:True
+2023-09-14 08:45:38.29  [INFO]:   4.8| Light Value:857, Continuation:True
+2023-09-14 08:45:38.229 [INFO]: -- Light Judge
+2023-09-14 08:45:41.234 [INFO]: -------------------- Released judge finish --------------------
+2023-09-14 08:45:44.239 [INFO]: -------------------- Land judge start --------------------
+2023-09-14 08:45:44.309 [INFO]: Position: [latitude_deg: 40.8618248, longitude_deg: -119.1036962, absolute_altitude_m: 1186.26806640625, relative_altitude_m: -0.3150000274181366]
+2023-09-14 08:45:47.310 [INFO]: -- Under 15m
+2023-09-14 08:45:47.313 [INFO]: lat:40.8618248
+2023-09-14 08:45:48.313 [INFO]: Time passed:1
+2023-09-14 08:45:48.314 [INFO]: Time passed:1
+2023-09-14 08:45:48.412 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 08:45:48.810 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 08:45:49.110 [INFO]: altitude of LIDAR:0.0
+2023-09-14 08:45:49.311 [INFO]: -- Lidar Judge
+2023-09-14 08:45:52.315 [INFO]: -------------------- Land judge finish --------------------
+2023-09-14 08:45:52.317 [INFO]: #################### Judge phase finished ####################
+2023-09-14 08:45:52.318 [INFO]: #################### Fuse phase start ####################
+2023-09-14 08:45:52.319 [INFO]: Fuse start
+2023-09-14 08:45:52.320 [INFO]: -- Fusing
+2023-09-14 08:45:56.324 [INFO]: Fused
+2023-09-14 08:45:56.325 [INFO]: #################### Fuse phase finished ####################
+2023-09-14 08:45:56.326 [INFO]: #################### Flying phase start ####################
+2023-09-14 08:45:56.327 [INFO]: Waiting for drone to hold...
+2023-09-14 08:45:56.363 [INFO]: Hold mode!
+2023-09-14 08:45:56.364 [INFO]: Waiting for drone to have a global position estimate...
+2023-09-14 08:45:56.959 [INFO]: gps ok
+2023-09-14 08:45:56.960 [INFO]: Global position estimate OK
+2023-09-14 08:45:56.961 [INFO]: Arming
+2023-09-14 08:45:56.991 [INFO]: Armed!
+2023-09-14 08:45:56.993 [INFO]: Starting mission
+2023-09-14 08:45:57.19  [INFO]: Started mission!
+2023-09-14 08:45:57.51  [INFO]:  mode:None mission progress:None/None lat:None lng:None lidar:Nonem
+2023-09-14 08:45:58.53  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618259 lng:-119.1036937 lidar:0.009999999776482582m
+2023-09-14 08:45:59.55  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618258 lng:-119.10369349999999 lidar:0.009999999776482582m
+2023-09-14 08:46:00.56  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618254 lng:-119.1036951 lidar:0.07999999821186066m
+2023-09-14 08:46:01.58  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618251 lng:-119.1036985 lidar:0.3799999952316284m
+2023-09-14 08:46:02.60  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861824999999996 lng:-119.1036986 lidar:1.1799999475479126m
+2023-09-14 08:46:03.62  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861824999999996 lng:-119.1036962 lidar:2.5999999046325684m
+2023-09-14 08:46:04.65  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861824999999996 lng:-119.1036953 lidar:4.039999961853027m
+2023-09-14 08:46:05.66  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861824999999996 lng:-119.10369569999999 lidar:5.559999942779541m
+2023-09-14 08:46:06.68  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861824899999995 lng:-119.1036965 lidar:7.210000038146973m
+2023-09-14 08:46:07.71  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618248 lng:-119.1036961 lidar:8.949999809265137m
+2023-09-14 08:46:08.72  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861825499999995 lng:-119.10369539999999 lidar:9.960000038146973m
+2023-09-14 08:46:09.76  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618284 lng:-119.1037071 lidar:10.65999984741211m
+2023-09-14 08:46:10.78  [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618318 lng:-119.10373759999999 lidar:10.389999389648438m
+2023-09-14 08:46:11.81  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861832299999996 lng:-119.10376079999999 lidar:10.380000114440918m
+2023-09-14 08:46:12.83  [INFO]:  mode:MISSION mission progress:0/1 lat:40.861832899999996 lng:-119.10376819999999 lidar:10.279999732971191m
+2023-09-14 08:46:13.86  [INFO]:  mode:MISSION mission progress:1/1 lat:40.8618397 lng:-119.1037683 lidar:10.25m
+2023-09-14 08:46:13.128 [INFO]: Mission finished
+2023-09-14 08:46:14.87  [INFO]:  mode:MISSION mission progress:1/1 lat:40.8618465 lng:-119.1037681 lidar:10.119999885559082m
+2023-09-14 08:46:15.89  [INFO]:  mode:MISSION mission progress:1/1 lat:40.861848599999995 lng:-119.10376989999999 lidar:9.949999809265137m
+2023-09-14 08:46:16.91  [INFO]:  mode:MISSION mission progress:1/1 lat:40.8618465 lng:-119.1037717 lidar:9.949999809265137m
+2023-09-14 08:46:17.93  [INFO]:  mode:MISSION mission progress:1/1 lat:40.8618439 lng:-119.1037722 lidar:10.039999961853027m
+2023-09-14 08:46:17.101 [INFO]: Start image navigation
+2023-09-14 08:46:17.408 [INFO]: Setting goto_location...
+2023-09-14 08:46:22.507 [INFO]: current height:10.050000190734863m
+2023-09-14 08:46:22.609 [INFO]: current heading: 0.74
+2023-09-14 08:46:22.611 [INFO]: taking pic...: /home/pi/ARLISS_IBIS/IB/Images/ARLISS_2023-09-14 08:46:22.611655.jpg
+2023-09-14 08:46:24.61  [INFO]: percent=0, center=None
+2023-09-14 08:46:24.62  [INFO]: Failed image navigation
+2023-09-14 08:46:24.77  [INFO]: Landing...
+2023-09-14 08:46:24.117 [INFO]: is_in_air:True, pitch:-0.46998733282089233, roll:3.7702364921569824
+2023-09-14 08:46:25.117 [INFO]: is_in_air:True, pitch:-3.6253838539123535, roll:4.224898815155029
+2023-09-14 08:46:26.118 [INFO]: is_in_air:True, pitch:-2.1585378646850586, roll:6.0041046142578125
+2023-09-14 08:46:27.120 [INFO]: is_in_air:True, pitch:-1.3378190994262695, roll:6.217156887054443
+2023-09-14 08:46:28.118 [INFO]: is_in_air:True, pitch:-55.35887145996094, roll:-35.73079299926758
+2023-09-14 08:46:28.119 [INFO]: Hit the target!
+2023-09-14 08:46:33.147 [INFO]: Killed!

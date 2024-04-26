@@ -1,0 +1,393 @@
+2023-09-14 08:25:23.128 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 08:25:23.129 [INFO]: Lora initialized
+2023-09-14 08:25:23.130 [INFO]: Light initialized
+2023-09-14 08:25:23.266 [INFO]: Camera initialized
+2023-09-14 08:25:23.267 [INFO]: Pixhawk initialized
+2023-09-14 08:25:23.268 [INFO]: #################### Ibis initialized ####################
+2023-09-14 08:25:23.269 [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 08:25:23.270 [INFO]: #################### Wait store phase start ####################
+2023-09-14 08:25:23.270 [INFO]: Lora power on
+2023-09-14 08:25:23.272 [INFO]: Serial port OK.
+2023-09-14 08:25:25.275 [INFO]: Lora READY
+2023-09-14 08:25:25.277 [INFO]: Waiting for drone to connect...
+2023-09-14 08:25:25.437 [INFO]: Drone connected!
+2023-09-14 08:25:25.439 [INFO]: Waiting for store
+2023-09-14 08:25:25.941 [INFO]:   0.5| Light Value:858
+2023-09-14 08:25:26.39  [INFO]: Lidar:
+2023-09-14 08:25:26.443 [INFO]:   1.0| Light Value:858
+2023-09-14 08:25:26.730 [INFO]: Lidar:
+2023-09-14 08:25:26.945 [INFO]:   1.5| Light Value:859
+2023-09-14 08:25:27.330 [INFO]: Lidar:
+2023-09-14 08:25:27.448 [INFO]:   2.0| Light Value:860
+2023-09-14 08:25:27.930 [INFO]: Lidar:
+2023-09-14 08:25:27.951 [INFO]:   2.5| Light Value:857
+2023-09-14 08:25:28.455 [INFO]:   3.0| Light Value:858
+2023-09-14 08:25:28.529 [INFO]: Lidar:
+2023-09-14 08:25:28.942 [INFO]: 0 seconds passed. Wait phase finished
+2023-09-14 08:25:31.949 [INFO]: #################### Wait store phase finished ####################
+2023-09-14 08:25:31.952 [INFO]: #################### Judge phase start ####################
+2023-09-14 08:25:31.958 [INFO]: Uploading mission
+2023-09-14 08:25:32.995 [INFO]: -------------------- Stored judge start --------------------
+2023-09-14 08:25:36.399 [INFO]:   0.4| Light Value:857, Continuation:False
+2023-09-14 08:25:36.799 [INFO]:   0.8| Light Value:857, Continuation:False
+2023-09-14 08:25:37.199 [INFO]:   1.2| Light Value:857, Continuation:False
+2023-09-14 08:25:37.599 [INFO]:   1.6| Light Value:858, Continuation:False
+2023-09-14 08:25:37.999 [INFO]:   2.0| Light Value:857, Continuation:False
+2023-09-14 08:25:38.399 [INFO]:   2.4| Light Value:858, Continuation:False
+2023-09-14 08:25:38.799 [INFO]:   2.8| Light Value:857, Continuation:False
+2023-09-14 08:25:39.199 [INFO]:   3.2| Light Value:839, Continuation:False
+2023-09-14 08:25:39.599 [INFO]:   3.6| Light Value:770, Continuation:False
+2023-09-14 08:25:39.999 [INFO]:   4.0| Light Value:734, Continuation:False
+2023-09-14 08:25:40.399 [INFO]:   4.4| Light Value:734, Continuation:False
+2023-09-14 08:25:40.799 [INFO]:   4.8| Light Value:745, Continuation:False
+2023-09-14 08:25:41.199 [INFO]:   5.2| Light Value:745, Continuation:False
+2023-09-14 08:25:41.599 [INFO]:   5.6| Light Value:746, Continuation:False
+2023-09-14 08:25:41.999 [INFO]:   6.0| Light Value:733, Continuation:False
+2023-09-14 08:25:42.400 [INFO]:   6.4| Light Value:709, Continuation:False
+2023-09-14 08:25:42.800 [INFO]:   6.8| Light Value:707, Continuation:False
+2023-09-14 08:25:43.200 [INFO]:   7.2| Light Value:715, Continuation:False
+2023-09-14 08:25:43.600 [INFO]:   7.6| Light Value:704, Continuation:False
+2023-09-14 08:25:44.0   [INFO]:   8.0| Light Value:726, Continuation:False
+2023-09-14 08:25:44.400 [INFO]:   8.4| Light Value:731, Continuation:False
+2023-09-14 08:25:44.800 [INFO]:   8.8| Light Value:717, Continuation:False
+2023-09-14 08:25:45.200 [INFO]:   9.2| Light Value:723, Continuation:False
+2023-09-14 08:25:45.600 [INFO]:   9.6| Light Value:722, Continuation:False
+2023-09-14 08:25:46.0   [INFO]:  10.0| Light Value:710, Continuation:False
+2023-09-14 08:25:46.400 [INFO]:  10.4| Light Value:706, Continuation:False
+2023-09-14 08:25:46.800 [INFO]:  10.8| Light Value:700, Continuation:False
+2023-09-14 08:25:47.200 [INFO]:  11.2| Light Value:704, Continuation:False
+2023-09-14 08:25:47.600 [INFO]:  11.6| Light Value:708, Continuation:False
+2023-09-14 08:25:48.0   [INFO]:  12.0| Light Value:720, Continuation:False
+2023-09-14 08:25:48.400 [INFO]:  12.4| Light Value:717, Continuation:False
+2023-09-14 08:25:48.800 [INFO]:  12.8| Light Value:704, Continuation:False
+2023-09-14 08:25:49.200 [INFO]:  13.2| Light Value:713, Continuation:False
+2023-09-14 08:25:49.600 [INFO]:  13.6| Light Value:704, Continuation:False
+2023-09-14 08:25:50.0   [INFO]:  14.0| Light Value:709, Continuation:False
+2023-09-14 08:25:50.400 [INFO]:  14.4| Light Value:713, Continuation:False
+2023-09-14 08:25:50.800 [INFO]:  14.8| Light Value:712, Continuation:False
+2023-09-14 08:25:51.200 [INFO]:  15.2| Light Value:713, Continuation:False
+2023-09-14 08:25:51.600 [INFO]:  15.6| Light Value:714, Continuation:False
+2023-09-14 08:25:52.0   [INFO]:  16.0| Light Value:727, Continuation:False
+2023-09-14 08:25:52.400 [INFO]:  16.4| Light Value:728, Continuation:False
+2023-09-14 08:25:52.800 [INFO]:  16.8| Light Value:729, Continuation:False
+2023-09-14 08:25:53.200 [INFO]:  17.2| Light Value:723, Continuation:False
+2023-09-14 08:25:53.600 [INFO]:  17.6| Light Value:712, Continuation:False
+2023-09-14 08:25:54.0   [INFO]:  18.0| Light Value:716, Continuation:False
+2023-09-14 08:25:54.400 [INFO]:  18.4| Light Value:709, Continuation:False
+2023-09-14 08:25:54.800 [INFO]:  18.8| Light Value:709, Continuation:False
+2023-09-14 08:25:55.200 [INFO]:  19.2| Light Value:716, Continuation:False
+2023-09-14 08:25:55.600 [INFO]:  19.6| Light Value:736, Continuation:False
+2023-09-14 08:25:56.0   [INFO]:  20.0| Light Value:740, Continuation:False
+2023-09-14 08:25:56.400 [INFO]:  20.4| Light Value:740, Continuation:False
+2023-09-14 08:25:56.800 [INFO]:  20.8| Light Value:738, Continuation:False
+2023-09-14 08:25:57.200 [INFO]:  21.2| Light Value:740, Continuation:False
+2023-09-14 08:25:57.600 [INFO]:  21.6| Light Value:737, Continuation:False
+2023-09-14 08:25:58.0   [INFO]:  22.0| Light Value:738, Continuation:False
+2023-09-14 08:25:58.400 [INFO]:  22.4| Light Value:748, Continuation:False
+2023-09-14 08:25:58.800 [INFO]:  22.8| Light Value:742, Continuation:False
+2023-09-14 08:25:59.200 [INFO]:  23.2| Light Value:741, Continuation:False
+2023-09-14 08:25:59.600 [INFO]:  23.6| Light Value:737, Continuation:False
+2023-09-14 08:26:00.0   [INFO]:  24.0| Light Value:734, Continuation:False
+2023-09-14 08:26:00.400 [INFO]:  24.4| Light Value:746, Continuation:False
+2023-09-14 08:26:00.800 [INFO]:  24.8| Light Value:750, Continuation:False
+2023-09-14 08:26:01.200 [INFO]:  25.2| Light Value:745, Continuation:False
+2023-09-14 08:26:01.600 [INFO]:  25.6| Light Value:746, Continuation:False
+2023-09-14 08:26:02.1   [INFO]:  26.0| Light Value:745, Continuation:False
+2023-09-14 08:26:02.401 [INFO]:  26.4| Light Value:743, Continuation:False
+2023-09-14 08:26:02.801 [INFO]:  26.8| Light Value:741, Continuation:False
+2023-09-14 08:26:03.201 [INFO]:  27.2| Light Value:743, Continuation:False
+2023-09-14 08:26:03.601 [INFO]:  27.6| Light Value:742, Continuation:False
+2023-09-14 08:26:04.1   [INFO]:  28.0| Light Value:741, Continuation:False
+2023-09-14 08:26:04.401 [INFO]:  28.4| Light Value:740, Continuation:False
+2023-09-14 08:26:04.801 [INFO]:  28.8| Light Value:738, Continuation:False
+2023-09-14 08:26:05.201 [INFO]:  29.2| Light Value:737, Continuation:False
+2023-09-14 08:26:05.601 [INFO]:  29.6| Light Value:738, Continuation:False
+2023-09-14 08:26:06.1   [INFO]:  30.0| Light Value:732, Continuation:False
+2023-09-14 08:26:06.401 [INFO]:  30.4| Light Value:727, Continuation:False
+2023-09-14 08:26:06.801 [INFO]:  30.8| Light Value:726, Continuation:False
+2023-09-14 08:26:07.201 [INFO]:  31.2| Light Value:732, Continuation:False
+2023-09-14 08:26:07.601 [INFO]:  31.6| Light Value:736, Continuation:False
+2023-09-14 08:26:08.1   [INFO]:  32.0| Light Value:728, Continuation:False
+2023-09-14 08:26:08.401 [INFO]:  32.4| Light Value:725, Continuation:False
+2023-09-14 08:26:08.801 [INFO]:  32.8| Light Value:725, Continuation:False
+2023-09-14 08:26:09.201 [INFO]:  33.2| Light Value:726, Continuation:False
+2023-09-14 08:26:09.601 [INFO]:  33.6| Light Value:727, Continuation:False
+2023-09-14 08:26:10.1   [INFO]:  34.0| Light Value:728, Continuation:False
+2023-09-14 08:26:10.401 [INFO]:  34.4| Light Value:722, Continuation:False
+2023-09-14 08:26:10.801 [INFO]:  34.8| Light Value:782, Continuation:False
+2023-09-14 08:26:11.201 [INFO]:  35.2| Light Value:789, Continuation:False
+2023-09-14 08:26:11.601 [INFO]:  35.6| Light Value:711, Continuation:False
+2023-09-14 08:26:12.1   [INFO]:  36.0| Light Value:739, Continuation:False
+2023-09-14 08:26:12.401 [INFO]:  36.4| Light Value:735, Continuation:False
+2023-09-14 08:26:12.801 [INFO]:  36.8| Light Value:747, Continuation:False
+2023-09-14 08:26:13.201 [INFO]:  37.2| Light Value:739, Continuation:False
+2023-09-14 08:26:13.601 [INFO]:  37.6| Light Value:737, Continuation:False
+2023-09-14 08:26:14.1   [INFO]:  38.0| Light Value:738, Continuation:False
+2023-09-14 08:26:14.401 [INFO]:  38.4| Light Value:733, Continuation:False
+2023-09-14 08:26:14.801 [INFO]:  38.8| Light Value:727, Continuation:False
+2023-09-14 08:26:15.201 [INFO]:  39.2| Light Value:726, Continuation:False
+2023-09-14 08:26:15.601 [INFO]:  39.6| Light Value:724, Continuation:False
+2023-09-14 08:26:16.1   [INFO]:  40.0| Light Value:724, Continuation:False
+2023-09-14 08:26:16.401 [INFO]:  40.4| Light Value:725, Continuation:False
+2023-09-14 08:26:16.801 [INFO]:  40.8| Light Value:728, Continuation:False
+2023-09-14 08:26:17.201 [INFO]:  41.2| Light Value:726, Continuation:False
+2023-09-14 08:26:17.601 [INFO]:  41.6| Light Value:726, Continuation:False
+2023-09-14 08:26:18.1   [INFO]:  42.0| Light Value:721, Continuation:False
+2023-09-14 08:26:18.401 [INFO]:  42.4| Light Value:713, Continuation:False
+2023-09-14 08:26:18.801 [INFO]:  42.8| Light Value:713, Continuation:False
+2023-09-14 08:26:19.201 [INFO]:  43.2| Light Value:712, Continuation:False
+2023-09-14 08:26:19.601 [INFO]:  43.6| Light Value:711, Continuation:False
+2023-09-14 08:26:20.1   [INFO]:  44.0| Light Value:711, Continuation:False
+2023-09-14 08:26:20.401 [INFO]:  44.4| Light Value:709, Continuation:False
+2023-09-14 08:26:20.801 [INFO]:  44.8| Light Value:711, Continuation:False
+2023-09-14 08:26:21.201 [INFO]:  45.2| Light Value:708, Continuation:False
+2023-09-14 08:26:21.601 [INFO]:  45.6| Light Value:707, Continuation:False
+2023-09-14 08:26:22.1   [INFO]:  46.0| Light Value:711, Continuation:False
+2023-09-14 08:26:22.401 [INFO]:  46.4| Light Value:712, Continuation:False
+2023-09-14 08:26:22.801 [INFO]:  46.8| Light Value:791, Continuation:False
+2023-09-14 08:26:23.201 [INFO]:  47.2| Light Value:856, Continuation:False
+2023-09-14 08:26:23.601 [INFO]:  47.6| Light Value:853, Continuation:False
+2023-09-14 08:26:24.1   [INFO]:  48.0| Light Value:852, Continuation:False
+2023-09-14 08:26:24.401 [INFO]:  48.4| Light Value:850, Continuation:False
+2023-09-14 08:26:24.801 [INFO]:  48.8| Light Value:851, Continuation:False
+2023-09-14 08:26:25.201 [INFO]:  49.2| Light Value:847, Continuation:False
+2023-09-14 08:26:25.602 [INFO]:  49.6| Light Value:804, Continuation:False
+2023-09-14 08:26:26.2   [INFO]:  50.0| Light Value:797, Continuation:False
+2023-09-14 08:26:26.402 [INFO]:  50.4| Light Value:800, Continuation:False
+2023-09-14 08:26:26.802 [INFO]:  50.8| Light Value:812, Continuation:False
+2023-09-14 08:26:27.202 [INFO]:  51.2| Light Value:684, Continuation:False
+2023-09-14 08:26:27.419 [INFO]: -- Timer Judge
+2023-09-14 08:26:30.423 [INFO]: -------------------- Stored judge finish --------------------
+2023-09-14 08:26:30.424 [INFO]: -------------------- Released judge start --------------------
+2023-09-14 08:26:33.828 [INFO]:   0.4| Light Value:809, Continuation:True
+2023-09-14 08:26:34.228 [INFO]:   0.8| Light Value:822, Continuation:True
+2023-09-14 08:26:34.629 [INFO]:   1.2| Light Value:834, Continuation:True
+2023-09-14 08:26:35.29  [INFO]:   1.6| Light Value:847, Continuation:True
+2023-09-14 08:26:35.429 [INFO]:   2.0| Light Value:848, Continuation:True
+2023-09-14 08:26:35.829 [INFO]:   2.4| Light Value:849, Continuation:True
+2023-09-14 08:26:36.229 [INFO]:   2.8| Light Value:848, Continuation:True
+2023-09-14 08:26:36.629 [INFO]:   3.2| Light Value:848, Continuation:True
+2023-09-14 08:26:37.29  [INFO]:   3.6| Light Value:848, Continuation:True
+2023-09-14 08:26:37.429 [INFO]:   4.0| Light Value:850, Continuation:True
+2023-09-14 08:26:37.829 [INFO]:   4.4| Light Value:850, Continuation:True
+2023-09-14 08:26:38.229 [INFO]:   4.8| Light Value:847, Continuation:True
+2023-09-14 08:26:38.428 [INFO]: -- Light Judge
+2023-09-14 08:26:41.433 [INFO]: -------------------- Released judge finish --------------------
+2023-09-14 08:26:44.438 [INFO]: -------------------- Land judge start --------------------
+2023-09-14 08:26:44.456 [INFO]: Position: [latitude_deg: 40.8617954, longitude_deg: -119.10367869999999, absolute_altitude_m: 1192.7620849609375, relative_altitude_m: -0.2290000170469284]
+2023-09-14 08:26:47.461 [INFO]: lat:40.8617954
+2023-09-14 08:26:47.545 [INFO]: -- Under 15m
+2023-09-14 08:26:48.550 [INFO]: Time passed:1
+2023-09-14 08:26:48.551 [INFO]: Time passed:1
+2023-09-14 08:26:48.644 [INFO]: altitude of LIDAR:0.0
+2023-09-14 08:26:49.45  [INFO]: altitude of LIDAR:0.0
+2023-09-14 08:26:49.346 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-14 08:26:49.546 [INFO]: -- Lidar Judge
+2023-09-14 08:26:52.550 [INFO]: -------------------- Land judge finish --------------------
+2023-09-14 08:26:52.552 [INFO]: #################### Judge phase finished ####################
+2023-09-14 08:26:52.552 [INFO]: #################### Fuse phase start ####################
+2023-09-14 08:26:52.553 [INFO]: Fuse start
+2023-09-14 08:26:52.553 [INFO]: -- Fusing
+2023-09-14 08:26:56.557 [INFO]: Fused
+2023-09-14 08:26:56.558 [INFO]: #################### Fuse phase finished ####################
+2023-09-14 08:26:56.559 [INFO]: #################### Flying phase start ####################
+2023-09-14 08:26:56.559 [INFO]: Waiting for drone to hold...
+2023-09-14 08:26:56.577 [INFO]: Hold mode!
+2023-09-14 08:26:56.578 [INFO]: Waiting for drone to have a global position estimate...
+2023-09-14 08:26:57.393 [INFO]: gps ok
+2023-09-14 08:26:57.394 [INFO]: Global position estimate OK
+2023-09-14 08:26:57.394 [INFO]: Arming
+2023-09-14 08:26:57.414 [INFO]: Armed!
+2023-09-14 08:26:57.415 [INFO]: Starting mission
+2023-09-14 08:26:57.440 [INFO]: Started mission!
+2023-09-14 08:26:57.455 [INFO]:  mode:None mission progress:None/None lat:None lng:None lidar:Nonem
+2023-09-14 08:26:58.458 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8617905 lng:-119.1036805 lidar:0.009999999776482582m
+2023-09-14 08:26:59.459 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8617905 lng:-119.10368059999999 lidar:0.009999999776482582m
+2023-09-14 08:27:00.461 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8617905 lng:-119.10368129999999 lidar:0.009999999776482582m
+2023-09-14 08:27:01.462 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8617905 lng:-119.1036816 lidar:0.029999999329447746m
+2023-09-14 08:27:02.465 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861793299999995 lng:-119.10368199999999 lidar:0.019999999552965164m
+2023-09-14 08:27:03.467 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861800599999995 lng:-119.1036841 lidar:0.08999999612569809m
+2023-09-14 08:27:04.469 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861810399999996 lng:-119.10368659999999 lidar:0.25999999046325684m
+2023-09-14 08:27:05.471 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618179 lng:-119.1036876 lidar:0.019999999552965164m
+2023-09-14 08:27:06.474 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861819499999996 lng:-119.10368849999999 lidar:0.009999999776482582m
+2023-09-14 08:27:07.476 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618193 lng:-119.1036881 lidar:0.009999999776482582m
+2023-09-14 08:27:08.477 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861818799999995 lng:-119.1036877 lidar:0.009999999776482582m
+2023-09-14 08:27:09.479 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618187 lng:-119.10368729999999 lidar:0.009999999776482582m
+2023-09-14 08:27:10.480 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618185 lng:-119.103687 lidar:0.009999999776482582m
+2023-09-14 08:27:11.483 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861818299999996 lng:-119.1036867 lidar:0.009999999776482582m
+2023-09-14 08:27:12.485 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861818299999996 lng:-119.1036864 lidar:0.009999999776482582m
+2023-09-14 08:27:13.487 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618181 lng:-119.1036862 lidar:0.009999999776482582m
+2023-09-14 08:27:14.490 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618181 lng:-119.103686 lidar:0.009999999776482582m
+2023-09-14 08:27:15.492 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618184 lng:-119.1036857 lidar:0.009999999776482582m
+2023-09-14 08:27:16.495 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618184 lng:-119.10368559999999 lidar:0.009999999776482582m
+2023-09-14 08:27:17.496 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618186 lng:-119.1036855 lidar:0.009999999776482582m
+2023-09-14 08:27:18.498 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618187 lng:-119.1036853 lidar:0.009999999776482582m
+2023-09-14 08:27:19.501 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861819 lng:-119.10368509999999 lidar:0.009999999776482582m
+2023-09-14 08:27:20.503 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618193 lng:-119.10368489999999 lidar:0.009999999776482582m
+2023-09-14 08:27:21.504 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861819499999996 lng:-119.1036848 lidar:0.009999999776482582m
+2023-09-14 08:27:22.508 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618194 lng:-119.1036846 lidar:0.009999999776482582m
+2023-09-14 08:27:23.510 [INFO]:  mode:MISSION mission progress:0/1 lat:40.861819499999996 lng:-119.10368419999999 lidar:0.009999999776482582m
+2023-09-14 08:27:24.512 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618194 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:27:25.514 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618194 lng:-119.1036841 lidar:0.0m
+2023-09-14 08:27:26.516 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618193 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:27:27.518 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618193 lng:-119.1036838 lidar:0.009999999776482582m
+2023-09-14 08:27:28.520 [INFO]:  mode:MISSION mission progress:0/1 lat:40.8618194 lng:-119.1036839 lidar:0.009999999776482582m
+2023-09-14 08:27:29.521 [INFO]:  mode:MANUAL mission progress:0/1 lat:40.8618193 lng:-119.1036836 lidar:0.009999999776482582m
+2023-09-14 08:27:30.522 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618192 lng:-119.1036834 lidar:0.009999999776482582m
+2023-09-14 08:27:31.524 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618194 lng:-119.10368299999999 lidar:0.009999999776482582m
+2023-09-14 08:27:32.527 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618192 lng:-119.10368319999999 lidar:0.009999999776482582m
+2023-09-14 08:27:33.529 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.1036836 lidar:0.009999999776482582m
+2023-09-14 08:27:34.531 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618187 lng:-119.10368369999999 lidar:0.009999999776482582m
+2023-09-14 08:27:35.534 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618187 lng:-119.10368369999999 lidar:0.009999999776482582m
+2023-09-14 08:27:36.537 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.10368369999999 lidar:0.009999999776482582m
+2023-09-14 08:27:37.538 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618187 lng:-119.1036836 lidar:0.009999999776482582m
+2023-09-14 08:27:38.540 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618187 lng:-119.10368369999999 lidar:0.009999999776482582m
+2023-09-14 08:27:39.542 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618191 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:27:40.543 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861819 lng:-119.1036838 lidar:0.009999999776482582m
+2023-09-14 08:27:41.545 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:27:42.549 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.10368419999999 lidar:0.009999999776482582m
+2023-09-14 08:27:43.551 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.1036841 lidar:0.009999999776482582m
+2023-09-14 08:27:44.553 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618187 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:27:45.555 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618185 lng:-119.1036843 lidar:0.009999999776482582m
+2023-09-14 08:27:46.558 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818199999995 lng:-119.10368469999999 lidar:0.009999999776482582m
+2023-09-14 08:27:47.560 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818199999995 lng:-119.10368469999999 lidar:0.009999999776482582m
+2023-09-14 08:27:48.563 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618184 lng:-119.10368489999999 lidar:0.009999999776482582m
+2023-09-14 08:27:49.565 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618184 lng:-119.1036848 lidar:0.009999999776482582m
+2023-09-14 08:27:50.567 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618185 lng:-119.1036845 lidar:0.009999999776482582m
+2023-09-14 08:27:51.570 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618184 lng:-119.1036845 lidar:0.009999999776482582m
+2023-09-14 08:27:52.576 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618184 lng:-119.1036846 lidar:0.009999999776482582m
+2023-09-14 08:27:53.578 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618186 lng:-119.1036848 lidar:0.009999999776482582m
+2023-09-14 08:27:54.579 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861818799999995 lng:-119.1036848 lidar:0.009999999776482582m
+2023-09-14 08:27:55.581 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861819 lng:-119.10368489999999 lidar:0.009999999776482582m
+2023-09-14 08:27:56.583 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618191 lng:-119.10368489999999 lidar:0.009999999776482582m
+2023-09-14 08:27:57.584 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861819499999996 lng:-119.1036852 lidar:0.009999999776482582m
+2023-09-14 08:27:58.587 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618202 lng:-119.103685 lidar:0.009999999776482582m
+2023-09-14 08:27:59.589 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618202 lng:-119.1036845 lidar:0.009999999776482582m
+2023-09-14 08:28:00.591 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618205 lng:-119.1036843 lidar:0.0m
+2023-09-14 08:28:01.592 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618205 lng:-119.1036848 lidar:0.009999999776482582m
+2023-09-14 08:28:02.595 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618206 lng:-119.103685 lidar:0.009999999776482582m
+2023-09-14 08:28:03.597 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618202 lng:-119.103685 lidar:0.009999999776482582m
+2023-09-14 08:28:04.599 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820099999996 lng:-119.10368539999999 lidar:0.009999999776482582m
+2023-09-14 08:28:05.602 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618204 lng:-119.10368589999999 lidar:0.009999999776482582m
+2023-09-14 08:28:06.604 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036853 lidar:0.009999999776482582m
+2023-09-14 08:28:07.605 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618215 lng:-119.1036845 lidar:0.009999999776482582m
+2023-09-14 08:28:08.607 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618223 lng:-119.1036821 lidar:0.009999999776482582m
+2023-09-14 08:28:09.609 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861822599999996 lng:-119.10368059999999 lidar:0.009999999776482582m
+2023-09-14 08:28:10.611 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861821899999995 lng:-119.1036815 lidar:0.009999999776482582m
+2023-09-14 08:28:11.613 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618214 lng:-119.10368249999999 lidar:0.009999999776482582m
+2023-09-14 08:28:12.616 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618208 lng:-119.1036827 lidar:0.009999999776482582m
+2023-09-14 08:28:13.618 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618198 lng:-119.10368419999999 lidar:0.009999999776482582m
+2023-09-14 08:28:14.623 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618198 lng:-119.103685 lidar:0.009999999776482582m
+2023-09-14 08:28:15.625 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861819 lng:-119.1036864 lidar:0.009999999776482582m
+2023-09-14 08:28:16.627 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861817599999995 lng:-119.10368539999999 lidar:0.009999999776482582m
+2023-09-14 08:28:17.628 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861817099999996 lng:-119.10368559999999 lidar:0.009999999776482582m
+2023-09-14 08:28:18.630 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618168 lng:-119.1036858 lidar:0.009999999776482582m
+2023-09-14 08:28:19.633 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861817099999996 lng:-119.1036846 lidar:0.009999999776482582m
+2023-09-14 08:28:20.635 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618184 lng:-119.1036843 lidar:0.009999999776482582m
+2023-09-14 08:28:21.638 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618198 lng:-119.103684 lidar:0.009999999776482582m
+2023-09-14 08:28:22.640 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820099999996 lng:-119.1036839 lidar:0.009999999776482582m
+2023-09-14 08:28:23.642 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618202 lng:-119.1036836 lidar:0.009999999776482582m
+2023-09-14 08:28:24.643 [INFO]:  mode:HOLD mission progress:0/1 lat:40.86182 lng:-119.1036841 lidar:0.009999999776482582m
+2023-09-14 08:28:25.645 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618197 lng:-119.103685 lidar:0.009999999776482582m
+2023-09-14 08:28:26.647 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618196 lng:-119.1036858 lidar:0.009999999776482582m
+2023-09-14 08:28:27.650 [INFO]:  mode:HOLD mission progress:0/1 lat:40.86182 lng:-119.1036867 lidar:0.009999999776482582m
+2023-09-14 08:28:28.653 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618203 lng:-119.1036872 lidar:0.009999999776482582m
+2023-09-14 08:28:29.655 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036872 lidar:0.009999999776482582m
+2023-09-14 08:28:30.657 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861821 lng:-119.1036872 lidar:0.009999999776482582m
+2023-09-14 08:28:31.662 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618209 lng:-119.10368749999999 lidar:0.009999999776482582m
+2023-09-14 08:28:32.664 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036884 lidar:0.009999999776482582m
+2023-09-14 08:28:33.666 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618208 lng:-119.1036884 lidar:0.009999999776482582m
+2023-09-14 08:28:34.669 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618211 lng:-119.10368869999999 lidar:0.009999999776482582m
+2023-09-14 08:28:35.671 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861821299999995 lng:-119.10368869999999 lidar:0.009999999776482582m
+2023-09-14 08:28:36.673 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618216 lng:-119.1036886 lidar:0.009999999776482582m
+2023-09-14 08:28:37.675 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618216 lng:-119.10368989999999 lidar:0.009999999776482582m
+2023-09-14 08:28:38.677 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618214 lng:-119.1036908 lidar:0.009999999776482582m
+2023-09-14 08:28:39.679 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618212 lng:-119.10369139999999 lidar:0.009999999776482582m
+2023-09-14 08:28:40.680 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618217 lng:-119.10369109999999 lidar:0.009999999776482582m
+2023-09-14 08:28:41.682 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861822499999995 lng:-119.1036912 lidar:0.009999999776482582m
+2023-09-14 08:28:42.684 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823699999995 lng:-119.1036877 lidar:0.009999999776482582m
+2023-09-14 08:28:43.686 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.1036834 lidar:0.009999999776482582m
+2023-09-14 08:28:44.688 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826099999995 lng:-119.1036821 lidar:0.0m
+2023-09-14 08:28:45.690 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826199999996 lng:-119.1036814 lidar:0.009999999776482582m
+2023-09-14 08:28:46.692 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826099999995 lng:-119.103681 lidar:0.009999999776482582m
+2023-09-14 08:28:47.696 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618266 lng:-119.1036814 lidar:0.009999999776482582m
+2023-09-14 08:28:48.697 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618264 lng:-119.10368059999999 lidar:0.009999999776482582m
+2023-09-14 08:28:49.700 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618264 lng:-119.103681 lidar:0.009999999776482582m
+2023-09-14 08:28:50.702 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826199999996 lng:-119.1036817 lidar:0.009999999776482582m
+2023-09-14 08:28:51.705 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826099999995 lng:-119.10368249999999 lidar:0.009999999776482582m
+2023-09-14 08:28:52.709 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618259 lng:-119.1036816 lidar:0.009999999776482582m
+2023-09-14 08:28:53.711 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618258 lng:-119.10368129999999 lidar:0.009999999776482582m
+2023-09-14 08:28:54.713 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618259 lng:-119.1036802 lidar:0.009999999776482582m
+2023-09-14 08:28:55.715 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826699999995 lng:-119.1036795 lidar:0.009999999776482582m
+2023-09-14 08:28:56.716 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618264 lng:-119.1036798 lidar:0.009999999776482582m
+2023-09-14 08:28:57.718 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618258 lng:-119.10367989999999 lidar:0.009999999776482582m
+2023-09-14 08:28:58.719 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.10367939999999 lidar:0.009999999776482582m
+2023-09-14 08:28:59.722 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.1036785 lidar:0.009999999776482582m
+2023-09-14 08:29:00.725 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.1036776 lidar:0.0m
+2023-09-14 08:29:01.727 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824999999996 lng:-119.10367699999999 lidar:0.009999999776482582m
+2023-09-14 08:29:02.729 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824899999995 lng:-119.10367649999999 lidar:0.009999999776482582m
+2023-09-14 08:29:03.734 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824999999996 lng:-119.10367529999999 lidar:0.009999999776482582m
+2023-09-14 08:29:04.736 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618254 lng:-119.10367409999999 lidar:0.009999999776482582m
+2023-09-14 08:29:05.738 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.103673 lidar:0.009999999776482582m
+2023-09-14 08:29:06.740 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618252 lng:-119.10367269999999 lidar:0.009999999776482582m
+2023-09-14 08:29:07.742 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618251 lng:-119.1036728 lidar:0.009999999776482582m
+2023-09-14 08:29:08.745 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824899999995 lng:-119.10367269999999 lidar:0.009999999776482582m
+2023-09-14 08:29:09.747 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824899999995 lng:-119.10367249999999 lidar:0.009999999776482582m
+2023-09-14 08:29:10.749 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618245 lng:-119.1036724 lidar:0.009999999776482582m
+2023-09-14 08:29:11.751 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618246 lng:-119.1036724 lidar:0.009999999776482582m
+2023-09-14 08:29:12.753 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824899999995 lng:-119.1036723 lidar:0.009999999776482582m
+2023-09-14 08:29:13.754 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618247 lng:-119.10367249999999 lidar:0.009999999776482582m
+2023-09-14 08:29:14.758 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824399999996 lng:-119.1036728 lidar:0.009999999776482582m
+2023-09-14 08:29:15.762 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618242 lng:-119.10367289999999 lidar:0.009999999776482582m
+2023-09-14 08:29:16.765 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824 lng:-119.1036731 lidar:0.009999999776482582m
+2023-09-14 08:29:17.768 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823699999995 lng:-119.103673 lidar:0.009999999776482582m
+2023-09-14 08:29:18.770 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618235 lng:-119.1036736 lidar:0.009999999776482582m
+2023-09-14 08:29:19.772 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823199999996 lng:-119.1036747 lidar:0.009999999776482582m
+2023-09-14 08:29:20.774 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823 lng:-119.10367559999999 lidar:0.009999999776482582m
+2023-09-14 08:29:21.777 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618228 lng:-119.1036762 lidar:0.009999999776482582m
+2023-09-14 08:29:22.778 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618227 lng:-119.10367699999999 lidar:0.009999999776482582m
+2023-09-14 08:29:23.780 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861822599999996 lng:-119.1036778 lidar:0.009999999776482582m
+2023-09-14 08:29:24.783 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618224 lng:-119.1036786 lidar:0.0m
+2023-09-14 08:29:25.785 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618221 lng:-119.10367869999999 lidar:0.009999999776482582m
+2023-09-14 08:29:26.786 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618218 lng:-119.103679 lidar:0.009999999776482582m
+2023-09-14 08:29:27.788 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618216 lng:-119.10367919999999 lidar:0.009999999776482582m
+2023-09-14 08:29:28.790 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618218 lng:-119.10367889999999 lidar:0.009999999776482582m
+2023-09-14 08:29:29.793 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618212 lng:-119.1036797 lidar:0.009999999776482582m
+2023-09-14 08:29:30.797 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036798 lidar:0.009999999776482582m
+2023-09-14 08:29:31.799 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036805 lidar:0.009999999776482582m
+2023-09-14 08:29:32.800 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618206 lng:-119.10368129999999 lidar:0.009999999776482582m
+2023-09-14 08:29:33.802 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036817 lidar:0.009999999776482582m
+2023-09-14 08:29:34.803 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861820699999996 lng:-119.1036816 lidar:0.009999999776482582m
+2023-09-14 08:29:35.808 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861821 lng:-119.1036809 lidar:0.009999999776482582m
+2023-09-14 08:29:36.810 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618215 lng:-119.10368039999999 lidar:0.009999999776482582m
+2023-09-14 08:29:37.812 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618223 lng:-119.10367719999999 lidar:0.009999999776482582m
+2023-09-14 08:29:38.814 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618234 lng:-119.1036723 lidar:0.009999999776482582m
+2023-09-14 08:29:39.816 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618241 lng:-119.103668 lidar:0.009999999776482582m
+2023-09-14 08:29:40.818 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618241 lng:-119.1036702 lidar:0.009999999776482582m
+2023-09-14 08:29:41.820 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618245 lng:-119.1036687 lidar:0.009999999776482582m
+2023-09-14 08:29:42.822 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824299999995 lng:-119.1036688 lidar:0.009999999776482582m
+2023-09-14 08:29:43.824 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823699999995 lng:-119.1036697 lidar:0.009999999776482582m
+2023-09-14 08:29:44.827 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618236 lng:-119.10367049999999 lidar:0.009999999776482582m
+2023-09-14 08:29:45.829 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618234 lng:-119.1036711 lidar:0.009999999776482582m
+2023-09-14 08:29:46.834 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618234 lng:-119.10367129999999 lidar:0.009999999776482582m
+2023-09-14 08:29:47.836 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823099999995 lng:-119.10367199999999 lidar:0.009999999776482582m
+2023-09-14 08:29:48.838 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861823799999996 lng:-119.10367049999999 lidar:0.009999999776482582m
+2023-09-14 08:29:49.840 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861824299999995 lng:-119.1036669 lidar:0.009999999776482582m
+2023-09-14 08:29:50.842 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861826199999996 lng:-119.1036656 lidar:0.009999999776482582m
+2023-09-14 08:29:51.844 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618278 lng:-119.1036716 lidar:0.009999999776482582m
+2023-09-14 08:29:52.846 [INFO]:  mode:HOLD mission progress:0/1 lat:40.86183 lng:-119.1036666 lidar:0.009999999776482582m
+2023-09-14 08:29:53.848 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618273 lng:-119.1036669 lidar:0.009999999776482582m
+2023-09-14 08:29:54.851 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618269 lng:-119.1036639 lidar:0.009999999776482582m
+2023-09-14 08:29:55.852 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618273 lng:-119.10366499999999 lidar:0.009999999776482582m
+2023-09-14 08:29:56.854 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618276 lng:-119.10366549999999 lidar:0.009999999776482582m
+2023-09-14 08:29:57.856 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618283 lng:-119.1036669 lidar:0.009999999776482582m
+2023-09-14 08:29:58.858 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618284 lng:-119.1036671 lidar:0.009999999776482582m
+2023-09-14 08:29:59.860 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861828599999996 lng:-119.1036673 lidar:0.0m
+2023-09-14 08:30:00.862 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618289 lng:-119.1036661 lidar:0.009999999776482582m
+2023-09-14 08:30:01.863 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618289 lng:-119.10366549999999 lidar:0.009999999776482582m
+2023-09-14 08:30:02.867 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861828599999996 lng:-119.1036664 lidar:0.009999999776482582m
+2023-09-14 08:30:03.868 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618282 lng:-119.1036673 lidar:0.009999999776482582m
+2023-09-14 08:30:04.871 [INFO]:  mode:HOLD mission progress:0/1 lat:40.861827399999996 lng:-119.1036676 lidar:0.009999999776482582m
+2023-09-14 08:30:05.873 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618271 lng:-119.10366789999999 lidar:0.009999999776482582m
+2023-09-14 08:30:06.874 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618272 lng:-119.1036683 lidar:0.009999999776482582m
+2023-09-14 08:30:07.875 [INFO]:  mode:HOLD mission progress:0/1 lat:40.8618278 lng:-119.10367049999999 lidar:0.009999999776482582m

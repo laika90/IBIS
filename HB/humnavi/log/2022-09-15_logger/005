@@ -1,0 +1,14 @@
+2022-09-15 05:25:54.141 [INFO]: Pixhawk initialized
+2022-09-15 05:25:54.148 [INFO]: Waiting for drone to connect...
+2022-09-15 05:25:55.224 [INFO]: Drone discovered!
+2022-09-15 05:25:55.260 [INFO]: armed:False mode:0.0 satellite: 0.0 abs_alt:0.0 lidar: -1m x:0.0 y:0.0 roll:0.0 pitch:0.0 yaw:0.0 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-15 05:25:55.261 [INFO]: /home/hum-bird/humnavi/log/2022-09-15/000.json already exists
+2022-09-15 05:25:55.262 [INFO]: /home/hum-bird/humnavi/log/2022-09-15/001.json already exists
+2022-09-15 05:25:55.263 [INFO]: /home/hum-bird/humnavi/log/2022-09-15/002.json already exists
+2022-09-15 05:25:55.271 [INFO]: --Arming
+2022-09-15 05:25:55.562 [INFO]: armed:False mode:0.0 satellite: 21 abs_alt:1189.673095703125 lidar: -1m x:1.5782537460327148 y:-3.1682746410369873 roll:1.563225507736206 pitch:2.653195858001709 yaw:28.069482803344727 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-15 05:25:55.867 [INFO]: armed:False mode:0.0 satellite: 21 abs_alt:1189.6781005859375 lidar: -1m x:1.5847440958023071 y:-3.1730823516845703 roll:1.5323760509490967 pitch:2.57669997215271 yaw:28.664297103881836 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-15 05:25:56.170 [INFO]: armed:False mode:0.0 satellite: 21 abs_alt:1189.6900634765625 lidar: -1m x:1.5877736806869507 y:-3.1784322261810303 roll:1.5299618244171143 pitch:2.5700364112854004 yaw:29.942768096923828 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-15 05:25:56.294 [INFO]: --Kill
+2022-09-15 05:25:56.472 [INFO]: armed:True mode:MANUAL satellite: 21 abs_alt:1189.6990966796875 lidar: -1m x:1.5915833711624146 y:-3.1817328929901123 roll:1.6704941987991333 pitch:2.523777723312378 yaw:32.501731872558594 is_landed:False is home position ok:False maximum_speed:0.0
+2022-09-15 05:25:56.774 [INFO]: armed:True mode:MANUAL satellite: 21 abs_alt:1189.696044921875 lidar: -1m x:1.5962783098220825 y:-3.1843602657318115 roll:1.585615634918213 pitch:2.5805892944335938 yaw:31.349531173706055 is_landed:False is home position ok:False maximum_speed:0.0

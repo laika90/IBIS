@@ -1,0 +1,50 @@
+2022-09-11 17:30:22.472 [INFO]: Pixhawk initialized
+2022-09-11 17:30:22.475 [INFO]: Waiting for drone to connect...
+2022-09-11 17:30:23.550 [INFO]: Drone discovered!
+2022-09-11 17:30:23.585 [INFO]: armed:False mode:0.0 satellite: 0.0 abs_alt:0.0 lidar: -1m x:0.0 y:0.0 roll:0.0 pitch:0.0 yaw:0.0 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:23.586 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/000.json already exists
+2022-09-11 17:30:23.587 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/001.json already exists
+2022-09-11 17:30:23.588 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/002.json already exists
+2022-09-11 17:30:23.588 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/003.json already exists
+2022-09-11 17:30:23.589 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/004.json already exists
+2022-09-11 17:30:23.589 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/005.json already exists
+2022-09-11 17:30:23.590 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/006.json already exists
+2022-09-11 17:30:23.591 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/007.json already exists
+2022-09-11 17:30:23.591 [INFO]: /home/hum-bird/humnavi/log/2022-09-11/008.json already exists
+2022-09-11 17:30:23.594 [INFO]: --Holding
+2022-09-11 17:30:23.643 [INFO]: --Holding
+2022-09-11 17:30:23.678 [INFO]: --Holding
+2022-09-11 17:30:23.702 [INFO]: --Holding
+2022-09-11 17:30:23.734 [INFO]: --Holding
+2022-09-11 17:30:23.770 [INFO]: --Holding
+2022-09-11 17:30:23.798 [INFO]: --Holding
+2022-09-11 17:30:23.832 [INFO]: --Holding
+2022-09-11 17:30:23.858 [INFO]: --Holding
+2022-09-11 17:30:23.884 [INFO]: --Holding
+2022-09-11 17:30:23.887 [INFO]: armed:False mode:0.0 satellite: 8 abs_alt:0.0 lidar: 0.03989397127276625m x:-0.019860751926898956 y:-0.0033402584958821535 roll:4.155894756317139 pitch:0.361165851354599 yaw:33.856666564941406 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:23.911 [INFO]: --Holding
+2022-09-11 17:30:23.939 [INFO]: --Holding
+2022-09-11 17:30:23.977 [INFO]: --Holding
+2022-09-11 17:30:24.12  [INFO]: --Holding
+2022-09-11 17:30:24.39  [INFO]: --Holding
+2022-09-11 17:30:24.77  [INFO]: --Holding
+2022-09-11 17:30:24.115 [INFO]: --Holding
+2022-09-11 17:30:24.143 [INFO]: --Holding
+2022-09-11 17:30:24.174 [INFO]: --Holding
+2022-09-11 17:30:24.189 [INFO]: armed:False mode:0.0 satellite: 8 abs_alt:0.0 lidar: 0.039893754269833964m x:-0.019235998392105103 y:-0.003403732553124428 roll:4.161901950836182 pitch:0.36396095156669617 yaw:33.842647552490234 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:24.204 [INFO]: --Holding
+2022-09-11 17:30:24.239 [INFO]: --Holding
+2022-09-11 17:30:24.264 [INFO]: --Holding
+2022-09-11 17:30:24.300 [INFO]: --Holding
+2022-09-11 17:30:24.327 [INFO]: --Holding
+2022-09-11 17:30:24.352 [INFO]: --Holding
+2022-09-11 17:30:24.388 [INFO]: --Holding
+2022-09-11 17:30:24.412 [INFO]: --Holding
+2022-09-11 17:30:24.440 [INFO]: --Holding
+2022-09-11 17:30:24.467 [INFO]: --Holding
+2022-09-11 17:30:24.493 [INFO]: armed:False mode:0.0 satellite: 8 abs_alt:0.0 lidar: 0.03989361254514128m x:-0.018512748181819916 y:-0.003525804728269577 roll:4.165678977966309 pitch:0.364421546459198 yaw:33.83137130737305 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:24.504 [INFO]: --Holding
+2022-09-11 17:30:24.795 [INFO]: armed:False mode:HOLD satellite: 8 abs_alt:0.0 lidar: 0.039893614439557516m x:-0.017798511311411858 y:-0.0037319473922252655 roll:4.167003154754639 pitch:0.3569031357765198 yaw:33.81639099121094 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:25.97  [INFO]: armed:False mode:HOLD satellite: 8 abs_alt:0.0 lidar: 0.03989351126558983m x:-0.017255427315831184 y:-0.0039440663531422615 roll:4.167680263519287 pitch:0.3591248393058777 yaw:33.80657958984375 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:25.400 [INFO]: armed:False mode:HOLD satellite: 8 abs_alt:0.0 lidar: 0.03989340793704637m x:-0.017159242182970047 y:-0.004028981551527977 roll:4.170541763305664 pitch:0.35389238595962524 yaw:33.79745864868164 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-11 17:30:25.532 [INFO]: --Kill

@@ -1,0 +1,78 @@
+2023-09-04 19:54:26.141 [INFO]: Lora initialized
+2023-09-04 19:54:26.145 [INFO]: Pixhawk initialized
+2023-09-04 19:54:26.146 [INFO]: Waiting for drone to connect...
+2023-09-04 19:54:27.256 [INFO]: Drone connected!
+2023-09-04 19:54:27.258 [INFO]: Serial port OK.
+2023-09-04 19:54:29.261 [INFO]: Lora READY
+2023-09-04 19:54:29.262 [INFO]: Waiting for store
+2023-09-04 19:54:29.263 [INFO]: 0 seconds passed
+2023-09-04 19:54:29.563 [INFO]: 0 seconds passed
+2023-09-04 19:54:29.863 [INFO]: 0 seconds passed
+2023-09-04 19:54:30.163 [INFO]: 0 seconds passed
+2023-09-04 19:54:30.463 [INFO]: 1 seconds passed
+2023-09-04 19:54:30.763 [INFO]: 1 seconds passed
+2023-09-04 19:54:31.63  [INFO]: 1 seconds passed
+2023-09-04 19:54:31.363 [INFO]: 2 seconds passed
+2023-09-04 19:54:31.663 [INFO]: 2 seconds passed
+2023-09-04 19:54:31.963 [INFO]: 2 seconds passed
+2023-09-04 19:54:32.263 [INFO]: 3 seconds passed
+2023-09-04 19:54:32.563 [INFO]: 3 seconds passed
+2023-09-04 19:54:32.863 [INFO]: 3 seconds passed
+2023-09-04 19:54:33.163 [INFO]: 3 seconds passed
+2023-09-04 19:54:33.463 [INFO]: 4 seconds passed
+2023-09-04 19:54:33.763 [INFO]: 4 seconds passed
+2023-09-04 19:54:34.63  [INFO]: 4 seconds passed
+2023-09-04 19:54:34.363 [INFO]: 5 seconds passed
+2023-09-04 19:54:34.663 [INFO]: 5 seconds passed
+2023-09-04 19:54:34.963 [INFO]: 5 seconds passed
+2023-09-04 19:54:35.263 [INFO]: 6 seconds passed
+2023-09-04 19:54:35.563 [INFO]: 6 seconds passed
+2023-09-04 19:54:35.863 [INFO]: 6 seconds passed
+2023-09-04 19:54:36.163 [INFO]: 6 seconds passed
+2023-09-04 19:54:36.463 [INFO]: 7 seconds passed
+2023-09-04 19:54:36.763 [INFO]: 7 seconds passed
+2023-09-04 19:54:37.63  [INFO]: 7 seconds passed
+2023-09-04 19:54:37.363 [INFO]: 8 seconds passed
+2023-09-04 19:54:37.663 [INFO]: 8 seconds passed
+2023-09-04 19:54:37.963 [INFO]: 8 seconds passed
+2023-09-04 19:54:38.263 [INFO]: 9 seconds passed
+2023-09-04 19:54:38.563 [INFO]: 9 seconds passed
+2023-09-04 19:54:38.863 [INFO]: 9 seconds passed
+2023-09-04 19:54:39.163 [INFO]: 9 seconds passed
+2023-09-04 19:54:39.463 [INFO]: 10 seconds passed
+2023-09-04 19:54:39.763 [INFO]: 10 seconds passed
+2023-09-04 19:54:40.63  [INFO]: 10 seconds passed
+2023-09-04 19:54:40.263 [INFO]: 10 seconds passed. Wait phase finished
+2023-09-04 19:54:40.264 [INFO]: -------------------- Land judge start --------------------
+2023-09-04 19:54:40.267 [INFO]: Time passed:0
+2023-09-04 19:54:40.291 [INFO]: -- Under 15m
+2023-09-04 19:54:40.292 [INFO]: Time passed:0
+2023-09-04 19:54:40.389 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:40.690 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:41.68  [INFO]: Can't catch GPS
+2023-09-04 19:54:45.73  [INFO]: lat:error
+2023-09-04 19:54:49.78  [INFO]: lng:error
+2023-09-04 19:54:53.83  [INFO]: alt:error
+2023-09-04 19:54:53.86  [INFO]: Too high or distance sensor might have some error
+2023-09-04 19:54:53.891 [INFO]: GPS can't catch or pixhawk might have some error
+2023-09-04 19:54:53.894 [INFO]: Time passed:13
+2023-09-04 19:54:53.987 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:54.387 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:54.689 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:54.990 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:55.387 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:55.689 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:55.887 [INFO]: -- Under 1m
+2023-09-04 19:54:55.888 [INFO]: Time passed:15
+2023-09-04 19:54:55.987 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:56.287 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:56.589 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:56.987 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:57.287 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:57.587 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:57.888 [INFO]: altitude of LIDAR:0.009999999776482582
+2023-09-04 19:54:57.890 [INFO]: -- Lidar Judge
+2023-09-04 19:54:57.891 [INFO]: -------------------- Land judge finish --------------------
+2023-09-04 19:54:57.892 [INFO]: Fuse start
+2023-09-04 19:54:57.893 [INFO]: -- Fusing
+2023-09-04 19:55:00.897 [INFO]: Fused

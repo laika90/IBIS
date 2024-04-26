@@ -1,0 +1,6 @@
+2023-09-14 05:08:12.790 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 05:08:12.792 [INFO]: Lora initialized
+2023-09-14 05:08:12.793 [INFO]: Light initialized
+2023-09-14 05:08:12.794 [INFO]: Pixhawk initialized
+2023-09-14 05:08:12.795 [INFO]: #################### Ibis initialized ####################
+2023-09-14 05:08:12.796 [INFO]: Destructing deamon log

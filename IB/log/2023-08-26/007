@@ -1,0 +1,67 @@
+2023-08-26 20:24:38.713 [INFO]: Lora initialized
+2023-08-26 20:24:38.717 [INFO]: Pixhawk initialized
+2023-08-26 20:24:38.722 [INFO]: Light initialized
+2023-08-26 20:24:38.727 [INFO]: Ibis initialized
+2023-08-26 20:24:38.730 [INFO]: Waiting for drone to connect...
+2023-08-26 20:24:39.330 [INFO]: Drone connected!
+2023-08-26 20:24:39.386 [INFO]: Uploading mission
+2023-08-26 20:24:40.444 [INFO]: ################## stored judge start ####################
+2023-08-26 20:24:40.850 [INFO]:   0.4| 光センサ:  0, 継続:True
+2023-08-26 20:24:41.250 [INFO]:   0.8| 光センサ:  0, 継続:True
+2023-08-26 20:24:41.650 [INFO]:   1.2| 光センサ:  0, 継続:True
+2023-08-26 20:24:42.50  [INFO]:   1.6| 光センサ:  0, 継続:True
+2023-08-26 20:24:42.450 [INFO]:   2.0| 光センサ:  0, 継続:True
+2023-08-26 20:24:42.850 [INFO]:   2.4| 光センサ:  0, 継続:True
+2023-08-26 20:24:43.250 [INFO]:   2.8| 光センサ:  0, 継続:True
+2023-08-26 20:24:43.650 [INFO]:   3.2| 光センサ:  0, 継続:True
+2023-08-26 20:24:44.50  [INFO]:   3.6| 光センサ:  0, 継続:True
+2023-08-26 20:24:44.450 [INFO]:   4.0| 光センサ:  0, 継続:True
+2023-08-26 20:24:44.851 [INFO]:   4.4| 光センサ:  0, 継続:True
+2023-08-26 20:24:45.251 [INFO]:   4.8| 光センサ:  0, 継続:True
+2023-08-26 20:24:45.450 [INFO]: -- Light Judge
+2023-08-26 20:24:45.453 [INFO]: #################### stored judge finish ###################
+2023-08-26 20:24:45.457 [INFO]: ################### released judge start ###################
+2023-08-26 20:24:45.863 [INFO]:   0.4| 光センサ:  0, 継続:False
+2023-08-26 20:24:46.263 [INFO]:   0.8| 光センサ:  0, 継続:False
+2023-08-26 20:24:46.663 [INFO]:   1.2| 光センサ:  0, 継続:False
+2023-08-26 20:24:47.64  [INFO]:   1.6| 光センサ:  0, 継続:False
+2023-08-26 20:24:47.464 [INFO]:   2.0| 光センサ:  0, 継続:False
+2023-08-26 20:24:47.864 [INFO]:   2.4| 光センサ:  0, 継続:False
+2023-08-26 20:24:48.264 [INFO]:   2.8| 光センサ:  0, 継続:False
+2023-08-26 20:24:48.664 [INFO]:   3.2| 光センサ:  0, 継続:False
+2023-08-26 20:24:49.65  [INFO]:   3.6| 光センサ:  0, 継続:False
+2023-08-26 20:24:49.465 [INFO]:   4.0| 光センサ:  0, 継続:False
+2023-08-26 20:24:49.866 [INFO]:   4.4| 光センサ:  0, 継続:False
+2023-08-26 20:24:50.266 [INFO]:   4.8| 光センサ:  0, 継続:False
+2023-08-26 20:24:50.666 [INFO]:   5.2| 光センサ:  0, 継続:False
+2023-08-26 20:24:51.66  [INFO]:   5.6| 光センサ:  0, 継続:False
+2023-08-26 20:24:51.466 [INFO]:   6.0| 光センサ:  0, 継続:False
+2023-08-26 20:24:51.866 [INFO]:   6.4| 光センサ:  0, 継続:False
+2023-08-26 20:24:52.266 [INFO]:   6.8| 光センサ:  0, 継続:False
+2023-08-26 20:24:52.666 [INFO]:   7.2| 光センサ:  0, 継続:False
+2023-08-26 20:24:53.66  [INFO]:   7.6| 光センサ:  0, 継続:False
+2023-08-26 20:24:53.462 [INFO]: -- Timer Judge
+2023-08-26 20:24:53.465 [INFO]: ##################### released judge finish #####################
+2023-08-26 20:24:53.469 [INFO]: Lora power on
+2023-08-26 20:24:53.474 [INFO]: Serial port OK.
+2023-08-26 20:24:55.481 [INFO]: Lora READY
+2023-08-26 20:24:55.487 [INFO]: ################ Land judge start ################
+2023-08-26 20:24:56.304 [INFO]: Can't catch GPS
+2023-08-26 20:25:00.307 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:00.325 [INFO]: lat:error
+2023-08-26 20:25:01.127 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:01.948 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:02.766 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:03.581 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:04.334 [INFO]: lng:error
+2023-08-26 20:25:04.399 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:05.214 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:06.32  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:06.863 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:07.681 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:08.340 [INFO]: alt:error
+2023-08-26 20:25:08.499 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:09.314 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:10.132 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:10.965 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:25:11.783 [INFO]: Too high or distance sensor might have some error

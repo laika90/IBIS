@@ -1,0 +1,4 @@
+takeoff_altitude_m: 12
+target_list: ["test_target"]
+maximum_speed_ms: 12
+time_limit: 30

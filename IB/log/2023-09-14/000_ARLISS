@@ -1,0 +1,12 @@
+2023-09-14 07:46:30.593 [INFO]: #################### Initializing Ibis ####################
+2023-09-14 07:46:30.594 [INFO]: Lora initialized
+2023-09-14 07:46:30.596 [INFO]: Light initialized
+2023-09-14 07:46:30.617 [INFO]: Camera is not enabled. Try running 'sudo raspi-config' and ensure that the camera has been enabled.
+2023-09-14 07:46:30.618 [INFO]: Pixhawk initialized
+2023-09-14 07:46:30.619 [INFO]: #################### Ibis initialized ####################
+2023-09-14 07:46:30.619 [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 07:46:30.619 [INFO]: #################### Wait store phase start ####################
+2023-09-14 07:46:30.620 [INFO]: Lora power on
+2023-09-14 07:46:30.621 [INFO]: Serial port OK.
+2023-09-14 07:46:32.623 [INFO]: Lora READY
+2023-09-14 07:46:32.624 [INFO]: Waiting for drone to connect...

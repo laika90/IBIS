@@ -1,0 +1,8 @@
+wait_time = 
+lora_sleep_time = 3
+fuse_time = 3
+stored_timelimit = 
+stored_judge_time = 15
+released_timelimit = 
+released_judge_time = 5
+land_timelimit = 10

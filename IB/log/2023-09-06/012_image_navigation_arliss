@@ -1,0 +1,9 @@
+2023-09-06 16:51:23.381 [INFO]: Lora initialized
+2023-09-06 16:51:23.517 [INFO]: Camera initialized
+2023-09-06 16:51:23.519 [INFO]: Pixhawk initialized
+2023-09-06 16:51:23.520 [INFO]: Waiting for drone to connect...
+2023-09-06 16:51:24.642 [INFO]: Drone connected!
+2023-09-06 16:51:24.649 [INFO]: Uploading mission
+2023-09-06 16:51:25.727 [INFO]: Waiting for drone to have a global position estimate...
+2023-09-06 16:51:26.586 [INFO]: gps ng
+2023-09-06 16:51:27.584 [INFO]: gps ok

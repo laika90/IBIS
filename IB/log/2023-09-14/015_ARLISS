@@ -1,0 +1,12 @@
+2023-09-14 05:04:03.92  [INFO]: #################### Initializing Ibis ####################
+2023-09-14 05:04:03.94  [INFO]: Lora initialized
+2023-09-14 05:04:03.96  [INFO]: Light initialized
+2023-09-14 05:04:03.233 [INFO]: Camera initialized
+2023-09-14 05:04:03.234 [INFO]: Pixhawk initialized
+2023-09-14 05:04:03.237 [INFO]: #################### Ibis initialized ####################
+2023-09-14 05:04:03.238 [INFO]: #################### IBIS MISSION START ####################
+2023-09-14 05:04:03.238 [INFO]: #################### Wait store phase start ####################
+2023-09-14 05:04:03.239 [INFO]: Lora power on
+2023-09-14 05:04:03.241 [INFO]: Serial port OK.
+2023-09-14 05:04:05.244 [INFO]: Lora READY
+2023-09-14 05:04:05.245 [INFO]: Waiting for drone to connect...

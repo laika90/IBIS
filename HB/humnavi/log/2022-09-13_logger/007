@@ -1,0 +1,10 @@
+2022-09-13 04:25:39.953 [INFO]: Pixhawk initialized
+2022-09-13 04:25:39.955 [INFO]: Waiting for drone to connect...
+2022-09-13 04:25:41.416 [INFO]: Drone discovered!
+2022-09-13 04:25:41.461 [INFO]: armed:False mode:0.0 satellite: 0.0 abs_alt:0.0 lidar: -1m x:0.0 y:0.0 roll:0.0 pitch:0.0 yaw:0.0 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-13 04:25:41.467 [INFO]: /home/hum-bird/humnavi/log/2022-09-13/000.json already exists
+2022-09-13 04:25:41.764 [INFO]: armed:False mode:MANUAL satellite: 0 abs_alt:0.0 lidar: 0.02993842269743464m x:0.0026749693788588047 y:0.004795994609594345 roll:-2.468878746032715 pitch:2.7179508209228516 yaw:-140.55908203125 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-13 04:25:42.66  [INFO]: armed:False mode:MANUAL satellite: 0 abs_alt:0.0 lidar: 0.029938584996516037m x:0.0026908889412879944 y:0.0047880844213068485 roll:-2.4739110469818115 pitch:2.7162365913391113 yaw:-140.554443359375 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-13 04:25:42.368 [INFO]: armed:False mode:MANUAL satellite: 0 abs_alt:0.0 lidar: 0.01995904665657668m x:0.002609026152640581 y:0.004783876705914736 roll:-2.4746439456939697 pitch:2.7143337726593018 yaw:-140.54669189453125 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-13 04:25:42.670 [INFO]: armed:False mode:MANUAL satellite: 0 abs_alt:0.0 lidar: 0.019958919172530905m x:0.0025008271913975477 y:0.004868101794272661 roll:-2.475079298019409 pitch:2.714632034301758 yaw:-140.54278564453125 is_landed:False is home position ok:0.0 maximum_speed:0.0
+2022-09-13 04:25:42.973 [INFO]: armed:False mode:MANUAL satellite: 0 abs_alt:0.0 lidar: 0.029938518376171508m x:0.0021905642934143543 y:0.0047782910987734795 roll:-2.4721269607543945 pitch:2.7116854190826416 yaw:-140.53807067871094 is_landed:False is home position ok:0.0 maximum_speed:0.0

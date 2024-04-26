@@ -1,0 +1,100 @@
+Arduino：1.8.19 (Mac OS X), ボード："Arduino Nano, ATmega328P"
+
+
+
+
+
+
+
+
+
+
+
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:8:16: error: 'uint16_t pres::dig_T1' is not a static data member of 'class pres'
+ uint16_t pres::dig_T1;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:9:16: error: 'int16_t pres::dig_T2' is not a static data member of 'class pres'
+ int16_t  pres::dig_T2;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:10:16: error: 'int16_t pres::dig_T3' is not a static data member of 'class pres'
+ int16_t  pres::dig_T3;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:11:16: error: 'uint16_t pres::dig_P1' is not a static data member of 'class pres'
+ uint16_t pres::dig_P1;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:12:16: error: 'int16_t pres::dig_P3' is not a static data member of 'class pres'
+ int16_t  pres::dig_P3;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:13:16: error: 'int16_t pres::dig_P4' is not a static data member of 'class pres'
+ int16_t  pres::dig_P4;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:14:16: error: 'int16_t pres::dig_P5' is not a static data member of 'class pres'
+ int16_t  pres::dig_P5;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:15:16: error: 'int16_t pres::dig_P6' is not a static data member of 'class pres'
+ int16_t  pres::dig_P6;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:16:16: error: 'int16_t pres::dig_P9' is not a static data member of 'class pres'
+ int16_t  pres::dig_P9;
+                ^~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:17:27: error: 'unsigned char pres::dac [26]' is not a static data member of 'class pres'
+ unsigned char pres::dac[26];
+                           ^
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:18:20: error: 'unsigned int pres::i' is not a static data member of 'class pres'
+ unsigned int pres::i;
+                    ^
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: In constructor 'pres::pres()':
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:28:3: error: 'set_value' was not declared in this scope
+   set_value();
+   ^~~~~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:28:3: note: suggested alternative: 'setvbuf'
+   set_value();
+   ^~~~~~~~~
+   setvbuf
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: At global scope:
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:40:29: error: no 'void pres::init_pres()' member function declared in class 'pres'
+ static void pres::init_pres()
+                             ^
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:98:22: error: no 'void pres::set_value()' member function declared in class 'pres'
+ void pres::set_value()
+                      ^
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: In member function 'void pres::set_pre_altitude_()':
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:170:3: error: 'set_value' was not declared in this scope
+   set_value();
+   ^~~~~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:170:3: note: suggested alternative: 'setvbuf'
+   set_value();
+   ^~~~~~~~~
+   setvbuf
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: In member function 'bool pres::judge_altitude_up()':
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:244:3: error: 'set_value' was not declared in this scope
+   set_value();
+   ^~~~~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:244:3: note: suggested alternative: 'setvbuf'
+   set_value();
+   ^~~~~~~~~
+   setvbuf
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: In member function 'bool pres::judge_altitude_down()':
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:261:3: error: 'set_value' was not declared in this scope
+   set_value();
+   ^~~~~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:261:3: note: suggested alternative: 'setvbuf'
+   set_value();
+   ^~~~~~~~~
+   setvbuf
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp: In member function 'bool pres::judge_alt_to_ground()':
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:279:3: error: 'set_value' was not declared in this scope
+   set_value();
+   ^~~~~~~~~
+/Users/kakemichinari/Desktop/Arduino/libraries/class_pres2/class_pres2.cpp:279:3: note: suggested alternative: 'setvbuf'
+   set_value();
+   ^~~~~~~~~
+   setvbuf
+exit status 1
+ボードArduino Nanoに対するコンパイル時にエラーが発生しました。
+/Users/kakemichinari/Desktop/Arduino/Arliss_test/ARLISS_light/light/light.ino
+
+
+「ファイル」メニューの「環境設定」から
+「より詳細な情報を表示する：コンパイル」を有効にすると
+より詳しい情報が表示されます。

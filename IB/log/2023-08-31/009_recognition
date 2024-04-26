@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+2023-08-31 21:40:18.953 [INFO]: Camera initialized
+2023-08-31 21:40:20.956 [INFO]: taking pic...: /home/pi/ARLISS_IBIS/IB/Images/recognition_2023-08-31 21:40:18.802712.jpg
+=======
+2023-08-31 14:46:35.653 [INFO]: Camera initialized
+2023-08-31 14:46:35.654 [INFO]: taking pic...: /home/pi/ARLISS_IBIS/IB/Images/recognition_2023-08-31 14:46:35.536170.jpg
+>>>>>>> refs/remotes/origin/develop

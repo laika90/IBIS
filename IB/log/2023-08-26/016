@@ -1,0 +1,116 @@
+2023-08-26 20:48:44.456 [INFO]: Lora initialized
+2023-08-26 20:48:44.461 [INFO]: Pixhawk initialized
+2023-08-26 20:48:44.465 [INFO]: Light initialized
+2023-08-26 20:48:44.469 [INFO]: Ibis initialized
+2023-08-26 20:48:44.473 [INFO]: Waiting for drone to connect...
+2023-08-26 20:48:45.57  [INFO]: Drone connected!
+2023-08-26 20:48:45.109 [INFO]: Uploading mission
+2023-08-26 20:48:46.159 [INFO]: ################## stored judge start ####################
+2023-08-26 20:48:46.163 [INFO]: -- Timer Judge
+2023-08-26 20:48:46.172 [INFO]: #################### stored judge finish ###################
+2023-08-26 20:48:46.180 [INFO]: ################### released judge start ###################
+2023-08-26 20:48:46.190 [INFO]: -- Timer Judge
+2023-08-26 20:48:46.197 [INFO]: ##################### released judge finish #####################
+2023-08-26 20:48:46.207 [INFO]: Lora power on
+2023-08-26 20:48:46.219 [INFO]: Serial port OK.
+2023-08-26 20:48:48.230 [INFO]: Lora READY
+2023-08-26 20:48:48.237 [INFO]: ################ Land judge start ################
+2023-08-26 20:48:49.59  [INFO]: Can't catch GPS
+2023-08-26 20:48:53.57  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:53.101 [INFO]: lat:error
+2023-08-26 20:48:53.886 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:54.703 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:55.524 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:56.346 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:57.108 [INFO]: lng:error
+2023-08-26 20:48:57.172 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:57.998 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:58.821 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:48:59.646 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:00.466 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:01.114 [INFO]: alt:error
+2023-08-26 20:49:01.288 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:01.929 [INFO]: Can't catch GPS
+2023-08-26 20:49:02.110 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:02.934 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:03.749 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:04.573 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:05.396 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:05.936 [INFO]: lat:error
+2023-08-26 20:49:06.218 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:07.40  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:07.861 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:08.682 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:09.503 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:09.943 [INFO]: lng:error
+2023-08-26 20:49:10.327 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:11.148 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:11.974 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:12.790 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:13.612 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:13.955 [INFO]: alt:error
+2023-08-26 20:49:14.433 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:14.770 [INFO]: Can't catch GPS
+2023-08-26 20:49:15.258 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:16.86  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:16.908 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:17.728 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:18.548 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:18.783 [INFO]: lat:error
+2023-08-26 20:49:19.371 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:20.194 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:21.18  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:21.847 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:22.671 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:22.790 [INFO]: lng:error
+2023-08-26 20:49:23.492 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:24.317 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:25.142 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:25.966 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:26.782 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:26.826 [INFO]: alt:error
+2023-08-26 20:49:27.609 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:27.658 [INFO]: Can't catch GPS
+2023-08-26 20:49:28.431 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:29.253 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:30.80  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:30.901 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:31.670 [INFO]: lat:error
+2023-08-26 20:49:31.718 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:32.544 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:33.367 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:34.187 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:35.13  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:35.676 [INFO]: lng:error
+2023-08-26 20:49:35.836 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:36.658 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:37.479 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:38.301 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:39.132 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:39.682 [INFO]: alt:error
+2023-08-26 20:49:39.956 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:40.497 [INFO]: Can't catch GPS
+2023-08-26 20:49:40.773 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:41.598 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:42.420 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:43.246 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:44.67  [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:44.507 [INFO]: lat:error
+2023-08-26 20:49:44.892 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:45.715 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:46.536 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:47.357 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:48.178 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:48.514 [INFO]: lng:error
+2023-08-26 20:49:49.4   [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:49.826 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:50.650 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:51.472 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:52.295 [INFO]: Too high or distance sensor might have some error
+2023-08-26 20:49:52.305 [INFO]: -- Timer Judge
+2023-08-26 20:49:52.313 [INFO]: ################ Land judge finish ###############
+2023-08-26 20:49:52.519 [INFO]: alt:error
+2023-08-26 20:49:53.336 [INFO]: Can't catch GPS
+2023-08-26 20:49:53.352 [INFO]: -- Fuse start
+2023-08-26 20:49:53.358 [INFO]: -- Fusing
+2023-08-26 20:49:56.368 [INFO]: -- Fused! Please Fly

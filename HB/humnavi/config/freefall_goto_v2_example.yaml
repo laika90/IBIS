@@ -1,0 +1,7 @@
+limit_down_m_s: 5
+limit_lidar: 8
+arm_goto_s: 1
+mission_name: "matsudo"
+time_limit_goto: 15
+time_limit_land: 10
+model_ver: 2

@@ -1,0 +1,19 @@
+2023-06-18 17:40:46.471 [INFO]: Waiting for drone to connect...
+2023-06-18 17:40:46.489 [INFO]: -- Connected to drone!
+2023-06-18 17:40:46.493 [INFO]: -- Arming
+2023-06-18 17:40:46.552 [INFO]: -- Armed
+2023-06-18 17:40:46.553 [INFO]: -- Taking off
+2023-06-18 17:40:51.655 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.10999999940395355m
+2023-06-18 17:40:52.254 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.2199999988079071m
+2023-06-18 17:40:52.554 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.3400000035762787m
+2023-06-18 17:40:52.754 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.14000000059604645m
+2023-06-18 17:40:52.853 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fbb0> lidar:0.35999998450279236m
+2023-06-18 17:40:53.152 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.4699999988079071m
+2023-06-18 17:40:53.353 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.699999988079071m
+2023-06-18 17:40:53.452 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fbb0> lidar:0.5600000023841858m
+2023-06-18 17:40:53.553 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.44999998807907104m
+2023-06-18 17:40:53.652 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fbb0> lidar:0.03999999910593033m
+2023-06-18 17:40:53.752 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fdf0> lidar:0.3799999952316284m
+2023-06-18 17:40:54.30  [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fbb0> lidar:0.019999999552965164m
+2023-06-18 17:40:54.132 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d6a3d0> lidar:0.17000000178813934m
+2023-06-18 17:40:54.530 [INFO]: mode:<async_generator object Telemetry.flight_mode at 0x74d5fdf0> lidar:0.07000000029802322m

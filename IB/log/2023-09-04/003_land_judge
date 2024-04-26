@@ -1,0 +1,10 @@
+2023-09-04 19:47:21.554 [INFO]: Lora initialized
+2023-09-04 19:47:21.556 [INFO]: Pixhawk initialized
+2023-09-04 19:47:21.557 [INFO]: Waiting for drone to connect...
+2023-09-04 19:47:23.876 [INFO]: Drone connected!
+2023-09-04 19:47:23.878 [INFO]: Serial port OK.
+2023-09-04 19:47:25.882 [INFO]: Lora READY
+2023-09-04 19:47:25.883 [INFO]: Waiting for store
+2023-09-04 19:47:25.883 [INFO]: 0 seconds passed
+2023-09-04 19:47:26.183 [INFO]: 0 seconds passed
+2023-09-04 19:47:26.483 [INFO]: 0 seconds passed

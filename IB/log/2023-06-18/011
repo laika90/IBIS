@@ -1,0 +1,7 @@
+2023-06-18 18:10:21.89  [INFO]: Waiting for drone to connect...
+2023-06-18 18:10:21.100 [INFO]: -- Connected to drone!
+2023-06-18 18:10:21.123 [INFO]: -- Uploading mission
+2023-06-18 18:10:22.155 [INFO]: Waiting for drone to have a global position estimate...
+2023-06-18 18:10:23.47  [INFO]: -- Global position estimate OK
+2023-06-18 18:10:23.49  [INFO]: -- Arming
+2023-06-18 18:10:23.81  [INFO]: -- Starting mission

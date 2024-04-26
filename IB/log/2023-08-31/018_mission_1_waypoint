@@ -1,0 +1,865 @@
+2023-08-31 16:02:34.491 [INFO]: Lora initialized
+2023-08-31 16:02:34.493 [INFO]: Pixhawk initialized
+2023-08-31 16:02:34.493 [INFO]: Waiting for drone to connect...
+2023-08-31 16:02:37.298 [INFO]: Drone connected!
+2023-08-31 16:02:37.311 [INFO]: Uploading mission
+2023-08-31 16:02:38.347 [INFO]: Waiting for drone to have a global position estimate...
+2023-08-31 16:02:38.632 [INFO]: gps ng
+2023-08-31 16:02:39.631 [INFO]: gps ok
+2023-08-31 16:02:39.632 [INFO]: Global position estimate OK
+2023-08-31 16:02:39.632 [INFO]: Arming
+2023-08-31 16:02:39.663 [INFO]: Armed!
+2023-08-31 16:02:39.664 [INFO]: Starting mission
+2023-08-31 16:02:39.697 [INFO]:  mode:None mission progress:None/None lat:None lng:None lidar:Nonem battery:NoneV, None%
+2023-08-31 16:02:39.999 [INFO]:  mode:None mission progress:None/None lat:35.7969028 lng:139.8920248 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:40.301 [INFO]:  mode:None mission progress:None/None lat:35.7969028 lng:139.8920249 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:40.602 [INFO]:  mode:None mission progress:None/None lat:35.7969028 lng:139.892025 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:40.703 [INFO]: False
+2023-08-31 16:02:40.904 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969028 lng:139.8920252 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:41.207 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969029 lng:139.8920254 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:41.509 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969029 lng:139.8920257 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:41.708 [INFO]: False
+2023-08-31 16:02:41.812 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969029 lng:139.89202609999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:42.114 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969025 lng:139.8920267 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:42.416 [INFO]:  mode:MISSION mission progress:None/None lat:35.796901999999996 lng:139.89202799999998 lidar:0.07000000029802322m battery:NoneV, None%
+2023-08-31 16:02:42.713 [INFO]: False
+2023-08-31 16:02:42.718 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969029 lng:139.8920303 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:02:43.22  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969037 lng:139.8920317 lidar:0.05999999865889549m battery:NoneV, None%
+2023-08-31 16:02:43.323 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969051 lng:139.8920324 lidar:0.11999999731779099m battery:NoneV, None%
+2023-08-31 16:02:43.626 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969065 lng:139.8920322 lidar:0.1899999976158142m battery:NoneV, None%
+2023-08-31 16:02:43.719 [INFO]: False
+2023-08-31 16:02:43.929 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969082 lng:139.8920317 lidar:0.25m battery:NoneV, None%
+2023-08-31 16:02:44.231 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969101 lng:139.8920315 lidar:0.2800000011920929m battery:NoneV, None%
+2023-08-31 16:02:44.534 [INFO]:  mode:MISSION mission progress:None/None lat:35.796914099999995 lng:139.89203279999998 lidar:0.25999999046325684m battery:NoneV, None%
+2023-08-31 16:02:44.725 [INFO]: False
+2023-08-31 16:02:44.836 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969182 lng:139.89203469999998 lidar:0.25999999046325684m battery:NoneV, None%
+2023-08-31 16:02:45.138 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969206 lng:139.89203609999998 lidar:0.23999999463558197m battery:NoneV, None%
+2023-08-31 16:02:45.439 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969212 lng:139.8920364 lidar:0.25m battery:NoneV, None%
+2023-08-31 16:02:45.731 [INFO]: False
+2023-08-31 16:02:45.741 [INFO]:  mode:MISSION mission progress:None/None lat:35.796920799999995 lng:139.89203559999999 lidar:0.3199999928474426m battery:NoneV, None%
+2023-08-31 16:02:46.44  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969204 lng:139.8920353 lidar:0.4699999988079071m battery:NoneV, None%
+2023-08-31 16:02:46.345 [INFO]:  mode:MISSION mission progress:None/None lat:35.796920799999995 lng:139.8920374 lidar:0.6200000047683716m battery:NoneV, None%
+2023-08-31 16:02:46.648 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969224 lng:139.8920421 lidar:0.8299999833106995m battery:NoneV, None%
+2023-08-31 16:02:46.737 [INFO]: False
+2023-08-31 16:02:46.949 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969204 lng:139.89204239999998 lidar:0.8999999761581421m battery:NoneV, None%
+2023-08-31 16:02:47.251 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969174 lng:139.8920402 lidar:0.8399999737739563m battery:NoneV, None%
+2023-08-31 16:02:47.553 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969156 lng:139.8920377 lidar:0.8199999928474426m battery:NoneV, None%
+2023-08-31 16:02:47.742 [INFO]: False
+2023-08-31 16:02:47.857 [INFO]:  mode:LAND mission progress:None/None lat:35.7969169 lng:139.89203609999998 lidar:0.6800000071525574m battery:NoneV, None%
+2023-08-31 16:02:48.159 [INFO]:  mode:LAND mission progress:None/None lat:35.7969211 lng:139.8920355 lidar:0.41999998688697815m battery:NoneV, None%
+2023-08-31 16:02:48.460 [INFO]:  mode:LAND mission progress:None/None lat:35.7969278 lng:139.89203569999998 lidar:0.17000000178813934m battery:NoneV, None%
+2023-08-31 16:02:48.748 [INFO]: False
+2023-08-31 16:02:48.763 [INFO]:  mode:LAND mission progress:None/None lat:35.7969371 lng:139.8920354 lidar:0.28999999165534973m battery:NoneV, None%
+2023-08-31 16:02:49.65  [INFO]:  mode:LAND mission progress:None/None lat:35.7969499 lng:139.89203419999998 lidar:3.179999828338623m battery:NoneV, None%
+2023-08-31 16:02:49.367 [INFO]:  mode:LAND mission progress:None/None lat:35.7969679 lng:139.892032 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:49.670 [INFO]:  mode:LAND mission progress:None/None lat:35.7969862 lng:139.89202989999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:49.752 [INFO]: False
+2023-08-31 16:02:49.971 [INFO]:  mode:LAND mission progress:None/None lat:35.797005299999995 lng:139.8920282 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:50.274 [INFO]:  mode:LAND mission progress:None/None lat:35.7970258 lng:139.89202659999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:50.575 [INFO]:  mode:LAND mission progress:None/None lat:35.7970468 lng:139.8920253 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:50.757 [INFO]: False
+2023-08-31 16:02:50.877 [INFO]:  mode:LAND mission progress:None/None lat:35.7970695 lng:139.8920243 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:51.179 [INFO]:  mode:LAND mission progress:None/None lat:35.7970926 lng:139.8920235 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:51.482 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:51.763 [INFO]: False
+2023-08-31 16:02:51.783 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:52.85  [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:52.386 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:52.688 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:52.767 [INFO]: False
+2023-08-31 16:02:52.992 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:53.295 [INFO]:  mode:LAND mission progress:None/None lat:35.7971101 lng:139.892023 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:53.596 [INFO]:  mode:LAND mission progress:None/None lat:35.7969791 lng:139.8922071 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:53.773 [INFO]: False
+2023-08-31 16:02:53.899 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969736 lng:139.8922146 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:54.201 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969727 lng:139.89221709999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:54.503 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969735 lng:139.89221809999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:54.779 [INFO]: False
+2023-08-31 16:02:54.805 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969741 lng:139.8922186 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:55.107 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969746 lng:139.8922186 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:55.409 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.89221899999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:55.711 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969771 lng:139.8922192 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:55.784 [INFO]: False
+2023-08-31 16:02:56.14  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.8922202 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:56.316 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.89222189999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:56.617 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.8922235 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:56.788 [INFO]: False
+2023-08-31 16:02:56.919 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969813 lng:139.892224 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:57.221 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.89222469999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:57.524 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.89222469999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:57.793 [INFO]: False
+2023-08-31 16:02:57.825 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.8922239 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:58.127 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969839 lng:139.8922239 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:58.430 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969863 lng:139.8922246 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:58.731 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969864 lng:139.89222379999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:58.798 [INFO]: False
+2023-08-31 16:02:59.32  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969868 lng:139.8922236 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:59.334 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969876 lng:139.8922237 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:59.635 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969887 lng:139.89222469999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:02:59.803 [INFO]: False
+2023-08-31 16:02:59.938 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969888 lng:139.89222569999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:00.239 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969887 lng:139.89222669999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:00.541 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969876 lng:139.8922268 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:00.807 [INFO]: False
+2023-08-31 16:03:00.842 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969856 lng:139.892226 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:01.144 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969843 lng:139.8922259 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:01.446 [INFO]:  mode:MISSION mission progress:None/None lat:35.796983 lng:139.8922255 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:01.747 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.892225 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:01.812 [INFO]: False
+2023-08-31 16:03:02.49  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.8922241 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:02.351 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.892224 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:02.652 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.8922241 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:02.816 [INFO]: False
+2023-08-31 16:03:02.955 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969784 lng:139.8922237 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:03.257 [INFO]:  mode:MISSION mission progress:None/None lat:35.796977999999996 lng:139.89222329999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:03.559 [INFO]:  mode:MISSION mission progress:None/None lat:35.796977999999996 lng:139.8922231 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:03.822 [INFO]: False
+2023-08-31 16:03:03.861 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969775 lng:139.8922223 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:04.163 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969765 lng:139.8922212 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:04.466 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969757 lng:139.8922198 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:04.768 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969758 lng:139.8922186 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:04.826 [INFO]: False
+2023-08-31 16:03:05.70  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969778 lng:139.892217 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:05.371 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981099999996 lng:139.89221519999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:05.673 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969858 lng:139.8922135 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:05.832 [INFO]: False
+2023-08-31 16:03:05.975 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969897 lng:139.8922122 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:06.277 [INFO]:  mode:MISSION mission progress:None/None lat:35.796994 lng:139.8922116 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:06.579 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969977 lng:139.8922114 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:06.836 [INFO]: False
+2023-08-31 16:03:06.881 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970015 lng:139.89221179999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:07.183 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970056 lng:139.8922119 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:07.485 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970101 lng:139.892212 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:07.786 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970142 lng:139.8922121 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:07.840 [INFO]: False
+2023-08-31 16:03:08.87  [INFO]:  mode:MISSION mission progress:None/None lat:35.797018 lng:139.8922127 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:08.390 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970216 lng:139.892213 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:08.693 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970249 lng:139.8922134 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:08.845 [INFO]: False
+2023-08-31 16:03:08.994 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970269 lng:139.89221369999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:09.296 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970262 lng:139.8922154 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:09.598 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970239 lng:139.8922173 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:09.851 [INFO]: False
+2023-08-31 16:03:09.900 [INFO]:  mode:MISSION mission progress:None/None lat:35.797021799999996 lng:139.89221849999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:10.201 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970203 lng:139.8922191 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:10.503 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970192 lng:139.89221949999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:10.806 [INFO]:  mode:MISSION mission progress:None/None lat:35.797018699999995 lng:139.8922196 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:10.855 [INFO]: False
+2023-08-31 16:03:11.110 [INFO]:  mode:MISSION mission progress:None/None lat:35.797018099999995 lng:139.8922197 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:11.412 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970178 lng:139.8922197 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:11.713 [INFO]:  mode:MISSION mission progress:None/None lat:35.797018 lng:139.89221899999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:11.860 [INFO]: False
+2023-08-31 16:03:12.15  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970184 lng:139.89221799999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:12.317 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970185 lng:139.8922175 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:12.619 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970184 lng:139.8922172 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:12.865 [INFO]: False
+2023-08-31 16:03:12.921 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970184 lng:139.892217 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:13.222 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970182 lng:139.89221709999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:13.524 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970177 lng:139.892217 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:13.825 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970172 lng:139.89221709999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:13.870 [INFO]: False
+2023-08-31 16:03:14.127 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970165 lng:139.8922172 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:14.429 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970158 lng:139.89221759999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:14.731 [INFO]:  mode:MISSION mission progress:None/None lat:35.797015099999996 lng:139.8922177 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:14.875 [INFO]: False
+2023-08-31 16:03:15.33  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970147 lng:139.8922177 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:15.335 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970144 lng:139.8922175 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:15.637 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970144 lng:139.8922175 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:15.879 [INFO]: False
+2023-08-31 16:03:15.938 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970141 lng:139.8922169 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:16.240 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970136 lng:139.8922159 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:16.542 [INFO]:  mode:MISSION mission progress:None/None lat:35.797013 lng:139.8922159 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:16.844 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970117 lng:139.89221659999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:16.885 [INFO]: False
+2023-08-31 16:03:17.146 [INFO]:  mode:MISSION mission progress:None/None lat:35.797011 lng:139.8922174 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:17.447 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970111 lng:139.8922177 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:17.750 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970109 lng:139.8922175 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:17.891 [INFO]: False
+2023-08-31 16:03:18.54  [INFO]:  mode:MISSION mission progress:None/None lat:35.797010199999995 lng:139.8922163 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:03:18.355 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970094 lng:139.89221519999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:18.658 [INFO]:  mode:MISSION mission progress:None/None lat:35.797008 lng:139.89221419999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:18.896 [INFO]: False
+2023-08-31 16:03:18.960 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970055 lng:139.89221229999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:19.262 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970018 lng:139.8922087 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:19.564 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970001 lng:139.8922069 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:19.866 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970012 lng:139.8922077 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:19.901 [INFO]: False
+2023-08-31 16:03:20.169 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970002 lng:139.8922077 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:20.470 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969967 lng:139.8922064 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:20.772 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969947 lng:139.8922063 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:20.906 [INFO]: False
+2023-08-31 16:03:21.74  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969923 lng:139.8922058 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:21.376 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969904 lng:139.8922057 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:21.677 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969888 lng:139.8922052 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:21.911 [INFO]: False
+2023-08-31 16:03:21.979 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969868 lng:139.8922049 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:22.280 [INFO]:  mode:MISSION mission progress:None/None lat:35.796985299999996 lng:139.89220459999999 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:22.582 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969863 lng:139.8922059 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:22.884 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969875 lng:139.8922069 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:22.915 [INFO]: False
+2023-08-31 16:03:23.186 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969879 lng:139.89220749999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:23.488 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969876 lng:139.8922077 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:23.791 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969868 lng:139.8922081 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:23.920 [INFO]: False
+2023-08-31 16:03:24.93  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969869 lng:139.89220849999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:24.395 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969874 lng:139.8922081 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:24.697 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969861 lng:139.8922073 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:24.925 [INFO]: False
+2023-08-31 16:03:24.999 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969851 lng:139.8922073 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:25.301 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969846 lng:139.89220659999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:25.602 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969845 lng:139.89220559999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:25.904 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969844 lng:139.8922045 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:25.932 [INFO]: False
+2023-08-31 16:03:26.206 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969844 lng:139.8922035 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:26.508 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969839 lng:139.89220219999999 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:26.809 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969836 lng:139.8922014 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:26.938 [INFO]: False
+2023-08-31 16:03:27.111 [INFO]:  mode:MISSION mission progress:None/None lat:35.796983 lng:139.892201 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:27.414 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.8921998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:27.716 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.8921988 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:27.944 [INFO]: False
+2023-08-31 16:03:28.20  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.8921988 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:28.324 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969831 lng:139.89219939999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:28.627 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969836 lng:139.89219939999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:28.930 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969831 lng:139.8921987 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:28.951 [INFO]: False
+2023-08-31 16:03:29.231 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969827 lng:139.89219839999998 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:03:29.533 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982 lng:139.892198 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:29.835 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.8921976 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:29.956 [INFO]: False
+2023-08-31 16:03:30.136 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.8921973 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:30.439 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921969 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:30.740 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969795 lng:139.8921967 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:30.960 [INFO]: False
+2023-08-31 16:03:31.42  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921968 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:31.344 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969776 lng:139.8921972 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:31.645 [INFO]:  mode:MISSION mission progress:None/None lat:35.796976799999996 lng:139.8921974 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:31.947 [INFO]:  mode:MISSION mission progress:None/None lat:35.796975599999996 lng:139.892198 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:31.965 [INFO]: False
+2023-08-31 16:03:32.249 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969752 lng:139.8921985 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:32.551 [INFO]:  mode:MISSION mission progress:None/None lat:35.796973 lng:139.8921993 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:32.853 [INFO]:  mode:MISSION mission progress:None/None lat:35.796966499999996 lng:139.89220129999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:32.970 [INFO]: False
+2023-08-31 16:03:33.155 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969565 lng:139.8922049 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:33.457 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969443 lng:139.8922105 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:33.760 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969315 lng:139.89221759999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:33.976 [INFO]: False
+2023-08-31 16:03:34.62  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969207 lng:139.8922254 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:34.365 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969064 lng:139.892237 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:34.667 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968867 lng:139.8922526 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:03:34.969 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968651 lng:139.89227 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:03:34.981 [INFO]: False
+2023-08-31 16:03:35.272 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968445 lng:139.8922843 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:03:35.574 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968213 lng:139.8922958 lidar:0.07000000029802322m battery:NoneV, None%
+2023-08-31 16:03:35.877 [INFO]:  mode:MISSION mission progress:None/None lat:35.7967982 lng:139.89230759999998 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:03:35.987 [INFO]: False
+2023-08-31 16:03:36.180 [INFO]:  mode:MISSION mission progress:None/None lat:35.796773099999996 lng:139.8923216 lidar:0.2199999988079071m battery:NoneV, None%
+2023-08-31 16:03:36.483 [INFO]:  mode:MISSION mission progress:None/None lat:35.7967467 lng:139.8923369 lidar:0.1899999976158142m battery:NoneV, None%
+2023-08-31 16:03:36.786 [INFO]:  mode:MISSION mission progress:None/None lat:35.7967181 lng:139.8923532 lidar:0.08999999612569809m battery:NoneV, None%
+2023-08-31 16:03:36.993 [INFO]: False
+2023-08-31 16:03:37.90  [INFO]:  mode:MISSION mission progress:None/None lat:35.796685599999996 lng:139.8923691 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:03:37.392 [INFO]:  mode:MISSION mission progress:None/None lat:35.796648999999995 lng:139.89238469999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:37.694 [INFO]:  mode:MISSION mission progress:None/None lat:35.7966091 lng:139.8923992 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:37.997 [INFO]:  mode:MISSION mission progress:None/None lat:35.7965654 lng:139.8924136 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:38.0   [INFO]: False
+2023-08-31 16:03:38.301 [INFO]:  mode:MISSION mission progress:None/None lat:35.7965216 lng:139.89242579999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:38.602 [INFO]:  mode:MISSION mission progress:None/None lat:35.796475699999995 lng:139.8924389 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:38.904 [INFO]:  mode:MISSION mission progress:None/None lat:35.796427699999995 lng:139.89245069999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:39.5   [INFO]: False
+2023-08-31 16:03:39.206 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:39.508 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:39.810 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:40.10  [INFO]: False
+2023-08-31 16:03:40.112 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:40.414 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:40.716 [INFO]:  mode:MISSION mission progress:None/None lat:35.796409 lng:139.8924553 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:41.14  [INFO]: False
+2023-08-31 16:03:41.18  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969629 lng:139.89220029999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:41.319 [INFO]:  mode:MISSION mission progress:None/None lat:35.796974899999995 lng:139.8921954 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:41.621 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.8921944 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:41.922 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969793 lng:139.8921948 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:42.20  [INFO]: False
+2023-08-31 16:03:42.224 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969783 lng:139.8921958 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:42.525 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969771 lng:139.89219699999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:42.828 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969754 lng:139.8921983 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:43.26  [INFO]: False
+2023-08-31 16:03:43.130 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969728 lng:139.8922001 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:43.432 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969678 lng:139.89220319999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:43.734 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969613 lng:139.8922072 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:44.31  [INFO]: False
+2023-08-31 16:03:44.36  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969534 lng:139.8922121 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:44.337 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969456 lng:139.8922169 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:44.639 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969371 lng:139.8922221 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:44.941 [INFO]:  mode:MISSION mission progress:None/None lat:35.796929399999996 lng:139.89222669999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:45.39  [INFO]: False
+2023-08-31 16:03:45.243 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969222 lng:139.8922311 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:45.545 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969164 lng:139.8922347 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:45.846 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969109 lng:139.8922381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:46.44  [INFO]: False
+2023-08-31 16:03:46.149 [INFO]:  mode:MISSION mission progress:None/None lat:35.796898899999995 lng:139.8922452 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:46.451 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968814 lng:139.8922552 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:46.752 [INFO]:  mode:MISSION mission progress:None/None lat:35.7968614 lng:139.8922663 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:47.50  [INFO]: False
+2023-08-31 16:03:47.54  [INFO]:  mode:MISSION mission progress:None/None lat:35.7968383 lng:139.8922785 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:47.356 [INFO]:  mode:MISSION mission progress:None/None lat:35.796814 lng:139.8922909 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:47.660 [INFO]:  mode:MISSION mission progress:None/None lat:35.796787699999996 lng:139.8923038 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:47.961 [INFO]:  mode:MISSION mission progress:None/None lat:35.7967587 lng:139.8923174 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:48.55  [INFO]: False
+2023-08-31 16:03:48.263 [INFO]:  mode:MISSION mission progress:None/None lat:35.7967286 lng:139.89233099999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:48.565 [INFO]:  mode:MISSION mission progress:None/None lat:35.7966839 lng:139.8923503 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:48.867 [INFO]:  mode:MISSION mission progress:None/None lat:35.796649099999996 lng:139.8923644 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:49.59  [INFO]: False
+2023-08-31 16:03:49.168 [INFO]:  mode:MISSION mission progress:None/None lat:35.796612499999995 lng:139.8923787 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:49.470 [INFO]:  mode:MISSION mission progress:None/None lat:35.7965734 lng:139.8923927 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:49.772 [INFO]:  mode:MISSION mission progress:None/None lat:35.7965357 lng:139.8924069 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:50.65  [INFO]: False
+2023-08-31 16:03:50.74  [INFO]:  mode:MISSION mission progress:None/None lat:35.7965004 lng:139.8924252 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:50.375 [INFO]:  mode:MISSION mission progress:None/None lat:35.7964668 lng:139.8924473 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:50.677 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:50.979 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:51.70  [INFO]: False
+2023-08-31 16:03:51.281 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:51.583 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:51.885 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:52.75  [INFO]: False
+2023-08-31 16:03:52.188 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:52.490 [INFO]:  mode:MISSION mission progress:None/None lat:35.796445 lng:139.89246359999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:52.791 [INFO]:  mode:MISSION mission progress:None/None lat:35.79697 lng:139.8922134 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:53.79  [INFO]: False
+2023-08-31 16:03:53.95  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969754 lng:139.89220129999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:53.396 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969772 lng:139.8921981 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:53.697 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969777 lng:139.8921978 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:53.999 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969778 lng:139.892199 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:54.84  [INFO]: False
+2023-08-31 16:03:54.300 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969783 lng:139.8922 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:54.602 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.8922014 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:54.904 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8922058 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:55.89  [INFO]: False
+2023-08-31 16:03:55.206 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.89221329999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:55.508 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969842 lng:139.89222329999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:55.810 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969886 lng:139.89223619999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:56.93  [INFO]: False
+2023-08-31 16:03:56.112 [INFO]:  mode:MISSION mission progress:None/None lat:35.796993799999996 lng:139.8922495 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:56.414 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969996 lng:139.8922649 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:56.716 [INFO]:  mode:MISSION mission progress:None/None lat:35.797004 lng:139.8922771 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:57.18  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970074 lng:139.8922886 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:57.98  [INFO]: False
+2023-08-31 16:03:57.320 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970128 lng:139.8923101 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:57.623 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970198 lng:139.8923405 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:57.924 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970269 lng:139.8923772 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:58.103 [INFO]: False
+2023-08-31 16:03:58.227 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970331 lng:139.8924168 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:58.530 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970377 lng:139.8924586 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:58.833 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970404 lng:139.8925033 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:03:59.109 [INFO]: False
+2023-08-31 16:03:59.135 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970402 lng:139.89254689999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:59.436 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970373 lng:139.89259099999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:03:59.739 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970298 lng:139.8926337 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:00.41  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970182 lng:139.8926721 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:00.114 [INFO]: False
+2023-08-31 16:04:00.345 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970006 lng:139.8927051 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:00.647 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8927353 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:00.951 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969554 lng:139.8927606 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:01.119 [INFO]: False
+2023-08-31 16:04:01.254 [INFO]:  mode:MISSION mission progress:None/None lat:35.796924499999996 lng:139.89280399999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:01.555 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969029 lng:139.8928434 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:01.857 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:02.126 [INFO]: False
+2023-08-31 16:04:02.159 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:02.462 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:02.764 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:03.66  [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:03.131 [INFO]: False
+2023-08-31 16:04:03.369 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:03.671 [INFO]:  mode:MISSION mission progress:None/None lat:35.796888599999996 lng:139.8928695 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:03.973 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969645 lng:139.8922033 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:04.137 [INFO]: False
+2023-08-31 16:04:04.275 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969685 lng:139.89218599999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:04.577 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969698 lng:139.8921815 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:04.879 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969699 lng:139.8921822 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:05.142 [INFO]: False
+2023-08-31 16:04:05.184 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969694 lng:139.8921846 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:05.485 [INFO]:  mode:MISSION mission progress:None/None lat:35.796969 lng:139.89218689999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:05.788 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969684 lng:139.89218929999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:06.90  [INFO]:  mode:MISSION mission progress:None/None lat:35.796968199999995 lng:139.892191 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:06.149 [INFO]: False
+2023-08-31 16:04:06.392 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969681 lng:139.8921926 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:06.694 [INFO]:  mode:MISSION mission progress:None/None lat:35.796968299999996 lng:139.8921937 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:06.996 [INFO]:  mode:MISSION mission progress:None/None lat:35.796968199999995 lng:139.892195 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:07.155 [INFO]: False
+2023-08-31 16:04:07.299 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969666 lng:139.8921992 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:07.601 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969637 lng:139.8922063 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:07.903 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969607 lng:139.8922144 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:08.160 [INFO]: False
+2023-08-31 16:04:08.205 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969575 lng:139.8922237 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:08.507 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969547 lng:139.892233 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:08.809 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969521 lng:139.8922422 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:09.111 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969504 lng:139.89224919999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:09.165 [INFO]: False
+2023-08-31 16:04:09.414 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969487 lng:139.89225629999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:09.716 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969481 lng:139.8922601 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:10.19  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969478 lng:139.89226349999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:10.170 [INFO]: False
+2023-08-31 16:04:10.326 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969486 lng:139.89226399999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:10.627 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969497 lng:139.8922647 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:10.929 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969521 lng:139.8922629 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:11.175 [INFO]: False
+2023-08-31 16:04:11.231 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969545 lng:139.8922623 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:11.533 [INFO]:  mode:MISSION mission progress:None/None lat:35.796958 lng:139.89225919999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:11.835 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969613 lng:139.8922581 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:12.137 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969649 lng:139.8922558 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:12.179 [INFO]: False
+2023-08-31 16:04:12.440 [INFO]:  mode:MISSION mission progress:None/None lat:35.796968199999995 lng:139.8922557 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:12.743 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969717 lng:139.8922536 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:13.46  [INFO]:  mode:MISSION mission progress:None/None lat:35.796974899999995 lng:139.8922542 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:13.185 [INFO]: False
+2023-08-31 16:04:13.349 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969781 lng:139.89225349999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:13.653 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.8922541 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:13.955 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969845 lng:139.8922562 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:14.190 [INFO]: False
+2023-08-31 16:04:14.257 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969866 lng:139.89225639999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:14.560 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969894 lng:139.8922655 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:14.862 [INFO]:  mode:MISSION mission progress:None/None lat:35.796993 lng:139.8922829 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:15.165 [INFO]:  mode:MISSION mission progress:None/None lat:35.796996899999996 lng:139.8923048 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:15.196 [INFO]: False
+2023-08-31 16:04:15.467 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970014 lng:139.89233049999999 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:15.769 [INFO]:  mode:MISSION mission progress:None/None lat:35.797005999999996 lng:139.8923579 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:16.71  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970107 lng:139.8923874 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:16.201 [INFO]: False
+2023-08-31 16:04:16.373 [INFO]:  mode:MISSION mission progress:None/None lat:35.797015699999996 lng:139.8924202 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:16.674 [INFO]:  mode:MISSION mission progress:None/None lat:35.797020499999995 lng:139.8924543 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:16.977 [INFO]:  mode:MISSION mission progress:None/None lat:35.797025399999995 lng:139.8924921 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:17.206 [INFO]: False
+2023-08-31 16:04:17.279 [INFO]:  mode:MISSION mission progress:None/None lat:35.797029699999996 lng:139.8925313 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:17.580 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970336 lng:139.892573 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:17.882 [INFO]:  mode:MISSION mission progress:None/None lat:35.797036899999995 lng:139.8926185 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:18.184 [INFO]:  mode:MISSION mission progress:None/None lat:35.797039399999996 lng:139.89266519999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:18.210 [INFO]: False
+2023-08-31 16:04:18.486 [INFO]:  mode:MISSION mission progress:None/None lat:35.797041199999995 lng:139.89271549999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:18.789 [INFO]:  mode:MISSION mission progress:None/None lat:35.797041899999996 lng:139.8927666 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:19.90  [INFO]:  mode:MISSION mission progress:None/None lat:35.7970417 lng:139.8928197 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:19.215 [INFO]: False
+2023-08-31 16:04:19.392 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:19.694 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:19.996 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:20.221 [INFO]: False
+2023-08-31 16:04:20.298 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:20.601 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:20.903 [INFO]:  mode:MISSION mission progress:None/None lat:35.7970414 lng:139.8928381 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:21.205 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969751 lng:139.89222669999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:21.227 [INFO]: False
+2023-08-31 16:04:21.507 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969767 lng:139.89220659999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:21.809 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969766 lng:139.8922001 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:22.111 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969758 lng:139.89219939999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:22.232 [INFO]: False
+2023-08-31 16:04:22.413 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969745 lng:139.8922006 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:22.715 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969734 lng:139.892202 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:23.16  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969721 lng:139.89220369999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:23.237 [INFO]: False
+2023-08-31 16:04:23.318 [INFO]:  mode:MISSION mission progress:None/None lat:35.796968899999996 lng:139.89220799999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:23.619 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969636 lng:139.8922148 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:23.922 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969578 lng:139.8922221 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:24.224 [INFO]:  mode:MISSION mission progress:None/None lat:35.796951299999996 lng:139.8922302 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:24.242 [INFO]: False
+2023-08-31 16:04:24.526 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969455 lng:139.89223719999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:24.828 [INFO]:  mode:MISSION mission progress:None/None lat:35.79694 lng:139.8922435 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:25.130 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969358 lng:139.89224819999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:25.249 [INFO]: False
+2023-08-31 16:04:25.433 [INFO]:  mode:MISSION mission progress:None/None lat:35.796932399999996 lng:139.8922518 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:25.735 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969309 lng:139.8922528 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:26.38  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969301 lng:139.8922532 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:26.253 [INFO]: False
+2023-08-31 16:04:26.340 [INFO]:  mode:MISSION mission progress:None/None lat:35.796934799999995 lng:139.892247 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:26.641 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969406 lng:139.8922399 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:26.943 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969471 lng:139.89223289999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:27.246 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969533 lng:139.8922258 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:27.258 [INFO]: False
+2023-08-31 16:04:27.547 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969614 lng:139.8922154 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:27.849 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969681 lng:139.89220659999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:28.151 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969735 lng:139.8921993 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:28.264 [INFO]: False
+2023-08-31 16:04:28.453 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.8921949 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:28.755 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969779 lng:139.8921921 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:29.56  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969783 lng:139.892191 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:29.269 [INFO]: False
+2023-08-31 16:04:29.357 [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.8921907 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:29.659 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969785 lng:139.8921909 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:29.963 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921909 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:30.265 [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.892191 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:30.275 [INFO]: False
+2023-08-31 16:04:30.567 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921907 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:30.871 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979199999996 lng:139.8921904 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:31.174 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969796 lng:139.8921901 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:31.280 [INFO]: False
+2023-08-31 16:04:31.476 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8921901 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:31.778 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.89219 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:32.80  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89219 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:32.287 [INFO]: False
+2023-08-31 16:04:32.383 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921901 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:32.685 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969813 lng:139.8921902 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:32.987 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.89219029999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:33.289 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969818 lng:139.8921902 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:33.293 [INFO]: False
+2023-08-31 16:04:33.591 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969821 lng:139.8921902 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:33.894 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982299999996 lng:139.8921902 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:34.195 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.89219 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:34.297 [INFO]: False
+2023-08-31 16:04:34.497 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969826 lng:139.8921895 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:34.800 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969827 lng:139.8921887 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:35.102 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969827 lng:139.89218789999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:35.303 [INFO]: False
+2023-08-31 16:04:35.403 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969827 lng:139.8921871 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:35.706 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.8921868 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:36.7   [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.89218649999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:36.308 [INFO]: False
+2023-08-31 16:04:36.309 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982299999996 lng:139.8921873 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:36.611 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969821 lng:139.89218839999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:36.912 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.8921896 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:37.214 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.8921905 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:37.313 [INFO]: False
+2023-08-31 16:04:37.516 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.8921913 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:37.818 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.89219169999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:38.120 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.8921921 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:38.318 [INFO]: False
+2023-08-31 16:04:38.424 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.89219219999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:38.726 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.8921923 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:39.28  [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.8921923 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:39.324 [INFO]: False
+2023-08-31 16:04:39.330 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.8921923 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:39.632 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981699999996 lng:139.8921923 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:39.934 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.8921924 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:40.236 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969821 lng:139.8921924 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:40.329 [INFO]: False
+2023-08-31 16:04:40.538 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982299999996 lng:139.8921923 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:40.840 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.8921921 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:41.143 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982799999995 lng:139.892192 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:41.333 [INFO]: False
+2023-08-31 16:04:41.448 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969831 lng:139.8921918 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:41.750 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969833 lng:139.89219169999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:42.51  [INFO]:  mode:MISSION mission progress:None/None lat:35.796983499999996 lng:139.8921916 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:42.339 [INFO]: False
+2023-08-31 16:04:42.353 [INFO]:  mode:MISSION mission progress:None/None lat:35.796983499999996 lng:139.8921915 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:42.656 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969836 lng:139.8921915 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:42.958 [INFO]:  mode:MISSION mission progress:None/None lat:35.796983499999996 lng:139.8921914 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:43.260 [INFO]:  mode:MISSION mission progress:None/None lat:35.796983399999995 lng:139.8921913 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:43.344 [INFO]: False
+2023-08-31 16:04:43.563 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969831 lng:139.89219119999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:43.865 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982899999996 lng:139.89219119999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:44.167 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982799999995 lng:139.8921911 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:44.350 [INFO]: False
+2023-08-31 16:04:44.470 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969826 lng:139.892191 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:44.772 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.892191 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:45.75  [INFO]:  mode:MISSION mission progress:None/None lat:35.796982299999996 lng:139.89219079999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:45.354 [INFO]: False
+2023-08-31 16:04:45.378 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982199999995 lng:139.8921907 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:45.680 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982 lng:139.8921905 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:45.982 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.8921904 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:46.285 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969818 lng:139.8921902 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:46.359 [INFO]: False
+2023-08-31 16:04:46.590 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981699999996 lng:139.8921901 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:46.893 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.8921899 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:47.194 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.8921897 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:47.364 [INFO]: False
+2023-08-31 16:04:47.496 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.8921894 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:47.798 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.89218929999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:48.100 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969813 lng:139.892189 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:48.370 [INFO]: False
+2023-08-31 16:04:48.402 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.8921889 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:48.704 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980999999995 lng:139.8921887 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:49.5   [INFO]:  mode:MISSION mission progress:None/None lat:35.796980999999995 lng:139.8921886 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:49.307 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.89218839999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:49.375 [INFO]: False
+2023-08-31 16:04:49.609 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.8921883 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:49.911 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.8921883 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:50.212 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.8921882 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:50.381 [INFO]: False
+2023-08-31 16:04:50.515 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969807 lng:139.8921881 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:50.817 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969807 lng:139.8921881 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:51.119 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89218789999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:51.386 [INFO]: False
+2023-08-31 16:04:51.422 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.8921877 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:51.724 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969805 lng:139.8921876 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:52.26  [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.89218739999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:52.329 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921873 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:04:52.391 [INFO]: False
+2023-08-31 16:04:52.631 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921872 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:52.933 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921872 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:53.234 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921871 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:53.397 [INFO]: False
+2023-08-31 16:04:53.536 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921871 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:53.838 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.892187 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:54.140 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.892187 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:54.403 [INFO]: False
+2023-08-31 16:04:54.443 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.89218689999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:54.745 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921868 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:55.47  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921868 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:55.349 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921868 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:55.408 [INFO]: False
+2023-08-31 16:04:55.652 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8921868 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:55.954 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.89218649999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:56.257 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8921862 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:56.412 [INFO]: False
+2023-08-31 16:04:56.559 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979799999995 lng:139.89218599999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:56.862 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969797 lng:139.8921857 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:57.164 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969796 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:57.418 [INFO]: False
+2023-08-31 16:04:57.466 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969795 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:57.768 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969794 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:58.70  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.8921858 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:58.371 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:04:58.423 [INFO]: False
+2023-08-31 16:04:58.673 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921857 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:58.975 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921858 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:59.276 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:04:59.428 [INFO]: False
+2023-08-31 16:04:59.578 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:04:59.880 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:00.183 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:00.433 [INFO]: False
+2023-08-31 16:05:00.485 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921858 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:00.788 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921859 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:01.89  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.89218599999998 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:01.392 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.89218599999998 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:01.437 [INFO]: False
+2023-08-31 16:05:01.694 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.89218599999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:01.998 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.89218599999998 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:02.301 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921859 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:02.444 [INFO]: False
+2023-08-31 16:05:02.603 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921858 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:02.905 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921858 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:03.208 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:03.449 [INFO]: False
+2023-08-31 16:05:03.511 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:03.814 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:04.116 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:04.420 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:04.455 [INFO]: False
+2023-08-31 16:05:04.723 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921857 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:05.26  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:05.330 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:05.461 [INFO]: False
+2023-08-31 16:05:05.632 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:05.934 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:06.237 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:06.467 [INFO]: False
+2023-08-31 16:05:06.541 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:06.842 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921856 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:07.144 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:07.447 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:07.473 [INFO]: False
+2023-08-31 16:05:07.750 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.8921856 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:08.52  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.89218499999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:08.355 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.8921839 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:08.479 [INFO]: False
+2023-08-31 16:05:08.657 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979199999996 lng:139.892183 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:08.960 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969794 lng:139.8921824 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:09.263 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969795 lng:139.8921814 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:09.484 [INFO]: False
+2023-08-31 16:05:09.565 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969797 lng:139.8921808 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:09.868 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921799 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:05:10.170 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.892179 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:05:10.474 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.89217929999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:10.489 [INFO]: False
+2023-08-31 16:05:10.777 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.8921794 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:11.81  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969818 lng:139.8921809 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:11.383 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982 lng:139.89218259999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:11.494 [INFO]: False
+2023-08-31 16:05:11.686 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982299999996 lng:139.8921844 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:11.988 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.8921854 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:12.291 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.8921862 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:12.501 [INFO]: False
+2023-08-31 16:05:12.594 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969825 lng:139.89218639999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:12.897 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969824 lng:139.89218649999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:13.200 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982199999995 lng:139.89218599999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:13.502 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982199999995 lng:139.8921863 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:13.507 [INFO]: False
+2023-08-31 16:05:13.805 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969821 lng:139.8921862 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:14.108 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969821 lng:139.8921867 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:14.410 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982 lng:139.8921868 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:14.513 [INFO]: False
+2023-08-31 16:05:14.713 [INFO]:  mode:MISSION mission progress:None/None lat:35.796982 lng:139.8921873 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:15.15  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969818 lng:139.8921875 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:15.317 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969819 lng:139.892188 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:15.518 [INFO]: False
+2023-08-31 16:05:15.619 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969818 lng:139.8921881 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:15.921 [INFO]:  mode:MISSION mission progress:None/None lat:35.796981599999995 lng:139.89218839999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:16.224 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.8921886 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:16.523 [INFO]: False
+2023-08-31 16:05:16.526 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969815 lng:139.892189 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:16.829 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.892189 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:17.131 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969814 lng:139.8921894 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:17.434 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969813 lng:139.8921895 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:17.529 [INFO]: False
+2023-08-31 16:05:17.736 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969813 lng:139.8921899 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:18.39  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.8921901 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:18.342 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.8921905 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:18.536 [INFO]: False
+2023-08-31 16:05:18.644 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969812 lng:139.89219029999998 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:05:18.947 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921894 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:19.249 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969805 lng:139.8921889 lidar:0.03999999910593033m battery:NoneV, None%
+2023-08-31 16:05:19.542 [INFO]: False
+2023-08-31 16:05:19.551 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.8921886 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:19.853 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8921883 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:20.155 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8921887 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:20.457 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921887 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:20.548 [INFO]: False
+2023-08-31 16:05:20.759 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.89218879999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:21.62  [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921891 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:21.365 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969797 lng:139.89218929999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:21.554 [INFO]: False
+2023-08-31 16:05:21.668 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969797 lng:139.89219 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:21.971 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969799 lng:139.8921905 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:22.273 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8921911 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:22.560 [INFO]: False
+2023-08-31 16:05:22.577 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921915 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:22.879 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.892192 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:23.182 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.89219219999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:23.485 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89219269999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:23.565 [INFO]: False
+2023-08-31 16:05:23.786 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969807 lng:139.892193 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:24.88  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.89219359999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:24.390 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969808 lng:139.8921939 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:24.571 [INFO]: False
+2023-08-31 16:05:24.691 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921945 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:24.993 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921948 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:25.295 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980999999995 lng:139.8921953 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:25.575 [INFO]: False
+2023-08-31 16:05:25.597 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.89219559999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:25.898 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921961 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:26.200 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980999999995 lng:139.8921961 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:05:26.501 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980999999995 lng:139.8921961 lidar:0.029999999329447746m battery:NoneV, None%
+2023-08-31 16:05:26.580 [INFO]: False
+2023-08-31 16:05:26.803 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969809 lng:139.8921962 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:27.104 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89219649999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:27.406 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969807 lng:139.8921973 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:27.585 [INFO]: False
+2023-08-31 16:05:27.708 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89219789999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:28.9   [INFO]:  mode:MISSION mission progress:None/None lat:35.7969806 lng:139.89219839999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:28.310 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969805 lng:139.8921987 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:28.589 [INFO]: False
+2023-08-31 16:05:28.612 [INFO]:  mode:MISSION mission progress:None/None lat:35.796980399999995 lng:139.8921988 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:28.914 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.89219889999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:29.216 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.892199 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:29.518 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.892199 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:29.593 [INFO]: False
+2023-08-31 16:05:29.820 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.89219889999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:30.123 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.892199 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:30.425 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969803 lng:139.892199 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:30.599 [INFO]: False
+2023-08-31 16:05:30.729 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921991 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:31.32  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921992 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:31.335 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921993 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:31.604 [INFO]: False
+2023-08-31 16:05:31.637 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969802 lng:139.8921995 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:31.940 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.8921998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:32.242 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8921998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:32.544 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8921996 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:32.609 [INFO]: False
+2023-08-31 16:05:32.848 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969801 lng:139.8921995 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:33.150 [INFO]:  mode:MISSION mission progress:None/None lat:35.79698 lng:139.89219939999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:33.451 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979799999995 lng:139.8921993 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:33.616 [INFO]: False
+2023-08-31 16:05:33.755 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969794 lng:139.8921995 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:34.57  [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.8922001 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:34.359 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969779 lng:139.8922006 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:34.620 [INFO]: False
+2023-08-31 16:05:34.661 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969773 lng:139.8922011 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:34.963 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969766 lng:139.8922015 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:35.264 [INFO]:  mode:MISSION mission progress:None/None lat:35.796976099999995 lng:139.892202 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:35.566 [INFO]:  mode:MISSION mission progress:None/None lat:35.796975599999996 lng:139.89220229999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:35.624 [INFO]: False
+2023-08-31 16:05:35.868 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969753 lng:139.89220269999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:36.171 [INFO]:  mode:MISSION mission progress:None/None lat:35.796974999999996 lng:139.892203 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:36.473 [INFO]:  mode:MISSION mission progress:None/None lat:35.796974899999995 lng:139.89220319999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:36.629 [INFO]: False
+2023-08-31 16:05:36.775 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969747 lng:139.8922031 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:37.77  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969747 lng:139.8922031 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:37.379 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969746 lng:139.8922031 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:37.634 [INFO]: False
+2023-08-31 16:05:37.681 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969747 lng:139.8922029 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:37.983 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969746 lng:139.8922029 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:38.285 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969748 lng:139.8922029 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:38.587 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969748 lng:139.8922029 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:38.640 [INFO]: False
+2023-08-31 16:05:38.889 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969751 lng:139.892203 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:39.191 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969752 lng:139.8922031 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:39.493 [INFO]:  mode:MISSION mission progress:None/None lat:35.796975599999996 lng:139.8922028 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:39.645 [INFO]: False
+2023-08-31 16:05:39.794 [INFO]:  mode:MISSION mission progress:None/None lat:35.796975599999996 lng:139.8922029 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:40.97  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969754 lng:139.8922034 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:40.399 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969752 lng:139.892204 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:40.650 [INFO]: False
+2023-08-31 16:05:40.700 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969748 lng:139.8922049 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:41.2   [INFO]:  mode:MISSION mission progress:None/None lat:35.7969748 lng:139.8922057 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:41.303 [INFO]:  mode:MISSION mission progress:None/None lat:35.796975599999996 lng:139.8922057 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:41.605 [INFO]:  mode:MISSION mission progress:None/None lat:35.796976099999995 lng:139.8922059 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:41.653 [INFO]: False
+2023-08-31 16:05:41.907 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969766 lng:139.892206 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:42.209 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969769 lng:139.892206 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:42.511 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969773 lng:139.8922055 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:42.658 [INFO]: False
+2023-08-31 16:05:42.813 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969776 lng:139.89220509999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:43.116 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969779 lng:139.8922044 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:43.418 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969782 lng:139.8922039 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:43.666 [INFO]: False
+2023-08-31 16:05:43.720 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969784 lng:139.8922033 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:44.22  [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.8922028 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:44.325 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.89220229999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:44.627 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.89220179999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:44.670 [INFO]: False
+2023-08-31 16:05:44.929 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.89220129999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:45.231 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.8922011 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:45.533 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8922012 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:45.674 [INFO]: False
+2023-08-31 16:05:45.835 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969787 lng:139.8922012 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:46.138 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969785 lng:139.8922011 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:46.440 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969785 lng:139.8922011 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:46.680 [INFO]: False
+2023-08-31 16:05:46.742 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969784 lng:139.8922012 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:47.44  [INFO]:  mode:MISSION mission progress:None/None lat:35.796977999999996 lng:139.8922005 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:47.346 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969776 lng:139.8921993 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:47.647 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969773 lng:139.8921977 lidar:0.019999999552965164m battery:NoneV, None%
+2023-08-31 16:05:47.685 [INFO]: False
+2023-08-31 16:05:47.949 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969776 lng:139.8921953 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:48.251 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969779 lng:139.8921921 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:48.553 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969782 lng:139.89218879999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:48.692 [INFO]: False
+2023-08-31 16:05:48.854 [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.8921862 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:49.157 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969788 lng:139.8921875 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:49.459 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8921907 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:49.697 [INFO]: False
+2023-08-31 16:05:49.760 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.8921943 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:50.62  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969793 lng:139.89219749999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:50.365 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979199999996 lng:139.8921997 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:50.667 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969791 lng:139.8922014 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:50.701 [INFO]: False
+2023-08-31 16:05:50.970 [INFO]:  mode:MISSION mission progress:None/None lat:35.796979 lng:139.89220219999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:51.271 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969789 lng:139.8922028 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:51.575 [INFO]:  mode:MISSION mission progress:None/None lat:35.796978599999996 lng:139.8922028 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:51.706 [INFO]: False
+2023-08-31 16:05:51.877 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969785 lng:139.8922028 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:52.179 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969782 lng:139.8922026 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:52.481 [INFO]:  mode:MISSION mission progress:None/None lat:35.796977999999996 lng:139.8922025 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:52.711 [INFO]: False
+2023-08-31 16:05:52.784 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969777 lng:139.89220229999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:53.85  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969775 lng:139.89220219999999 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:53.387 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969773 lng:139.8922019 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:53.689 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969771 lng:139.8922017 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:53.721 [INFO]: False
+2023-08-31 16:05:53.992 [INFO]:  mode:MISSION mission progress:None/None lat:35.796976799999996 lng:139.8922014 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:54.294 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969766 lng:139.89220129999998 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:54.596 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969765 lng:139.8922011 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:54.726 [INFO]: False
+2023-08-31 16:05:54.898 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969765 lng:139.8922009 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:55.199 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.8922006 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:55.501 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.8922005 lidar:0.0m battery:NoneV, None%
+2023-08-31 16:05:55.730 [INFO]: False
+2023-08-31 16:05:55.803 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.8922004 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:56.104 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.89220029999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:56.406 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969764 lng:139.8922 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:56.707 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969765 lng:139.8922001 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:56.735 [INFO]: False
+2023-08-31 16:05:57.10  [INFO]:  mode:MISSION mission progress:None/None lat:35.7969767 lng:139.89220029999998 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:57.311 [INFO]:  mode:MISSION mission progress:None/None lat:35.796976799999996 lng:139.8922005 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:57.612 [INFO]:  mode:MISSION mission progress:None/None lat:35.7969769 lng:139.8922005 lidar:0.009999999776482582m battery:NoneV, None%
+2023-08-31 16:05:57.740 [INFO]: False

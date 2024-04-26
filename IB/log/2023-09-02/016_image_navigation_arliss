@@ -1,0 +1,13 @@
+2023-09-02 18:44:55.734 [INFO]: Lora initialized
+2023-09-02 18:44:55.736 [INFO]: Pixhawk initialized
+2023-09-02 18:44:55.737 [INFO]: Waiting for drone to connect...
+2023-09-02 18:44:58.504 [INFO]: Drone connected!
+2023-09-02 18:44:58.546 [INFO]: Uploading mission
+2023-09-02 18:44:59.675 [INFO]: Waiting for drone to have a global position estimate...
+2023-09-02 18:45:00.264 [INFO]: gps ok
+2023-09-02 18:45:01.240 [INFO]: gps ok
+2023-09-02 18:45:02.241 [INFO]: gps ok
+2023-09-02 18:45:02.241 [INFO]: Global position estimate OK
+2023-09-02 18:45:02.242 [INFO]: Arming
+2023-09-02 18:45:02.275 [INFO]: Armed!
+2023-09-02 18:45:02.276 [INFO]: Starting mission
