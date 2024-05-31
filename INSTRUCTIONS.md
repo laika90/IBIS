@@ -64,18 +64,22 @@ GOSがらみ全部
 logger.py  
 mapping.py  
 
-・
+・sensor_test
+unit_test_all.py
 
 
 ## `document`
-
+困ったらここの資料を全員読もう！
+めっちゃ綺麗にまとめてある！
+感動しました
 
 
 
 ## `Performance`
-
+logger_performance.pyはチェック
 
 ## `config`
-
+一旦スルーします！
 
 ## `loginibis.sh`
+一旦スルーします！
