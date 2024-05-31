@@ -53,6 +53,17 @@ fusefase.py
 logger.py  
 mapping.py  
 
+・lora_test
+全部
+
+・param_test  
+callibration.py  
+GOSがらみ全部
+
+・log_test  
+logger.py  
+mapping.py  
+
 ・
 
 
