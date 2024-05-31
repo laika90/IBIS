@@ -49,6 +49,10 @@ takeoff_and_land.py
 ・library_test  
 fusefase.py  
 
+・log_test  
+logger.py  
+mapping.py  
+
 
 ## `document`
 
