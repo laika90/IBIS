@@ -72,7 +72,10 @@ unit_test_all.py
 困ったらここの資料を全員読もう！
 めっちゃ綺麗にまとめてある！
 感動しました
-
+MAVSDK
+asyncio
+class
+communication
 
 
 ## `Performance`
