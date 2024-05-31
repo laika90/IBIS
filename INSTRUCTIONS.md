@@ -27,7 +27,7 @@ camera.py(白倉)
 light.py(白坂)
 logger_lib.py(田村)
 lora.py(熊谷)
-pixhawk.py(田村&白坂)←これだけめっちゃ多いので半分ずつ終わりそうになかったら白倉も手伝います
+pixhawk.py(田村&白坂)←これだけめっちゃ多いので半分ずつ終わりそうになかったら他のメンバーも手伝います
 
 
 
@@ -52,6 +52,8 @@ fusefase.py
 ・log_test  
 logger.py  
 mapping.py  
+
+・
 
 
 ## `document`
