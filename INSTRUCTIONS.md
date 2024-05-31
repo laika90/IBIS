@@ -70,13 +70,13 @@ unit_test_all.py
 
 ## `document`
 困ったらここの資料を全員読もう！
-めっちゃ綺麗にまとめてある！
-感動しました
-MAVSDK
-asyncio
-class
-communication
-
+めっちゃ綺麗にまとめてある！感動しました  
+特に  
+MAVSDK  
+asyncio  
+class  
+communication  
+は今週中に読もう!!  
 
 ## `Performance`
 logger_performance.pyはチェック
