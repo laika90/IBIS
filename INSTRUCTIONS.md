@@ -32,7 +32,7 @@ pixhawk.py(田村&白坂)←これだけめっちゃ多いので半分ずつ終�
 
 
 ## `unit_test`
- ・action_test
+ ・action_test  
 arm_test.py  
 arm_without_gps.py  
 arm_without_gps_with_log.py  
@@ -46,8 +46,8 @@ stored_judge.py
 takeoff_and_hovering.py  
 takeoff_and_land.py  
 
-・
-fusefase.py
+・library_test  
+fusefase.py  
 
 
 ## `document`
