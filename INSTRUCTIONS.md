@@ -1,11 +1,11 @@
 # IBIS
 このmdファイルに各ディレクトリの情報をまとめてもらえると嬉しいです。
 見てほしいpyファイル、担当名の順に書いているので自分の担当になってるところを書いてます(白倉)
-優先順位はLibrary→unit_test
+優先順位はLibrary→unit_testの順でコメントとリドミ編集してもらえると助かります
 
 書き方は
 [ファイル名](担当名)
-：ファイルの軽い説明
+：ファイルの軽い説明  
 となるようにお願いします。
 
 (例)
@@ -23,26 +23,31 @@ LED_test(白倉)
 
 
 ## `Library`
-camera.py(白坂)
+camera.py(白倉)
+light.py(白坂)
+logger_lib.py(田村)
+lora.py(熊谷)
+pixhawk.py(田村&白坂)←これだけめっちゃ多いので半分ずつ終わりそうになかったら白倉も手伝います
 
 
 
 ## `unit_test`
  ・action_test
-arm_test
-arm_without_gps
-arm_without_gps_with_log
-judge_takeoff
-lund_judge
-lund_judge_with_position
-image_navigation
-logger
-motor_test
-stored_judge
-takeoff_and_hovering
-takeoff_and_land
+arm_test.py
+arm_without_gps.py
+arm_without_gps_with_log.py
+judge_takeoff.py
+lund_judge.py
+lund_judge_with_position.py
+image_navigation.py
+logger.py
+motor_test.py
+stored_judge.py
+takeoff_and_hovering.py
+takeoff_and_land.py
 
 ・
+fusefase.py
 
 
 ## `document`
